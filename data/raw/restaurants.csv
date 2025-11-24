@@ -1,0 +1,1001 @@
+restaurant_id,name,cuisine,price_range,neighborhood,ambiance,description,rating,latitude,longitude
+rest_0000,Cafe Mexican Corner,Mexican,$,Tribeca,Trendy,Mexican restaurant in Tribeca with trendy atmosphere. $ price range.,4.4,40.77319939418114,-73.9401341515803
+rest_0001,The Indian Place,Indian,$,SoHo,Outdoor seating,Indian restaurant in SoHo with outdoor seating atmosphere. $ price range.,3.9,40.715601864044245,-73.98440054796637
+rest_0002,Dragon Garden,Chinese,$,Midtown,Romantic,Chinese restaurant in Midtown with romantic atmosphere. $ price range.,5.3,40.702058449429586,-73.9030090147838
+rest_0003,Kitchen Ethiopian Corner,Ethiopian,$$,Tribeca,Outdoor seating,Ethiopian restaurant in Tribeca with outdoor seating atmosphere. $$ price range.,4.6,40.78324426408004,-73.97876608893218
+rest_0004,Kitchen Brazilian Spot,Brazilian,$$$,Downtown,Family-friendly,Brazilian restaurant in Downtown with family-friendly atmosphere. $$$ price range.,3.6,40.73042422429595,-73.94752435683678
+rest_0005,The Mediterranean House,Mediterranean,$$,Queens,Cozy,Mediterranean restaurant in Queens with cozy atmosphere. $$ price range.,3.6,40.74319450186421,-73.97087708598019
+rest_0006,Bistro Spanish House,Spanish,$,Bronx,Cozy,Spanish restaurant in Bronx with cozy atmosphere. $ price range.,3.2,40.72921446485352,-73.96336381567063
+rest_0007,Bistro Brazilian Spot,Brazilian,$,Williamsburg,Fine Dining,Brazilian restaurant in Williamsburg with fine dining atmosphere. $ price range.,4.3,40.74560699842171,-73.92148240386071
+rest_0008,Bistro Thai House,Thai,$,Downtown,Romantic,Thai restaurant in Downtown with romantic atmosphere. $ price range.,4.1,40.7592414568862,-73.995354958728
+rest_0009,Kitchen Korean Spot,Korean,$,Williamsburg,Trendy,Korean restaurant in Williamsburg with trendy atmosphere. $ price range.,2.9,40.76075448519014,-73.98294758763127
+rest_0010,Bistro French House,French,$$$,Bronx,Romantic,French restaurant in Bronx with romantic atmosphere. $$$ price range.,3.5,40.768423302651215,-73.95598475062604
+rest_0011,Kitchen French Spot,French,$$,Brooklyn,Fast-casual,French restaurant in Brooklyn with fast-casual atmosphere. $$ price range.,3.8,40.71220382348448,-73.95048230898888
+rest_0012,The Ethiopian Corner,Ethiopian,$$,SoHo,Cozy,Ethiopian restaurant in SoHo with cozy atmosphere. $$ price range.,4.7,40.731171107608944,-73.94799319788223
+rest_0013,Golden Palace,Chinese,$$$,Williamsburg,Trendy,Chinese restaurant in Williamsburg with trendy atmosphere. $$$ price range.,3.0,40.75467102793433,-73.98151455444744
+rest_0014,Kitchen Vietnamese Place,Vietnamese,$$,SoHo,Fast-casual,Vietnamese restaurant in SoHo with fast-casual atmosphere. $$ price range.,4.6,40.7088492502052,-73.98040171375808
+rest_0015,Bistro Indian Place,Indian,$$$,Brooklyn,Romantic,Indian restaurant in Brooklyn with romantic atmosphere. $$$ price range.,4.1,40.70452272889106,-73.96746696692368
+rest_0016,Kitchen Spanish House,Spanish,$$$,Queens,Family-friendly,Spanish restaurant in Queens with family-friendly atmosphere. $$$ price range.,2.8,40.78287375091519,-73.96432466733064
+rest_0017,Imperial Garden,Chinese,$,Brooklyn,Family-friendly,Chinese restaurant in Brooklyn with family-friendly atmosphere. $ price range.,3.4,40.72809345096874,-73.94573039168418
+rest_0018,Bistro Spanish House,Spanish,$$$$,Chelsea,Fast-casual,Spanish restaurant in Chelsea with fast-casual atmosphere. $$$$ price range.,4.3,40.70745506436798,-73.90131130633995
+rest_0019,The Mexican Spot,Mexican,$$$,SoHo,Cozy,Mexican restaurant in SoHo with cozy atmosphere. $$$ price range.,3.7,40.77722447692967,-73.98012843184658
+rest_0020,Bistro German Corner,German,$$,Astoria,Casual,German restaurant in Astoria with casual atmosphere. $$ price range.,4.8,40.777127034668595,-73.99259553482659
+rest_0021,Cafe Turkish Corner,Turkish,$,SoHo,Trendy,Turkish restaurant in SoHo with trendy atmosphere. $ price range.,4.7,40.73584657285443,-73.98841309404749
+rest_0022,The Greek Spot,Greek,$$,Park Slope,Outdoor seating,Greek restaurant in Park Slope with outdoor seating atmosphere. $$ price range.,4.3,40.73308980248527,-73.9936441649714
+rest_0023,Bistro Lebanese Corner,Lebanese,$,Midtown,Cozy,Lebanese restaurant in Midtown with cozy atmosphere. $ price range.,4.8,40.73109823217157,-73.96748166779733
+rest_0024,Golden Kitchen,Chinese,$$,Chelsea,Fine Dining,Chinese restaurant in Chelsea with fine dining atmosphere. $$ price range.,4.7,40.78872127425763,-73.95277850748381
+rest_0025,Tokyo Garden,Japanese,$$,Brooklyn,Fast-casual,Japanese restaurant in Brooklyn with fast-casual atmosphere. $$ price range.,5.1,40.711959424593836,-73.92867552127771
+rest_0026,Cafe Turkish Spot,Turkish,$$$$,Queens,Outdoor seating,Turkish restaurant in Queens with outdoor seating atmosphere. $$$$ price range.,4.3,40.777096717995455,-73.95062044036356
+rest_0027,Kitchen Spanish House,Spanish,$$$,Astoria,Outdoor seating,Spanish restaurant in Astoria with outdoor seating atmosphere. $$$ price range.,5.2,40.7522732829382,-73.95724589816415
+rest_0028,The Korean Corner,Korean,$$,Midtown,Cozy,Korean restaurant in Midtown with cozy atmosphere. $$ price range.,4.1,40.73143559810763,-73.94914293088354
+rest_0029,Cafe Korean House,Korean,$,Midtown,Casual,Korean restaurant in Midtown with casual atmosphere. $ price range.,3.8,40.790756647392605,-73.97507077708511
+rest_0030,Dragon House,Chinese,$$$,Midtown,Outdoor seating,Chinese restaurant in Midtown with outdoor seating atmosphere. $$$ price range.,5.2,40.72287981654917,-73.99230200901712
+rest_0031,Kitchen Lebanese Corner,Lebanese,$$,Park Slope,Family-friendly,Lebanese restaurant in Park Slope with family-friendly atmosphere. $$ price range.,3.6,40.72897514529138,-73.9838778712746
+rest_0032,The Lebanese Place,Lebanese,$$$$,Queens,Fine Dining,Lebanese restaurant in Queens with fine dining atmosphere. $$$$ price range.,4.7,40.780367207689906,-73.9813429941114
+rest_0033,The Greek House,Greek,$$$$,Williamsburg,Fast-casual,Greek restaurant in Williamsburg with fast-casual atmosphere. $$$$ price range.,4.3,40.789255899848996,-73.94606577580844
+rest_0034,Golden Palace,Chinese,$$$$,Tribeca,Cozy,Chinese restaurant in Tribeca with cozy atmosphere. $$$$ price range.,3.4,40.72279351625419,-73.95728922113737
+rest_0035,Cafe Thai Place,Thai,$$,Park Slope,Fast-casual,Thai restaurant in Park Slope with fast-casual atmosphere. $$ price range.,3.7,40.78180147659225,-73.91392694167438
+rest_0036,The French Place,French,$$$,Astoria,Romantic,French restaurant in Astoria with romantic atmosphere. $$$ price range.,4.0,40.741741100314876,-73.97778921895292
+rest_0037,The Ethiopian House,Ethiopian,$,Downtown,Outdoor seating,Ethiopian restaurant in Downtown with outdoor seating atmosphere. $ price range.,3.8,40.71198653673337,-73.96623848285964
+rest_0038,Kitchen Korean Corner,Korean,$$,Williamsburg,Fast-casual,Korean restaurant in Williamsburg with fast-casual atmosphere. $$ price range.,3.9,40.75187906217434,-73.92969810411049
+rest_0039,The Spanish Place,Spanish,$,Brooklyn,Upscale,Spanish restaurant in Brooklyn with upscale atmosphere. $ price range.,4.3,40.73636296023793,-73.90282179172792
+rest_0040,Kitchen Mediterranean Corner,Mediterranean,$$$$,Manhattan,Upscale,Mediterranean restaurant in Manhattan with upscale atmosphere. $$$$ price range.,2.5,40.728484049437746,-73.99631130526454
+rest_0041,The Thai Spot,Thai,$$$,Queens,Casual,Thai restaurant in Queens with casual atmosphere. $$$ price range.,4.0,40.760956433397986,-73.94973209767711
+rest_0042,Dragon Garden,Chinese,$,Chelsea,Fast-casual,Chinese restaurant in Chelsea with fast-casual atmosphere. $ price range.,3.8,40.71448948720912,-73.95105472397225
+rest_0043,The Turkish Corner,Turkish,$,Brooklyn,Fine Dining,Turkish restaurant in Brooklyn with fine dining atmosphere. $ price range.,4.2,40.79856504541106,-73.97579447284885
+rest_0044,The Spanish House,Spanish,$,Chelsea,Romantic,Spanish restaurant in Chelsea with romantic atmosphere. $ price range.,4.9,40.72376375439924,-73.92717836513881
+rest_0045,Bistro German Corner,German,$$$,Manhattan,Romantic,German restaurant in Manhattan with romantic atmosphere. $$$ price range.,4.6,40.73677831327193,-73.93676941694065
+rest_0046,Kitchen Mediterranean Spot,Mediterranean,$$$$,Brooklyn,Trendy,Mediterranean restaurant in Brooklyn with trendy atmosphere. $$$$ price range.,4.5,40.709028977005445,-73.91646975044108
+rest_0047,Sakura Sushi,Japanese,$,Astoria,Bar atmosphere,Japanese restaurant in Astoria with bar atmosphere atmosphere. $ price range.,5.8,40.732078006497176,-73.98134814896001
+rest_0048,Cafe Ethiopian Spot,Ethiopian,$$,Park Slope,Trendy,Ethiopian restaurant in Park Slope with trendy atmosphere. $$ price range.,4.1,40.76775643618423,-73.99834121710721
+rest_0049,Tokyo House,Japanese,$$,Bronx,Trendy,Japanese restaurant in Bronx with trendy atmosphere. $$ price range.,3.6,40.75120930582993,-73.97735042248021
+rest_0050,The Ethiopian Spot,Ethiopian,$$$,Chelsea,Outdoor seating,Ethiopian restaurant in Chelsea with outdoor seating atmosphere. $$$ price range.,3.2,40.76909377381025,-73.96132646536995
+rest_0051,The Mexican Corner,Mexican,$$,Manhattan,Fine Dining,Mexican restaurant in Manhattan with fine dining atmosphere. $$ price range.,4.4,40.793672998873674,-73.9862479055854
+rest_0052,Bistro Mediterranean Corner,Mediterranean,$$$,Chelsea,Romantic,Mediterranean restaurant in Chelsea with romantic atmosphere. $$$ price range.,3.4,40.792469361827855,-73.9122660646619
+rest_0053,The Mediterranean Place,Mediterranean,$$$$,Manhattan,Casual,Mediterranean restaurant in Manhattan with casual atmosphere. $$$$ price range.,3.7,40.725794162771514,-73.93400159539658
+rest_0054,Cafe Mediterranean Spot,Mediterranean,$,Downtown,Cozy,Mediterranean restaurant in Downtown with cozy atmosphere. $ price range.,4.2,40.7529650578356,-73.97581477090996
+rest_0055,The French House,French,$$$$,Park Slope,Upscale,French restaurant in Park Slope with upscale atmosphere. $$$$ price range.,5.0,40.70931027678059,-73.91027842420468
+rest_0056,Zen Ramen,Japanese,$$,Park Slope,Casual,Japanese restaurant in Park Slope with casual atmosphere. $$ price range.,4.2,40.73390297910487,-73.96507904253873
+rest_0057,Bistro German House,German,$$,Downtown,Trendy,German restaurant in Downtown with trendy atmosphere. $$ price range.,4.6,40.77259556788702,-73.91028897400474
+rest_0058,The Greek Spot,Greek,$$,SoHo,Romantic,Greek restaurant in SoHo with romantic atmosphere. $$ price range.,4.2,40.76420316461543,-73.9915860035005
+rest_0059,Cafe Ethiopian Corner,Ethiopian,$$$$,Chelsea,Family-friendly,Ethiopian restaurant in Chelsea with family-friendly atmosphere. $$$$ price range.,4.3,40.716162871409466,-73.91014458114729
+rest_0060,Bistro French Place,French,$$$$,Downtown,Family-friendly,French restaurant in Downtown with family-friendly atmosphere. $$$$ price range.,4.2,40.70050615838463,-73.98391919485825
+rest_0061,Kitchen Korean House,Korean,$$$,Brooklyn,Fine Dining,Korean restaurant in Brooklyn with fine dining atmosphere. $$$ price range.,3.4,40.75487337893666,-73.93081048023073
+rest_0062,Bistro Lebanese Spot,Lebanese,$$,Queens,Fast-casual,Lebanese restaurant in Queens with fast-casual atmosphere. $$ price range.,3.0,40.77121792213475,-73.97627509125032
+rest_0063,Kitchen Korean Spot,Korean,$$,Downtown,Romantic,Korean restaurant in Downtown with romantic atmosphere. $$ price range.,4.5,40.732539969815925,-73.9253508594882
+rest_0064,Kitchen Mediterranean Spot,Mediterranean,$,Manhattan,Cozy,Mediterranean restaurant in Manhattan with cozy atmosphere. $ price range.,4.8,40.765761289230035,-73.94316913966645
+rest_0065,Luigi Trattoria,Italian,$,Manhattan,Family-friendly,Italian restaurant in Manhattan with family-friendly atmosphere. $ price range.,4.3,40.70936747678281,-73.96322841969406
+rest_0066,Kitchen Mexican House,Mexican,$$$$,Bronx,Cozy,Mexican restaurant in Bronx with cozy atmosphere. $$$$ price range.,3.3,40.797301055475245,-73.96069022753332
+rest_0067,Kitchen Spanish House,Spanish,$$,Manhattan,Casual,Spanish restaurant in Manhattan with casual atmosphere. $$ price range.,3.3,40.78920465551771,-73.93688613740028
+rest_0068,The Turkish Spot,Turkish,$$,Bronx,Upscale,Turkish restaurant in Bronx with upscale atmosphere. $$ price range.,4.0,40.757690388462635,-73.95074823061812
+rest_0069,Bistro Vietnamese Place,Vietnamese,$,Tribeca,Trendy,Vietnamese restaurant in Tribeca with trendy atmosphere. $ price range.,5.2,40.71952429877981,-73.92775478847385
+rest_0070,Cafe Vietnamese Corner,Vietnamese,$$$$,Tribeca,Trendy,Vietnamese restaurant in Tribeca with trendy atmosphere. $$$$ price range.,3.1,40.79404585843529,-73.90460714229975
+rest_0071,Bistro German Place,German,$$$$,SoHo,Family-friendly,German restaurant in SoHo with family-friendly atmosphere. $$$$ price range.,4.4,40.791486439022044,-73.96298412997446
+rest_0072,Cafe Ethiopian Place,Ethiopian,$,Manhattan,Trendy,Ethiopian restaurant in Manhattan with trendy atmosphere. $ price range.,4.4,40.79636199770892,-73.91469905445327
+rest_0073,Cafe Vietnamese Place,Vietnamese,$$$$,Astoria,Fast-casual,Vietnamese restaurant in Astoria with fast-casual atmosphere. $$$$ price range.,3.9,40.72944488920696,-73.9614902271398
+rest_0074,Bistro French House,French,$,Manhattan,Outdoor seating,French restaurant in Manhattan with outdoor seating atmosphere. $ price range.,3.6,40.716949274668615,-73.94431987375417
+rest_0075,Cafe Korean House,Korean,$$$,Queens,Romantic,Korean restaurant in Queens with romantic atmosphere. $$$ price range.,4.7,40.793615477416076,-73.9303970203325
+rest_0076,Golden Kitchen,Chinese,$$,Astoria,Bar atmosphere,Chinese restaurant in Astoria with bar atmosphere atmosphere. $$ price range.,3.3,40.761500722669915,-73.90099461498959
+rest_0077,Kitchen German Place,German,$$,Tribeca,Upscale,German restaurant in Tribeca with upscale atmosphere. $$ price range.,4.1,40.71400840152366,-73.94816703476363
+rest_0078,The Korean Place,Korean,$$,SoHo,Casual,Korean restaurant in SoHo with casual atmosphere. $$ price range.,4.3,40.76970157409953,-73.92975159160129
+rest_0079,Kitchen Korean House,Korean,$$,Tribeca,Outdoor seating,Korean restaurant in Tribeca with outdoor seating atmosphere. $$ price range.,4.4,40.735949115121976,-73.97064081557355
+rest_0080,Cafe Ethiopian Place,Ethiopian,$$,Midtown,Fast-casual,Ethiopian restaurant in Midtown with fast-casual atmosphere. $$ price range.,4.4,40.78670723185801,-73.90867594474436
+rest_0081,Kitchen Turkish Place,Turkish,$$$,Astoria,Bar atmosphere,Turkish restaurant in Astoria with bar atmosphere atmosphere. $$$ price range.,4.4,40.75113423988609,-73.94984837053129
+rest_0082,Cafe French Spot,French,$$$$,Astoria,Trendy,French restaurant in Astoria with trendy atmosphere. $$$$ price range.,4.5,40.77019668772577,-73.92042073305639
+rest_0083,Bistro Turkish Place,Turkish,$$$$,SoHo,Romantic,Turkish restaurant in SoHo with romantic atmosphere. $$$$ price range.,4.9,40.78900053418175,-73.96620048431485
+rest_0084,Zen Garden,Japanese,$$$,Queens,Trendy,Japanese restaurant in Queens with trendy atmosphere. $$$ price range.,3.4,40.757828014099616,-73.99640577262032
+rest_0085,Cafe Ethiopian Place,Ethiopian,$,Brooklyn,Family-friendly,Ethiopian restaurant in Brooklyn with family-friendly atmosphere. $ price range.,3.8,40.74655980181325,-73.94573553652924
+rest_0086,Kitchen Indian Spot,Indian,$$,Midtown,Upscale,Indian restaurant in Midtown with upscale atmosphere. $$ price range.,4.5,40.70305002499391,-73.99626518112508
+rest_0087,Cafe Ethiopian Place,Ethiopian,$$$$,Williamsburg,Casual,Ethiopian restaurant in Williamsburg with casual atmosphere. $$$$ price range.,2.7,40.782260056065965,-73.96398093585887
+rest_0088,Kitchen Spanish House,Spanish,$,Chelsea,Upscale,Spanish restaurant in Chelsea with upscale atmosphere. $ price range.,4.1,40.77699935530986,-73.97841789725031
+rest_0089,Cafe Greek Place,Greek,$$$,Williamsburg,Upscale,Greek restaurant in Williamsburg with upscale atmosphere. $$$ price range.,3.1,40.7622890475819,-73.99146525350062
+rest_0090,The Korean Place,Korean,$$$,Williamsburg,Fast-casual,Korean restaurant in Williamsburg with fast-casual atmosphere. $$$ price range.,4.0,40.75406351216101,-73.93625700985018
+rest_0091,Kitchen Vietnamese Corner,Vietnamese,$$$$,Tribeca,Family-friendly,Vietnamese restaurant in Tribeca with family-friendly atmosphere. $$$$ price range.,3.5,40.772609133372264,-73.90241479205375
+rest_0092,The Ethiopian House,Ethiopian,$,Williamsburg,Bar atmosphere,Ethiopian restaurant in Williamsburg with bar atmosphere atmosphere. $ price range.,2.4,40.77951861947687,-73.9729167748738
+rest_0093,The German Spot,German,$$,Astoria,Family-friendly,German restaurant in Astoria with family-friendly atmosphere. $$ price range.,4.1,40.743897142070566,-73.99215436186577
+rest_0094,Bistro Spanish Spot,Spanish,$$$,Queens,Fast-casual,Spanish restaurant in Queens with fast-casual atmosphere. $$$ price range.,4.4,40.74089529444143,-73.98267056799291
+rest_0095,The Spanish Place,Spanish,$$$,Williamsburg,Trendy,Spanish restaurant in Williamsburg with trendy atmosphere. $$$ price range.,4.7,40.71564370426711,-73.97497571018354
+rest_0096,Bella Trattoria,Italian,$,Bronx,Romantic,Italian restaurant in Bronx with romantic atmosphere. $ price range.,5.4,40.76601973767177,-73.97200661030541
+rest_0097,Mario Ristorante,Italian,$$,Queens,Casual,Italian restaurant in Queens with casual atmosphere. $$ price range.,4.3,40.79548652806632,-73.92621030833043
+rest_0098,Cafe Indian Place,Indian,$$$$,SoHo,Fine Dining,Indian restaurant in SoHo with fine dining atmosphere. $$$$ price range.,5.7,40.74196000624278,-73.97522690104988
+rest_0099,The Mediterranean Corner,Mediterranean,$$$,Brooklyn,Bar atmosphere,Mediterranean restaurant in Brooklyn with bar atmosphere atmosphere. $$$ price range.,4.8,40.735597267865124,-73.92421538895357
+rest_0100,Bistro American Place,American,$,Chelsea,Casual,American restaurant in Chelsea with casual atmosphere. $ price range.,4.4,40.74741738290873,-73.9902165839349
+rest_0101,Cafe Spanish House,Spanish,$$,Midtown,Bar atmosphere,Spanish restaurant in Midtown with bar atmosphere atmosphere. $$ price range.,4.6,40.749161587511686,-73.95265282292195
+rest_0102,Bistro American Place,American,$,Chelsea,Casual,American restaurant in Chelsea with casual atmosphere. $ price range.,3.8,40.73985047343974,-73.93841499019479
+rest_0103,The Greek Place,Greek,$,Park Slope,Cozy,Greek restaurant in Park Slope with cozy atmosphere. $ price range.,3.0,40.76350936508676,-73.9954695990228
+rest_0104,Kitchen Lebanese Corner,Lebanese,$,Williamsburg,Cozy,Lebanese restaurant in Williamsburg with cozy atmosphere. $ price range.,5.2,40.750313625858006,-73.91435101588117
+rest_0105,Bistro German Place,German,$$,Tribeca,Outdoor seating,German restaurant in Tribeca with outdoor seating atmosphere. $$ price range.,2.9,40.76586936316189,-73.98370655729185
+rest_0106,Bistro Brazilian Spot,Brazilian,$$$$,Tribeca,Bar atmosphere,Brazilian restaurant in Tribeca with bar atmosphere atmosphere. $$$$ price range.,4.2,40.70265113105417,-73.94142244187266
+rest_0107,Cafe Korean Place,Korean,$,Manhattan,Fast-casual,Korean restaurant in Manhattan with fast-casual atmosphere. $ price range.,3.5,40.79402302414249,-73.94245258221241
+rest_0108,Bistro Spanish Corner,Spanish,$$$,Downtown,Fast-casual,Spanish restaurant in Downtown with fast-casual atmosphere. $$$ price range.,5.3,40.74582528904915,-73.94543832106841
+rest_0109,Bistro Lebanese Spot,Lebanese,$$,Bronx,Trendy,Lebanese restaurant in Bronx with trendy atmosphere. $$ price range.,3.0,40.79414648087765,-73.96138973621993
+rest_0110,The Mediterranean Corner,Mediterranean,$,Park Slope,Romantic,Mediterranean restaurant in Park Slope with romantic atmosphere. $ price range.,4.2,40.707118864846024,-73.96810243697063
+rest_0111,Kitchen German Place,German,$$$$,Park Slope,Romantic,German restaurant in Park Slope with romantic atmosphere. $$$$ price range.,3.5,40.78448753109694,-73.99767280642642
+rest_0112,Cafe Brazilian Place,Brazilian,$,Midtown,Trendy,Brazilian restaurant in Midtown with trendy atmosphere. $ price range.,3.5,40.71181648276217,-73.93032628346359
+rest_0113,Bistro Korean Place,Korean,$$$,SoHo,Bar atmosphere,Korean restaurant in SoHo with bar atmosphere atmosphere. $$$ price range.,4.7,40.76289428467799,-73.9122527986473
+rest_0114,Bistro Ethiopian Spot,Ethiopian,$$$,Williamsburg,Outdoor seating,Ethiopian restaurant in Williamsburg with outdoor seating atmosphere. $$$ price range.,4.7,40.72820345725713,-73.98225604562202
+rest_0115,Cafe Brazilian House,Brazilian,$$$,Manhattan,Trendy,Brazilian restaurant in Manhattan with trendy atmosphere. $$$ price range.,4.5,40.77506147516409,-73.91931652607327
+rest_0116,Cafe Thai Corner,Thai,$$$,Midtown,Outdoor seating,Thai restaurant in Midtown with outdoor seating atmosphere. $$$ price range.,4.0,40.73720180857928,-73.92235870392581
+rest_0117,Bistro Thai House,Thai,$$$$,Manhattan,Bar atmosphere,Thai restaurant in Manhattan with bar atmosphere atmosphere. $$$$ price range.,4.1,40.7340803540253,-73.90692426743965
+rest_0118,Cafe Thai Spot,Thai,$$$,Queens,Cozy,Thai restaurant in Queens with cozy atmosphere. $$$ price range.,3.8,40.77508710677915,-73.92454571259154
+rest_0119,Bella Pizzeria,Italian,$$,Manhattan,Casual,Italian restaurant in Manhattan with casual atmosphere. $$ price range.,4.9,40.710312386883594,-73.90974470933205
+rest_0120,Bistro Indian Place,Indian,$$$$,Midtown,Casual,Indian restaurant in Midtown with casual atmosphere. $$$$ price range.,5.0,40.73200496010306,-73.91044767715039
+rest_0121,The Lebanese Spot,Lebanese,$$$$,Bronx,Family-friendly,Lebanese restaurant in Bronx with family-friendly atmosphere. $$$$ price range.,4.0,40.73892016787342,-73.99891623485198
+rest_0122,Kitchen Lebanese House,Lebanese,$,Midtown,Upscale,Lebanese restaurant in Midtown with upscale atmosphere. $ price range.,4.3,40.795060714693754,-73.94265621118767
+rest_0123,Lucky Garden,Chinese,$$,Brooklyn,Bar atmosphere,Chinese restaurant in Brooklyn with bar atmosphere atmosphere. $$ price range.,3.9,40.763183721216976,-73.95515544780217
+rest_0124,Cafe Korean Place,Korean,$,Park Slope,Upscale,Korean restaurant in Park Slope with upscale atmosphere. $ price range.,3.2,40.7672518456077,-73.92476254705623
+rest_0125,Kitchen Brazilian Spot,Brazilian,$$$$,Manhattan,Bar atmosphere,Brazilian restaurant in Manhattan with bar atmosphere atmosphere. $$$$ price range.,3.0,40.77915790437258,-73.92103818572055
+rest_0126,Lucky Garden,Chinese,$,Queens,Romantic,Chinese restaurant in Queens with romantic atmosphere. $ price range.,4.0,40.70575587600167,-73.94504711176764
+rest_0127,The French Corner,French,$$,Brooklyn,Outdoor seating,French restaurant in Brooklyn with outdoor seating atmosphere. $$ price range.,3.3,40.744153050137335,-73.91122958172417
+rest_0128,Nonna Pizzeria,Italian,$$$$,Astoria,Bar atmosphere,Italian restaurant in Astoria with bar atmosphere atmosphere. $$$$ price range.,3.3,40.71429916820529,-73.92384893682825
+rest_0129,Imperial Garden,Chinese,$$,Manhattan,Trendy,Chinese restaurant in Manhattan with trendy atmosphere. $$ price range.,3.7,40.761821806331625,-73.98988773238773
+rest_0130,Cafe Korean Place,Korean,$$$,SoHo,Bar atmosphere,Korean restaurant in SoHo with bar atmosphere atmosphere. $$$ price range.,4.2,40.70727630063642,-73.91781399407097
+rest_0131,Bistro Mexican Corner,Mexican,$$,SoHo,Family-friendly,Mexican restaurant in SoHo with family-friendly atmosphere. $$ price range.,3.6,40.77062422271565,-73.99186512193582
+rest_0132,Zen House,Japanese,$,Brooklyn,Trendy,Japanese restaurant in Brooklyn with trendy atmosphere. $ price range.,2.8,40.78127995672575,-73.90527514226162
+rest_0133,Kitchen Mexican Spot,Mexican,$$$$,Tribeca,Trendy,Mexican restaurant in Tribeca with trendy atmosphere. $$$$ price range.,2.9,40.79860010638228,-73.9246621814741
+rest_0134,The Turkish Place,Turkish,$$$$,Astoria,Fine Dining,Turkish restaurant in Astoria with fine dining atmosphere. $$$$ price range.,3.4,40.77771469159274,-73.94415957502642
+rest_0135,Cafe Vietnamese House,Vietnamese,$$$,Downtown,Fine Dining,Vietnamese restaurant in Downtown with fine dining atmosphere. $$$ price range.,3.8,40.7424222009247,-73.90936456149053
+rest_0136,Kitchen Mediterranean Spot,Mediterranean,$,Brooklyn,Fast-casual,Mediterranean restaurant in Brooklyn with fast-casual atmosphere. $ price range.,4.0,40.70113536447675,-73.9531339358006
+rest_0137,The French Place,French,$$$$,SoHo,Fast-casual,French restaurant in SoHo with fast-casual atmosphere. $$$$ price range.,3.2,40.70563032756819,-73.9881182083732
+rest_0138,The Greek Corner,Greek,$$$$,Bronx,Cozy,Greek restaurant in Bronx with cozy atmosphere. $$$$ price range.,4.3,40.77460448792654,-73.94166312349029
+rest_0139,Bistro Vietnamese Place,Vietnamese,$$$$,Tribeca,Fast-casual,Vietnamese restaurant in Tribeca with fast-casual atmosphere. $$$$ price range.,3.3,40.79621725484745,-73.96251294204764
+rest_0140,Bistro Ethiopian Spot,Ethiopian,$,Astoria,Fine Dining,Ethiopian restaurant in Astoria with fine dining atmosphere. $ price range.,4.6,40.72235958385195,-73.90367774605595
+rest_0141,The Vietnamese Place,Vietnamese,$,Williamsburg,Outdoor seating,Vietnamese restaurant in Williamsburg with outdoor seating atmosphere. $ price range.,3.7,40.70121544746898,-73.90301211732924
+rest_0142,Bistro German Place,German,$,Queens,Outdoor seating,German restaurant in Queens with outdoor seating atmosphere. $ price range.,4.2,40.70737965647354,-73.94461457155987
+rest_0143,Cafe Brazilian Spot,Brazilian,$,Queens,Trendy,Brazilian restaurant in Queens with trendy atmosphere. $ price range.,4.0,40.79693025356191,-73.947690215583
+rest_0144,Cafe Brazilian Corner,Brazilian,$$$$,Midtown,Casual,Brazilian restaurant in Midtown with casual atmosphere. $$$$ price range.,5.2,40.74545410647678,-73.9372441919916
+rest_0145,The American Corner,American,$,Park Slope,Upscale,American restaurant in Park Slope with upscale atmosphere. $ price range.,4.8,40.75843143119231,-73.9098841989509
+rest_0146,Kitchen Mexican Spot,Mexican,$$$$,Midtown,Family-friendly,Mexican restaurant in Midtown with family-friendly atmosphere. $$$$ price range.,5.8,40.72773811829811,-73.98118788402762
+rest_0147,Kitchen Turkish Corner,Turkish,$$$,Williamsburg,Fast-casual,Turkish restaurant in Williamsburg with fast-casual atmosphere. $$$ price range.,3.4,40.746369840494,-73.9646647771974
+rest_0148,Cafe Brazilian House,Brazilian,$$,Williamsburg,Romantic,Brazilian restaurant in Williamsburg with romantic atmosphere. $$ price range.,3.4,40.79743948076661,-73.90137892555205
+rest_0149,Bistro Mediterranean House,Mediterranean,$$$$,Bronx,Outdoor seating,Mediterranean restaurant in Bronx with outdoor seating atmosphere. $$$$ price range.,4.1,40.76981617140197,-73.9463903633656
+rest_0150,Kitchen American Corner,American,$$$,Chelsea,Bar atmosphere,American restaurant in Chelsea with bar atmosphere atmosphere. $$$ price range.,4.8,40.76847311725539,-73.98373830606552
+rest_0151,Kitchen Brazilian Place,Brazilian,$$$$,Bronx,Cozy,Brazilian restaurant in Bronx with cozy atmosphere. $$$$ price range.,3.5,40.791092718449384,-73.91774627570769
+rest_0152,Kitchen Vietnamese Corner,Vietnamese,$$,Tribeca,Romantic,Vietnamese restaurant in Tribeca with romantic atmosphere. $$ price range.,2.9,40.7932728483354,-73.91339361104997
+rest_0153,Kitchen German Place,German,$,Bronx,Fast-casual,German restaurant in Bronx with fast-casual atmosphere. $ price range.,5.5,40.70452186701062,-73.99736330255027
+rest_0154,Bistro Indian House,Indian,$$$$,Downtown,Family-friendly,Indian restaurant in Downtown with family-friendly atmosphere. $$$$ price range.,4.9,40.79872761293149,-73.98495831088965
+rest_0155,The Brazilian Corner,Brazilian,$,Park Slope,Fast-casual,Brazilian restaurant in Park Slope with fast-casual atmosphere. $ price range.,3.6,40.759413071535214,-73.9619109143369
+rest_0156,Bistro German Spot,German,$$,Midtown,Fast-casual,German restaurant in Midtown with fast-casual atmosphere. $$ price range.,3.9,40.74148195023377,-73.97265929280694
+rest_0157,Kitchen Spanish Spot,Spanish,$,Bronx,Outdoor seating,Spanish restaurant in Bronx with outdoor seating atmosphere. $ price range.,5.0,40.7056375496651,-73.9135277623745
+rest_0158,Cafe Lebanese Spot,Lebanese,$,Chelsea,Fine Dining,Lebanese restaurant in Chelsea with fine dining atmosphere. $ price range.,4.0,40.776898741518046,-73.90552342701176
+rest_0159,The Korean Place,Korean,$,Williamsburg,Fine Dining,Korean restaurant in Williamsburg with fine dining atmosphere. $ price range.,4.0,40.78496473906774,-73.97526518982568
+rest_0160,Bistro French House,French,$$$,Downtown,Casual,French restaurant in Downtown with casual atmosphere. $$$ price range.,3.1,40.79540510272587,-73.93938253655492
+rest_0161,Cafe American Corner,American,$$$,Bronx,Upscale,American restaurant in Bronx with upscale atmosphere. $$$ price range.,3.9,40.72286428055035,-73.93282993155943
+rest_0162,Cafe Turkish Corner,Turkish,$$$$,Chelsea,Family-friendly,Turkish restaurant in Chelsea with family-friendly atmosphere. $$$$ price range.,2.8,40.71135575921996,-73.93284268044073
+rest_0163,Bamboo Ramen,Japanese,$$$$,Chelsea,Romantic,Japanese restaurant in Chelsea with romantic atmosphere. $$$$ price range.,5.0,40.75203077009038,-73.92276816082644
+rest_0164,Kitchen Korean Spot,Korean,$$$$,SoHo,Trendy,Korean restaurant in SoHo with trendy atmosphere. $$$$ price range.,4.9,40.75519068387745,-73.94390620284646
+rest_0165,Mario Trattoria,Italian,$$$$,Manhattan,Outdoor seating,Italian restaurant in Manhattan with outdoor seating atmosphere. $$$$ price range.,4.1,40.787665360265834,-73.95965171337876
+rest_0166,Kitchen Brazilian Spot,Brazilian,$$$,Chelsea,Trendy,Brazilian restaurant in Chelsea with trendy atmosphere. $$$ price range.,4.5,40.77040797680992,-73.97870358384911
+rest_0167,Kitchen Brazilian House,Brazilian,$$$,Queens,Upscale,Brazilian restaurant in Queens with upscale atmosphere. $$$ price range.,5.1,40.71363714755868,-73.99854553343322
+rest_0168,Bistro Korean Spot,Korean,$$$$,Chelsea,Cozy,Korean restaurant in Chelsea with cozy atmosphere. $$$$ price range.,4.8,40.739224404509976,-73.95625250779763
+rest_0169,Bella Bistro,Italian,$$$$,Manhattan,Casual,Italian restaurant in Manhattan with casual atmosphere. $$$$ price range.,2.6,40.790415869449376,-73.96517445329768
+rest_0170,Cafe American Corner,American,$$,Chelsea,Cozy,American restaurant in Chelsea with cozy atmosphere. $$ price range.,5.2,40.73965427823213,-73.93779132997722
+rest_0171,The Mediterranean Spot,Mediterranean,$$,SoHo,Fine Dining,Mediterranean restaurant in SoHo with fine dining atmosphere. $$ price range.,4.1,40.786236370874676,-73.90504793763424
+rest_0172,Cafe Brazilian House,Brazilian,$,Chelsea,Cozy,Brazilian restaurant in Chelsea with cozy atmosphere. $ price range.,2.6,40.745913575623824,-73.90199674247145
+rest_0173,Cafe American Corner,American,$$$,Tribeca,Upscale,American restaurant in Tribeca with upscale atmosphere. $$$ price range.,4.0,40.749261809399286,-73.96712483897124
+rest_0174,Bistro Indian Corner,Indian,$$$,Park Slope,Outdoor seating,Indian restaurant in Park Slope with outdoor seating atmosphere. $$$ price range.,3.0,40.70758633281087,-73.98711202780893
+rest_0175,The Mediterranean Place,Mediterranean,$$$$,Manhattan,Cozy,Mediterranean restaurant in Manhattan with cozy atmosphere. $$$$ price range.,4.5,40.71280458389578,-73.98480973064878
+rest_0176,Zen Sushi,Japanese,$$,Queens,Upscale,Japanese restaurant in Queens with upscale atmosphere. $$ price range.,4.3,40.71818800843992,-73.96543327166762
+rest_0177,The Spanish Place,Spanish,$,Manhattan,Outdoor seating,Spanish restaurant in Manhattan with outdoor seating atmosphere. $ price range.,3.2,40.7896788409906,-73.95260383597372
+rest_0178,Bistro Greek House,Greek,$$$,Chelsea,Upscale,Greek restaurant in Chelsea with upscale atmosphere. $$$ price range.,3.2,40.71922890188087,-73.99591313837335
+rest_0179,Bistro Korean Corner,Korean,$$$$,Downtown,Bar atmosphere,Korean restaurant in Downtown with bar atmosphere atmosphere. $$$$ price range.,4.4,40.716893506307215,-73.9721409660968
+rest_0180,Bamboo Sushi,Japanese,$$$$,Tribeca,Trendy,Japanese restaurant in Tribeca with trendy atmosphere. $$$$ price range.,3.9,40.720633371840584,-73.9635730138952
+rest_0181,Kitchen Indian House,Indian,$,Downtown,Trendy,Indian restaurant in Downtown with trendy atmosphere. $ price range.,3.2,40.750341727085484,-73.93096051713707
+rest_0182,Kitchen Mexican Place,Mexican,$$,Park Slope,Family-friendly,Mexican restaurant in Park Slope with family-friendly atmosphere. $$ price range.,3.4,40.78735786241067,-73.90791275994683
+rest_0183,Kitchen Greek House,Greek,$$$$,Chelsea,Family-friendly,Greek restaurant in Chelsea with family-friendly atmosphere. $$$$ price range.,4.2,40.70610779598549,-73.97231223518529
+rest_0184,Bistro Lebanese Corner,Lebanese,$$$$,Manhattan,Casual,Lebanese restaurant in Manhattan with casual atmosphere. $$$$ price range.,4.5,40.71845210193564,-73.97906506766633
+rest_0185,The Brazilian Spot,Brazilian,$$$$,Queens,Cozy,Brazilian restaurant in Queens with cozy atmosphere. $$$$ price range.,4.6,40.73704721027914,-73.9515477014809
+rest_0186,Bistro Ethiopian Corner,Ethiopian,$$$,Downtown,Upscale,Ethiopian restaurant in Downtown with upscale atmosphere. $$$ price range.,2.8,40.746253471613315,-73.92525290618663
+rest_0187,The Mexican House,Mexican,$$$$,Midtown,Romantic,Mexican restaurant in Midtown with romantic atmosphere. $$$$ price range.,5.1,40.70366832028906,-73.9747563055656
+rest_0188,Cafe Vietnamese House,Vietnamese,$$,Brooklyn,Bar atmosphere,Vietnamese restaurant in Brooklyn with bar atmosphere atmosphere. $$ price range.,4.5,40.751167744211564,-73.94678865147347
+rest_0189,Cafe Ethiopian Spot,Ethiopian,$$,Chelsea,Romantic,Ethiopian restaurant in Chelsea with romantic atmosphere. $$ price range.,4.2,40.71071720113398,-73.95525876331766
+rest_0190,Cafe Indian Spot,Indian,$,Manhattan,Family-friendly,Indian restaurant in Manhattan with family-friendly atmosphere. $ price range.,2.7,40.72692432309494,-73.96227158368954
+rest_0191,Cafe French House,French,$,SoHo,Casual,French restaurant in SoHo with casual atmosphere. $ price range.,4.2,40.702007119777775,-73.96779208344168
+rest_0192,The Greek Corner,Greek,$$,Chelsea,Cozy,Greek restaurant in Chelsea with cozy atmosphere. $$ price range.,3.5,40.71197621318193,-73.91094727192602
+rest_0193,The Mediterranean House,Mediterranean,$,Brooklyn,Upscale,Mediterranean restaurant in Brooklyn with upscale atmosphere. $ price range.,3.1,40.759359245355405,-73.93208976808556
+rest_0194,The Lebanese Place,Lebanese,$$$$,Bronx,Outdoor seating,Lebanese restaurant in Bronx with outdoor seating atmosphere. $$$$ price range.,4.0,40.70869202880874,-73.94628934581814
+rest_0195,Bistro Turkish Place,Turkish,$$,Chelsea,Casual,Turkish restaurant in Chelsea with casual atmosphere. $$ price range.,5.2,40.75868411180209,-73.92545605258157
+rest_0196,Nonna Trattoria,Italian,$,Astoria,Upscale,Italian restaurant in Astoria with upscale atmosphere. $ price range.,3.2,40.728377590579875,-73.96369177036014
+rest_0197,Bistro Lebanese Corner,Lebanese,$$$$,Midtown,Fine Dining,Lebanese restaurant in Midtown with fine dining atmosphere. $$$$ price range.,3.8,40.76459172413316,-73.9429221695331
+rest_0198,Zen House,Japanese,$$,Manhattan,Bar atmosphere,Japanese restaurant in Manhattan with bar atmosphere atmosphere. $$ price range.,2.9,40.71017824726204,-73.98471408608157
+rest_0199,Kitchen Turkish House,Turkish,$$$,Astoria,Outdoor seating,Turkish restaurant in Astoria with outdoor seating atmosphere. $$$ price range.,4.5,40.724595772838455,-73.98393186267404
+rest_0200,Cafe Mexican Place,Mexican,$$,Williamsburg,Fast-casual,Mexican restaurant in Williamsburg with fast-casual atmosphere. $$ price range.,3.5,40.71733735952948,-73.91032345753736
+rest_0201,The Vietnamese Spot,Vietnamese,$$$$,Williamsburg,Upscale,Vietnamese restaurant in Williamsburg with upscale atmosphere. $$$$ price range.,3.3,40.70802337456617,-73.94754886104297
+rest_0202,Bistro German Corner,German,$$$,SoHo,Trendy,German restaurant in SoHo with trendy atmosphere. $$$ price range.,4.2,40.71120389021681,-73.96021444009543
+rest_0203,The Lebanese Place,Lebanese,$,Midtown,Fine Dining,Lebanese restaurant in Midtown with fine dining atmosphere. $ price range.,4.0,40.796947043327535,-73.9134492874106
+rest_0204,The Mexican Spot,Mexican,$$$,Brooklyn,Outdoor seating,Mexican restaurant in Brooklyn with outdoor seating atmosphere. $$$ price range.,3.5,40.71708875873901,-73.93313567800756
+rest_0205,The Mexican Spot,Mexican,$$$$,Bronx,Upscale,Mexican restaurant in Bronx with upscale atmosphere. $$$$ price range.,4.6,40.79293759891276,-73.94432371069861
+rest_0206,Cafe American Corner,American,$$$,Midtown,Bar atmosphere,American restaurant in Midtown with bar atmosphere atmosphere. $$$ price range.,2.7,40.77694929331919,-73.98129562514426
+rest_0207,Bistro Lebanese House,Lebanese,$$,Midtown,Cozy,Lebanese restaurant in Midtown with cozy atmosphere. $$ price range.,4.4,40.732367923640425,-73.95745635613837
+rest_0208,The Mediterranean Spot,Mediterranean,$$,Williamsburg,Outdoor seating,Mediterranean restaurant in Williamsburg with outdoor seating atmosphere. $$ price range.,2.7,40.711483682473926,-73.93893799575584
+rest_0209,Luigi Pizzeria,Italian,$$,Manhattan,Trendy,Italian restaurant in Manhattan with trendy atmosphere. $$ price range.,4.0,40.72886305532403,-73.94187617785774
+rest_0210,Nonna Trattoria,Italian,$$,Brooklyn,Bar atmosphere,Italian restaurant in Brooklyn with bar atmosphere atmosphere. $$ price range.,3.9,40.75325894325516,-73.99481764631776
+rest_0211,Cafe Indian Place,Indian,$,Midtown,Outdoor seating,Indian restaurant in Midtown with outdoor seating atmosphere. $ price range.,3.0,40.733660427819395,-73.9865585323061
+rest_0212,Bistro German Spot,German,$$$$,Bronx,Family-friendly,German restaurant in Bronx with family-friendly atmosphere. $$$$ price range.,4.8,40.72546406547638,-73.93184972777762
+rest_0213,Cafe Vietnamese House,Vietnamese,$,Downtown,Family-friendly,Vietnamese restaurant in Downtown with family-friendly atmosphere. $ price range.,3.5,40.776022785988964,-73.94043612593921
+rest_0214,Bamboo House,Japanese,$$$,Astoria,Upscale,Japanese restaurant in Astoria with upscale atmosphere. $$$ price range.,2.0,40.734886826654304,-73.90704708557523
+rest_0215,The German Spot,German,$$$,Queens,Outdoor seating,German restaurant in Queens with outdoor seating atmosphere. $$$ price range.,3.4,40.78306194077877,-73.90349730893335
+rest_0216,Kitchen German Spot,German,$,Manhattan,Bar atmosphere,German restaurant in Manhattan with bar atmosphere atmosphere. $ price range.,4.3,40.793834045682104,-73.98187669338344
+rest_0217,Golden Garden,Chinese,$$,Williamsburg,Bar atmosphere,Chinese restaurant in Williamsburg with bar atmosphere atmosphere. $$ price range.,3.5,40.70664962673668,-73.925887935071
+rest_0218,Bistro Thai Spot,Thai,$$$,Queens,Family-friendly,Thai restaurant in Queens with family-friendly atmosphere. $$$ price range.,4.9,40.71397723766263,-73.92047326881402
+rest_0219,Kitchen Vietnamese Corner,Vietnamese,$,Downtown,Fast-casual,Vietnamese restaurant in Downtown with fast-casual atmosphere. $ price range.,4.2,40.72016273200477,-73.98363440571343
+rest_0220,Bistro Indian House,Indian,$$$$,Park Slope,Romantic,Indian restaurant in Park Slope with romantic atmosphere. $$$$ price range.,4.3,40.76651972206962,-73.94769345752309
+rest_0221,Kitchen Spanish House,Spanish,$,Williamsburg,Casual,Spanish restaurant in Williamsburg with casual atmosphere. $ price range.,3.7,40.735883048412354,-73.9122799459187
+rest_0222,Kitchen Vietnamese Spot,Vietnamese,$$$$,Chelsea,Upscale,Vietnamese restaurant in Chelsea with upscale atmosphere. $$$$ price range.,5.0,40.743913490857025,-73.9623055570575
+rest_0223,Cafe Mexican Place,Mexican,$$$$,Downtown,Cozy,Mexican restaurant in Downtown with cozy atmosphere. $$$$ price range.,3.7,40.74626797856696,-73.96986221258359
+rest_0224,Cafe Greek Place,Greek,$,Williamsburg,Fine Dining,Greek restaurant in Williamsburg with fine dining atmosphere. $ price range.,4.0,40.72322126951468,-73.91004254267254
+rest_0225,Bistro Spanish Corner,Spanish,$,Williamsburg,Trendy,Spanish restaurant in Williamsburg with trendy atmosphere. $ price range.,5.3,40.73838912213732,-73.9456447138886
+rest_0226,The Vietnamese Corner,Vietnamese,$$,Midtown,Outdoor seating,Vietnamese restaurant in Midtown with outdoor seating atmosphere. $$ price range.,4.2,40.711689804070836,-73.90601678763866
+rest_0227,Cafe Greek House,Greek,$$$,Tribeca,Family-friendly,Greek restaurant in Tribeca with family-friendly atmosphere. $$$ price range.,4.6,40.76277080530714,-73.96650943853429
+rest_0228,Cafe Indian House,Indian,$$$,Queens,Family-friendly,Indian restaurant in Queens with family-friendly atmosphere. $$$ price range.,4.3,40.76200727559285,-73.94665389080237
+rest_0229,Kitchen French Spot,French,$$$$,Astoria,Bar atmosphere,French restaurant in Astoria with bar atmosphere atmosphere. $$$$ price range.,3.7,40.78938925830509,-73.92114027887754
+rest_0230,Kitchen Vietnamese Place,Vietnamese,$$,Astoria,Fine Dining,Vietnamese restaurant in Astoria with fine dining atmosphere. $$ price range.,3.6,40.72484891398145,-73.92560537074273
+rest_0231,Bistro American House,American,$$$,Chelsea,Casual,American restaurant in Chelsea with casual atmosphere. $$$ price range.,3.3,40.70335324347358,-73.94301103151287
+rest_0232,The American Spot,American,$$$$,Astoria,Casual,American restaurant in Astoria with casual atmosphere. $$$$ price range.,4.4,40.73420817487159,-73.9178742695328
+rest_0233,Kitchen American Place,American,$,SoHo,Fine Dining,American restaurant in SoHo with fine dining atmosphere. $ price range.,4.3,40.71106317369552,-73.91535477082655
+rest_0234,Cafe Ethiopian Spot,Ethiopian,$,Astoria,Bar atmosphere,Ethiopian restaurant in Astoria with bar atmosphere atmosphere. $ price range.,3.8,40.77972953657795,-73.98500825726512
+rest_0235,The Lebanese Spot,Lebanese,$$,Downtown,Fast-casual,Lebanese restaurant in Downtown with fast-casual atmosphere. $$ price range.,3.2,40.72292513952326,-73.9277747431607
+rest_0236,Bamboo House,Japanese,$$,Downtown,Romantic,Japanese restaurant in Downtown with romantic atmosphere. $$ price range.,4.7,40.76939484444671,-73.94572755566524
+rest_0237,Bistro Turkish Place,Turkish,$$,Bronx,Cozy,Turkish restaurant in Bronx with cozy atmosphere. $$ price range.,5.1,40.7251799058907,-73.96543040064961
+rest_0238,The German Spot,German,$$$,SoHo,Bar atmosphere,German restaurant in SoHo with bar atmosphere atmosphere. $$$ price range.,2.6,40.746200580364416,-73.90527166603883
+rest_0239,Bamboo Garden,Japanese,$$$,Midtown,Outdoor seating,Japanese restaurant in Midtown with outdoor seating atmosphere. $$$ price range.,5.2,40.71533514031161,-73.94137701679833
+rest_0240,Cafe Mediterranean Spot,Mediterranean,$$,Bronx,Fine Dining,Mediterranean restaurant in Bronx with fine dining atmosphere. $$ price range.,6.0,40.70181101838209,-73.91278760910559
+rest_0241,The American Spot,American,$$$$,Brooklyn,Bar atmosphere,American restaurant in Brooklyn with bar atmosphere atmosphere. $$$$ price range.,4.1,40.79321182824836,-73.94348668164108
+rest_0242,Cafe Ethiopian House,Ethiopian,$$$$,SoHo,Cozy,Ethiopian restaurant in SoHo with cozy atmosphere. $$$$ price range.,4.4,40.770723863431336,-73.98474609570857
+rest_0243,Bistro German Corner,German,$$$,Downtown,Cozy,German restaurant in Downtown with cozy atmosphere. $$$ price range.,4.2,40.75762883601668,-73.93932849536172
+rest_0244,Cafe Thai Corner,Thai,$$$,Astoria,Romantic,Thai restaurant in Astoria with romantic atmosphere. $$$ price range.,5.3,40.7934367014769,-73.90744314870933
+rest_0245,The Indian Spot,Indian,$,Manhattan,Fine Dining,Indian restaurant in Manhattan with fine dining atmosphere. $ price range.,3.6,40.745083937140414,-73.98867619541592
+rest_0246,Cafe Indian Corner,Indian,$$$$,Brooklyn,Family-friendly,Indian restaurant in Brooklyn with family-friendly atmosphere. $$$$ price range.,4.0,40.75912754357449,-73.96009972961299
+rest_0247,Cafe Brazilian Place,Brazilian,$,Williamsburg,Cozy,Brazilian restaurant in Williamsburg with cozy atmosphere. $ price range.,4.9,40.7054761638822,-73.96648027583541
+rest_0248,Cafe American Spot,American,$$$$,Queens,Outdoor seating,American restaurant in Queens with outdoor seating atmosphere. $$$$ price range.,3.2,40.753739560293795,-73.90801443835873
+rest_0249,Kitchen Lebanese Place,Lebanese,$$,Bronx,Bar atmosphere,Lebanese restaurant in Bronx with bar atmosphere atmosphere. $$ price range.,2.7,40.734634599436596,-73.96530467981037
+rest_0250,Kitchen American Corner,American,$$$$,Park Slope,Outdoor seating,American restaurant in Park Slope with outdoor seating atmosphere. $$$$ price range.,3.7,40.722460482294,-73.95475604838673
+rest_0251,Kitchen Thai Spot,Thai,$$,Manhattan,Casual,Thai restaurant in Manhattan with casual atmosphere. $$ price range.,5.3,40.714085702037984,-73.98236130134939
+rest_0252,The Ethiopian Spot,Ethiopian,$,Tribeca,Outdoor seating,Ethiopian restaurant in Tribeca with outdoor seating atmosphere. $ price range.,1.8,40.791484590106805,-73.96376061008834
+rest_0253,Tokyo House,Japanese,$$,Manhattan,Fast-casual,Japanese restaurant in Manhattan with fast-casual atmosphere. $$ price range.,4.0,40.7580588350278,-73.93677357120805
+rest_0254,Sakura House,Japanese,$$,Astoria,Cozy,Japanese restaurant in Astoria with cozy atmosphere. $$ price range.,3.8,40.70853496680787,-73.90031257481542
+rest_0255,Dragon Kitchen,Chinese,$$$$,Park Slope,Cozy,Chinese restaurant in Park Slope with cozy atmosphere. $$$$ price range.,3.1,40.75021950103312,-73.940461498268
+rest_0256,Zen Sushi,Japanese,$$$,Queens,Casual,Japanese restaurant in Queens with casual atmosphere. $$$ price range.,4.0,40.72099055930956,-73.91019457105594
+rest_0257,Bistro Vietnamese Place,Vietnamese,$$,Brooklyn,Casual,Vietnamese restaurant in Brooklyn with casual atmosphere. $$ price range.,4.0,40.7205139640482,-73.98093122793364
+rest_0258,The Indian House,Indian,$$$$,Astoria,Bar atmosphere,Indian restaurant in Astoria with bar atmosphere atmosphere. $$$$ price range.,4.0,40.75648411332626,-73.99342913605716
+rest_0259,Nonna Trattoria,Italian,$$$,Queens,Family-friendly,Italian restaurant in Queens with family-friendly atmosphere. $$$ price range.,3.6,40.7775527616695,-73.9546711165252
+rest_0260,The American Corner,American,$$,Manhattan,Fine Dining,American restaurant in Manhattan with fine dining atmosphere. $$ price range.,1.9,40.74007630608753,-73.94403596686918
+rest_0261,Kitchen German House,German,$$$$,Midtown,Fine Dining,German restaurant in Midtown with fine dining atmosphere. $$$$ price range.,4.9,40.71552402459307,-73.98180718695048
+rest_0262,Bistro Turkish Place,Turkish,$$,Tribeca,Family-friendly,Turkish restaurant in Tribeca with family-friendly atmosphere. $$ price range.,2.9,40.7643999543239,-73.95912658289019
+rest_0263,Nonna Ristorante,Italian,$$$,Queens,Bar atmosphere,Italian restaurant in Queens with bar atmosphere atmosphere. $$$ price range.,3.4,40.702538635566036,-73.98438474026338
+rest_0264,Sakura House,Japanese,$$$,Midtown,Outdoor seating,Japanese restaurant in Midtown with outdoor seating atmosphere. $$$ price range.,4.7,40.70270959925035,-73.97780278380671
+rest_0265,Bistro Lebanese Spot,Lebanese,$,SoHo,Upscale,Lebanese restaurant in SoHo with upscale atmosphere. $ price range.,5.0,40.72310747965881,-73.93281072564012
+rest_0266,Mario Trattoria,Italian,$$$,Midtown,Cozy,Italian restaurant in Midtown with cozy atmosphere. $$$ price range.,3.6,40.765274610785184,-73.97618172189533
+rest_0267,Bistro Vietnamese Corner,Vietnamese,$$,Downtown,Cozy,Vietnamese restaurant in Downtown with cozy atmosphere. $$ price range.,4.4,40.70994413927594,-73.97568278090006
+rest_0268,Cafe Brazilian House,Brazilian,$$$$,SoHo,Family-friendly,Brazilian restaurant in SoHo with family-friendly atmosphere. $$$$ price range.,4.6,40.783021986456696,-73.96028164703816
+rest_0269,The Brazilian Corner,Brazilian,$,Manhattan,Romantic,Brazilian restaurant in Manhattan with romantic atmosphere. $ price range.,4.4,40.76680851365706,-73.97950157045842
+rest_0270,Imperial Kitchen,Chinese,$$$,Manhattan,Outdoor seating,Chinese restaurant in Manhattan with outdoor seating atmosphere. $$$ price range.,4.5,40.70130019235108,-73.99144914691455
+rest_0271,Bistro Mediterranean Spot,Mediterranean,$,SoHo,Romantic,Mediterranean restaurant in SoHo with romantic atmosphere. $ price range.,3.8,40.72078862551461,-73.99734677961261
+rest_0272,Lucky Kitchen,Chinese,$$$,Manhattan,Fine Dining,Chinese restaurant in Manhattan with fine dining atmosphere. $$$ price range.,4.3,40.74214245505925,-73.91073282889231
+rest_0273,Cafe Spanish Place,Spanish,$$$$,Williamsburg,Cozy,Spanish restaurant in Williamsburg with cozy atmosphere. $$$$ price range.,3.0,40.781744356173846,-73.96581826483022
+rest_0274,The Lebanese Place,Lebanese,$$$,Park Slope,Trendy,Lebanese restaurant in Park Slope with trendy atmosphere. $$$ price range.,3.4,40.75902949425148,-73.97319363591771
+rest_0275,Zen Garden,Japanese,$$$$,Chelsea,Family-friendly,Japanese restaurant in Chelsea with family-friendly atmosphere. $$$$ price range.,2.9,40.76241489078491,-73.95905883478088
+rest_0276,Bistro Mexican Place,Mexican,$,Bronx,Trendy,Mexican restaurant in Bronx with trendy atmosphere. $ price range.,2.3,40.72944657595419,-73.90515466930378
+rest_0277,Bistro German Place,German,$$,Tribeca,Fast-casual,German restaurant in Tribeca with fast-casual atmosphere. $$ price range.,5.4,40.77636057941597,-73.98598868242335
+rest_0278,Lucky Garden,Chinese,$$$,Chelsea,Upscale,Chinese restaurant in Chelsea with upscale atmosphere. $$$ price range.,4.0,40.789455222689405,-73.92001447440528
+rest_0279,Tokyo Sushi,Japanese,$$$$,Bronx,Outdoor seating,Japanese restaurant in Bronx with outdoor seating atmosphere. $$$$ price range.,4.9,40.74252135044692,-73.99775306916798
+rest_0280,The Indian Corner,Indian,$$$$,Downtown,Family-friendly,Indian restaurant in Downtown with family-friendly atmosphere. $$$$ price range.,4.2,40.76334782198261,-73.97421123145668
+rest_0281,The Greek Corner,Greek,$$$,Williamsburg,Bar atmosphere,Greek restaurant in Williamsburg with bar atmosphere atmosphere. $$$ price range.,2.6,40.71393560740729,-73.91650697632008
+rest_0282,The Brazilian Corner,Brazilian,$$$,Bronx,Fast-casual,Brazilian restaurant in Bronx with fast-casual atmosphere. $$$ price range.,4.0,40.717167928584836,-73.97276926734807
+rest_0283,Bistro Turkish Corner,Turkish,$$$,Williamsburg,Cozy,Turkish restaurant in Williamsburg with cozy atmosphere. $$$ price range.,4.3,40.70183906765475,-73.90857011934395
+rest_0284,Kitchen Mexican Place,Mexican,$,Tribeca,Family-friendly,Mexican restaurant in Tribeca with family-friendly atmosphere. $ price range.,4.2,40.72740552206872,-73.94458219974842
+rest_0285,Kitchen Ethiopian Corner,Ethiopian,$,Manhattan,Trendy,Ethiopian restaurant in Manhattan with trendy atmosphere. $ price range.,3.2,40.76514203883519,-73.91702581962929
+rest_0286,Cafe American House,American,$$$$,Queens,Fine Dining,American restaurant in Queens with fine dining atmosphere. $$$$ price range.,4.2,40.76005168604336,-73.93349633254537
+rest_0287,The Brazilian Spot,Brazilian,$$,Tribeca,Fast-casual,Brazilian restaurant in Tribeca with fast-casual atmosphere. $$ price range.,4.8,40.71753712786235,-73.90855880540751
+rest_0288,Bistro Greek Spot,Greek,$,Park Slope,Outdoor seating,Greek restaurant in Park Slope with outdoor seating atmosphere. $ price range.,2.5,40.75189177052828,-73.9953034033225
+rest_0289,Cafe French House,French,$$,Bronx,Outdoor seating,French restaurant in Bronx with outdoor seating atmosphere. $$ price range.,3.0,40.71662833687561,-73.92619663835737
+rest_0290,The Thai Spot,Thai,$$,Queens,Fast-casual,Thai restaurant in Queens with fast-casual atmosphere. $$ price range.,4.1,40.72453491096813,-73.96107043859581
+rest_0291,Cafe Ethiopian House,Ethiopian,$$$,Astoria,Outdoor seating,Ethiopian restaurant in Astoria with outdoor seating atmosphere. $$$ price range.,3.4,40.72886937367707,-73.9644327283535
+rest_0292,Bamboo House,Japanese,$$$,Williamsburg,Fast-casual,Japanese restaurant in Williamsburg with fast-casual atmosphere. $$$ price range.,3.2,40.75664046402969,-73.9523949597801
+rest_0293,Bamboo House,Japanese,$$,Bronx,Fine Dining,Japanese restaurant in Bronx with fine dining atmosphere. $$ price range.,4.8,40.766367116536266,-73.90631702606753
+rest_0294,Cafe Turkish Corner,Turkish,$$$,Brooklyn,Outdoor seating,Turkish restaurant in Brooklyn with outdoor seating atmosphere. $$$ price range.,3.3,40.70311831350613,-73.97377359557002
+rest_0295,Cafe German Spot,German,$,Midtown,Outdoor seating,German restaurant in Midtown with outdoor seating atmosphere. $ price range.,4.6,40.75950779307003,-73.99485741865158
+rest_0296,Bistro French Spot,French,$$,Bronx,Romantic,French restaurant in Bronx with romantic atmosphere. $$ price range.,6.0,40.7334243890817,-73.92290877962542
+rest_0297,Zen Ramen,Japanese,$$$,Queens,Outdoor seating,Japanese restaurant in Queens with outdoor seating atmosphere. $$$ price range.,3.9,40.71065982531338,-73.99248622182643
+rest_0298,Cafe American Corner,American,$,Park Slope,Family-friendly,American restaurant in Park Slope with family-friendly atmosphere. $ price range.,4.0,40.76884023964277,-73.95651726613963
+rest_0299,The Vietnamese Spot,Vietnamese,$,Downtown,Fine Dining,Vietnamese restaurant in Downtown with fine dining atmosphere. $ price range.,5.4,40.724640203323915,-73.91808976823259
+rest_0300,Kitchen Thai Spot,Thai,$$$$,Chelsea,Casual,Thai restaurant in Chelsea with casual atmosphere. $$$$ price range.,4.5,40.727214513723,-73.9409769333131
+rest_0301,Bistro American Place,American,$$$$,Queens,Upscale,American restaurant in Queens with upscale atmosphere. $$$$ price range.,4.8,40.736097389694,-73.99084179266734
+rest_0302,Bamboo House,Japanese,$,Brooklyn,Fast-casual,Japanese restaurant in Brooklyn with fast-casual atmosphere. $ price range.,3.9,40.71851329288386,-73.94580990526217
+rest_0303,Cafe Brazilian Spot,Brazilian,$$,Bronx,Bar atmosphere,Brazilian restaurant in Bronx with bar atmosphere atmosphere. $$ price range.,4.5,40.78729458358764,-73.92677751135905
+rest_0304,Bistro Vietnamese House,Vietnamese,$$$,Williamsburg,Family-friendly,Vietnamese restaurant in Williamsburg with family-friendly atmosphere. $$$ price range.,4.4,40.76922765645178,-73.91508043484347
+rest_0305,Bistro Vietnamese Place,Vietnamese,$$,Astoria,Fine Dining,Vietnamese restaurant in Astoria with fine dining atmosphere. $$ price range.,4.9,40.72496680088592,-73.9510575036357
+rest_0306,Bistro Korean Place,Korean,$$,Midtown,Casual,Korean restaurant in Midtown with casual atmosphere. $$ price range.,4.3,40.71805753451274,-73.94320547694474
+rest_0307,Bistro German Corner,German,$$,Brooklyn,Cozy,German restaurant in Brooklyn with cozy atmosphere. $$ price range.,4.2,40.7915488297588,-73.99660540214143
+rest_0308,Kitchen French Spot,French,$$$$,Park Slope,Fast-casual,French restaurant in Park Slope with fast-casual atmosphere. $$$$ price range.,3.1,40.79243961953765,-73.90289417548347
+rest_0309,Kitchen Lebanese Corner,Lebanese,$,Midtown,Upscale,Lebanese restaurant in Midtown with upscale atmosphere. $ price range.,4.8,40.79442664891134,-73.95257857833425
+rest_0310,Bistro Thai Place,Thai,$$$,Downtown,Casual,Thai restaurant in Downtown with casual atmosphere. $$$ price range.,4.0,40.73191004732433,-73.91710845258494
+rest_0311,The Lebanese Place,Lebanese,$$$,Park Slope,Casual,Lebanese restaurant in Park Slope with casual atmosphere. $$$ price range.,4.0,40.70370076347155,-73.9403730121518
+rest_0312,Kitchen Indian Spot,Indian,$$$,Tribeca,Cozy,Indian restaurant in Tribeca with cozy atmosphere. $$$ price range.,3.7,40.70769532016293,-73.9303711224122
+rest_0313,Dragon House,Chinese,$$$$,Downtown,Bar atmosphere,Chinese restaurant in Downtown with bar atmosphere atmosphere. $$$$ price range.,3.8,40.733987496376805,-73.92752332284712
+rest_0314,Kitchen Ethiopian Spot,Ethiopian,$$$,Midtown,Upscale,Ethiopian restaurant in Midtown with upscale atmosphere. $$$ price range.,3.9,40.75394912923753,-73.92092768351611
+rest_0315,Bistro Mexican Spot,Mexican,$$,Midtown,Upscale,Mexican restaurant in Midtown with upscale atmosphere. $$ price range.,3.6,40.73187525029321,-73.9374108623563
+rest_0316,Kitchen Ethiopian House,Ethiopian,$$$,Brooklyn,Romantic,Ethiopian restaurant in Brooklyn with romantic atmosphere. $$$ price range.,4.2,40.723295947475364,-73.99755992184434
+rest_0317,Imperial Kitchen,Chinese,$,Brooklyn,Cozy,Chinese restaurant in Brooklyn with cozy atmosphere. $ price range.,4.7,40.78700988739009,-73.99787305891496
+rest_0318,Bistro Indian Corner,Indian,$$,Bronx,Bar atmosphere,Indian restaurant in Bronx with bar atmosphere atmosphere. $$ price range.,4.1,40.79390676985129,-73.92012167642264
+rest_0319,Kitchen Spanish Spot,Spanish,$$$,Chelsea,Cozy,Spanish restaurant in Chelsea with cozy atmosphere. $$$ price range.,4.9,40.79979341105333,-73.96492881845484
+rest_0320,The Lebanese Place,Lebanese,$,Bronx,Cozy,Lebanese restaurant in Bronx with cozy atmosphere. $ price range.,3.6,40.74798756203039,-73.93724945367816
+rest_0321,Bistro American Corner,American,$,Chelsea,Fast-casual,American restaurant in Chelsea with fast-casual atmosphere. $ price range.,5.1,40.78736771141863,-73.90159165308008
+rest_0322,Imperial Palace,Chinese,$$$$,Brooklyn,Outdoor seating,Chinese restaurant in Brooklyn with outdoor seating atmosphere. $$$$ price range.,3.6,40.742135700227706,-73.92624176984111
+rest_0323,Cafe Korean House,Korean,$,Chelsea,Fine Dining,Korean restaurant in Chelsea with fine dining atmosphere. $ price range.,5.2,40.72387771457683,-73.98895258868686
+rest_0324,Kitchen Brazilian Corner,Brazilian,$$$,Williamsburg,Family-friendly,Brazilian restaurant in Williamsburg with family-friendly atmosphere. $$$ price range.,2.9,40.7296308120456,-73.97663922489501
+rest_0325,Cafe German Corner,German,$$$$,Tribeca,Casual,German restaurant in Tribeca with casual atmosphere. $$$$ price range.,3.3,40.70420931896364,-73.99821260652666
+rest_0326,Kitchen Ethiopian Spot,Ethiopian,$$$,SoHo,Fast-casual,Ethiopian restaurant in SoHo with fast-casual atmosphere. $$$ price range.,4.0,40.738432664715965,-73.9320352717307
+rest_0327,Bistro French Spot,French,$$$$,Park Slope,Cozy,French restaurant in Park Slope with cozy atmosphere. $$$$ price range.,4.2,40.721825388786506,-73.90500388160498
+rest_0328,Bistro Lebanese Corner,Lebanese,$$,Queens,Trendy,Lebanese restaurant in Queens with trendy atmosphere. $$ price range.,4.8,40.79447320222914,-73.95325984887502
+rest_0329,Kitchen American Spot,American,$$$,Tribeca,Romantic,American restaurant in Tribeca with romantic atmosphere. $$$ price range.,3.8,40.76134113892107,-73.98329660539079
+rest_0330,Bistro Lebanese House,Lebanese,$$$,Park Slope,Trendy,Lebanese restaurant in Park Slope with trendy atmosphere. $$$ price range.,4.1,40.76077367948788,-73.94873114889835
+rest_0331,Cafe Ethiopian Spot,Ethiopian,$$$$,Williamsburg,Cozy,Ethiopian restaurant in Williamsburg with cozy atmosphere. $$$$ price range.,4.4,40.723066981171776,-73.98234719679945
+rest_0332,Lucky Kitchen,Chinese,$$$,Tribeca,Fine Dining,Chinese restaurant in Tribeca with fine dining atmosphere. $$$ price range.,3.5,40.777958447356674,-73.96498747408333
+rest_0333,Bistro Mediterranean Spot,Mediterranean,$$$$,Queens,Romantic,Mediterranean restaurant in Queens with romantic atmosphere. $$$$ price range.,3.6,40.70578426765634,-73.90308973698592
+rest_0334,Cafe Indian Corner,Indian,$,Chelsea,Bar atmosphere,Indian restaurant in Chelsea with bar atmosphere atmosphere. $ price range.,5.1,40.76960206180538,-73.98461040936601
+rest_0335,Golden Garden,Chinese,$$,SoHo,Romantic,Chinese restaurant in SoHo with romantic atmosphere. $$ price range.,3.5,40.78158331249906,-73.97755594281634
+rest_0336,The German Corner,German,$$$,Tribeca,Fast-casual,German restaurant in Tribeca with fast-casual atmosphere. $$$ price range.,4.2,40.75929399348417,-73.94199137921622
+rest_0337,Nonna Ristorante,Italian,$$,Williamsburg,Fast-casual,Italian restaurant in Williamsburg with fast-casual atmosphere. $$ price range.,2.8,40.70914868373978,-73.91225391373696
+rest_0338,The American Corner,American,$$$,Manhattan,Casual,American restaurant in Manhattan with casual atmosphere. $$$ price range.,3.5,40.78887480798689,-73.90443485017703
+rest_0339,Cafe Ethiopian House,Ethiopian,$,Brooklyn,Upscale,Ethiopian restaurant in Brooklyn with upscale atmosphere. $ price range.,3.7,40.786212761726546,-73.91904839252751
+rest_0340,The Spanish House,Spanish,$$$$,Brooklyn,Trendy,Spanish restaurant in Brooklyn with trendy atmosphere. $$$$ price range.,4.5,40.708698675991144,-73.95915467869293
+rest_0341,Kitchen American Place,American,$,Bronx,Trendy,American restaurant in Bronx with trendy atmosphere. $ price range.,5.6,40.73726885170123,-73.97402462162397
+rest_0342,The Indian Spot,Indian,$$$$,Manhattan,Romantic,Indian restaurant in Manhattan with romantic atmosphere. $$$$ price range.,4.0,40.70810462159077,-73.97798167980503
+rest_0343,Cafe French House,French,$$$$,SoHo,Trendy,French restaurant in SoHo with trendy atmosphere. $$$$ price range.,5.4,40.76832587636596,-73.99238691405097
+rest_0344,Cafe Vietnamese Place,Vietnamese,$$$,Chelsea,Romantic,Vietnamese restaurant in Chelsea with romantic atmosphere. $$$ price range.,4.0,40.74805865773266,-73.94075922153405
+rest_0345,The German Corner,German,$$$,Midtown,Upscale,German restaurant in Midtown with upscale atmosphere. $$$ price range.,5.0,40.78246809659251,-73.96521907920979
+rest_0346,The Indian Spot,Indian,$$$$,Bronx,Romantic,Indian restaurant in Bronx with romantic atmosphere. $$$$ price range.,4.5,40.72670282701694,-73.91213700136448
+rest_0347,Bistro Spanish Spot,Spanish,$$,Astoria,Trendy,Spanish restaurant in Astoria with trendy atmosphere. $$ price range.,5.5,40.77974260216069,-73.93415481653416
+rest_0348,Mario Trattoria,Italian,$$$,SoHo,Cozy,Italian restaurant in SoHo with cozy atmosphere. $$$ price range.,4.7,40.76974714616693,-73.93198592282397
+rest_0349,Kitchen Mexican Spot,Mexican,$$$$,Manhattan,Family-friendly,Mexican restaurant in Manhattan with family-friendly atmosphere. $$$$ price range.,4.4,40.76186113782152,-73.92472833604424
+rest_0350,Cafe Mexican Corner,Mexican,$$$,Bronx,Bar atmosphere,Mexican restaurant in Bronx with bar atmosphere atmosphere. $$$ price range.,3.9,40.73351188542591,-73.92564917437085
+rest_0351,Bistro Indian Place,Indian,$$$$,Brooklyn,Fast-casual,Indian restaurant in Brooklyn with fast-casual atmosphere. $$$$ price range.,4.1,40.71607598960483,-73.9182032975881
+rest_0352,Cafe Ethiopian House,Ethiopian,$$$$,Park Slope,Romantic,Ethiopian restaurant in Park Slope with romantic atmosphere. $$$$ price range.,4.0,40.70063858717169,-73.97129618668251
+rest_0353,The Turkish House,Turkish,$$$$,Park Slope,Cozy,Turkish restaurant in Park Slope with cozy atmosphere. $$$$ price range.,5.0,40.761692691837574,-73.90188138219726
+rest_0354,Dragon Palace,Chinese,$$,Chelsea,Outdoor seating,Chinese restaurant in Chelsea with outdoor seating atmosphere. $$ price range.,2.9,40.76340057030996,-73.94600146202842
+rest_0355,Kitchen Vietnamese House,Vietnamese,$$$$,Midtown,Romantic,Vietnamese restaurant in Midtown with romantic atmosphere. $$$$ price range.,4.6,40.77798453951511,-73.9893019361173
+rest_0356,Cafe Turkish Place,Turkish,$$$$,Downtown,Fast-casual,Turkish restaurant in Downtown with fast-casual atmosphere. $$$$ price range.,4.2,40.796299200385896,-73.96581278339613
+rest_0357,Bistro Brazilian House,Brazilian,$,Park Slope,Fast-casual,Brazilian restaurant in Park Slope with fast-casual atmosphere. $ price range.,5.3,40.763262189313394,-73.90679718944901
+rest_0358,The Spanish House,Spanish,$$$,Downtown,Romantic,Spanish restaurant in Downtown with romantic atmosphere. $$$ price range.,3.6,40.73009635669468,-73.92918279113547
+rest_0359,The German House,German,$$$,Tribeca,Fine Dining,German restaurant in Tribeca with fine dining atmosphere. $$$ price range.,4.2,40.70673506014688,-73.94178295398238
+rest_0360,Cafe Lebanese Corner,Lebanese,$,Manhattan,Upscale,Lebanese restaurant in Manhattan with upscale atmosphere. $ price range.,5.0,40.704574203381256,-73.91284631938477
+rest_0361,Kitchen German Place,German,$$$,Williamsburg,Fast-casual,German restaurant in Williamsburg with fast-casual atmosphere. $$$ price range.,2.8,40.79734889691774,-73.90311221447143
+rest_0362,Sakura Ramen,Japanese,$$,SoHo,Cozy,Japanese restaurant in SoHo with cozy atmosphere. $$ price range.,3.6,40.7758263195929,-73.99754130835412
+rest_0363,Cafe Ethiopian House,Ethiopian,$$$$,Park Slope,Family-friendly,Ethiopian restaurant in Park Slope with family-friendly atmosphere. $$$$ price range.,4.3,40.7022123551529,-73.96763897808505
+rest_0364,Nonna Bistro,Italian,$$$,Astoria,Outdoor seating,Italian restaurant in Astoria with outdoor seating atmosphere. $$$ price range.,5.3,40.76832953766065,-73.95540972936233
+rest_0365,Cafe Korean Spot,Korean,$$,Astoria,Cozy,Korean restaurant in Astoria with cozy atmosphere. $$ price range.,3.9,40.72736266662817,-73.90028754998423
+rest_0366,The Thai Corner,Thai,$,Downtown,Upscale,Thai restaurant in Downtown with upscale atmosphere. $ price range.,2.8,40.71636238211917,-73.920519045125
+rest_0367,The Thai Place,Thai,$,Midtown,Bar atmosphere,Thai restaurant in Midtown with bar atmosphere atmosphere. $ price range.,2.2,40.769368222578144,-73.97792303872113
+rest_0368,Imperial Kitchen,Chinese,$$,Tribeca,Casual,Chinese restaurant in Tribeca with casual atmosphere. $$ price range.,4.2,40.765451121428114,-73.97267404730017
+rest_0369,Bistro Korean Corner,Korean,$$,Downtown,Family-friendly,Korean restaurant in Downtown with family-friendly atmosphere. $$ price range.,3.5,40.79508635622504,-73.9848942108219
+rest_0370,Cafe Vietnamese Corner,Vietnamese,$$$,Queens,Trendy,Vietnamese restaurant in Queens with trendy atmosphere. $$$ price range.,4.5,40.74197273169261,-73.9361474052336
+rest_0371,Cafe German Place,German,$$$,Manhattan,Casual,German restaurant in Manhattan with casual atmosphere. $$$ price range.,3.9,40.73975943979628,-73.97257847976513
+rest_0372,Kitchen Ethiopian Spot,Ethiopian,$$$$,Downtown,Cozy,Ethiopian restaurant in Downtown with cozy atmosphere. $$$$ price range.,4.0,40.78940992036791,-73.9770045394109
+rest_0373,Kitchen German Corner,German,$$$$,Brooklyn,Trendy,German restaurant in Brooklyn with trendy atmosphere. $$$$ price range.,4.2,40.72131047040251,-73.99688659171154
+rest_0374,Bistro Ethiopian Corner,Ethiopian,$$$$,Queens,Romantic,Ethiopian restaurant in Queens with romantic atmosphere. $$$$ price range.,3.0,40.78643582498396,-73.95267900933085
+rest_0375,Kitchen Brazilian Corner,Brazilian,$,Park Slope,Upscale,Brazilian restaurant in Park Slope with upscale atmosphere. $ price range.,5.2,40.79681934279147,-73.98144744842969
+rest_0376,Bistro Spanish House,Spanish,$$,Manhattan,Romantic,Spanish restaurant in Manhattan with romantic atmosphere. $$ price range.,4.3,40.7770921844644,-73.91552167718831
+rest_0377,Cafe Brazilian House,Brazilian,$$$,Midtown,Outdoor seating,Brazilian restaurant in Midtown with outdoor seating atmosphere. $$$ price range.,4.4,40.7761023990943,-73.93737796783687
+rest_0378,The Mediterranean House,Mediterranean,$$$$,SoHo,Bar atmosphere,Mediterranean restaurant in SoHo with bar atmosphere atmosphere. $$$$ price range.,4.2,40.77965372909762,-73.95184776484875
+rest_0379,Bistro Thai Spot,Thai,$$,Astoria,Romantic,Thai restaurant in Astoria with romantic atmosphere. $$ price range.,4.6,40.71173081889624,-73.98748142077974
+rest_0380,Nonna Ristorante,Italian,$$,Queens,Fine Dining,Italian restaurant in Queens with fine dining atmosphere. $$ price range.,3.5,40.720052472670034,-73.95084054532586
+rest_0381,Bistro Thai Spot,Thai,$$$$,Queens,Outdoor seating,Thai restaurant in Queens with outdoor seating atmosphere. $$$$ price range.,5.4,40.70642089370752,-73.94180285980856
+rest_0382,Bistro Spanish Spot,Spanish,$$$$,Park Slope,Cozy,Spanish restaurant in Park Slope with cozy atmosphere. $$$$ price range.,4.7,40.73103619589236,-73.95447798509183
+rest_0383,Kitchen Greek Spot,Greek,$$$$,Astoria,Fine Dining,Greek restaurant in Astoria with fine dining atmosphere. $$$$ price range.,3.5,40.701162053990814,-73.99275531122055
+rest_0384,The Thai Corner,Thai,$$$,Bronx,Upscale,Thai restaurant in Bronx with upscale atmosphere. $$$ price range.,3.6,40.76000205481193,-73.97083374212907
+rest_0385,Kitchen Indian Spot,Indian,$,Manhattan,Outdoor seating,Indian restaurant in Manhattan with outdoor seating atmosphere. $ price range.,2.1,40.76949818861265,-73.91398776028109
+rest_0386,Kitchen Indian Corner,Indian,$$,Bronx,Romantic,Indian restaurant in Bronx with romantic atmosphere. $$ price range.,3.2,40.72420450158626,-73.9013337406733
+rest_0387,Kitchen Lebanese Place,Lebanese,$$$,Manhattan,Fast-casual,Lebanese restaurant in Manhattan with fast-casual atmosphere. $$$ price range.,4.0,40.714249554290156,-73.95011118465487
+rest_0388,Kitchen French Corner,French,$$$,Brooklyn,Family-friendly,French restaurant in Brooklyn with family-friendly atmosphere. $$$ price range.,5.2,40.75596486834869,-73.99902291525808
+rest_0389,The Ethiopian House,Ethiopian,$,Park Slope,Casual,Ethiopian restaurant in Park Slope with casual atmosphere. $ price range.,4.7,40.7326461308244,-73.94822883566154
+rest_0390,Bella Ristorante,Italian,$$$$,Brooklyn,Romantic,Italian restaurant in Brooklyn with romantic atmosphere. $$$$ price range.,3.8,40.70332031087914,-73.9921421502845
+rest_0391,Luigi Trattoria,Italian,$$,Park Slope,Fast-casual,Italian restaurant in Park Slope with fast-casual atmosphere. $$ price range.,3.5,40.73969232762016,-73.9867284245957
+rest_0392,Kitchen Lebanese House,Lebanese,$$$$,Downtown,Casual,Lebanese restaurant in Downtown with casual atmosphere. $$$$ price range.,5.4,40.78005866991091,-73.97998497557552
+rest_0393,Bella Bistro,Italian,$$$,Park Slope,Trendy,Italian restaurant in Park Slope with trendy atmosphere. $$$ price range.,4.5,40.716748258225905,-73.98954321596656
+rest_0394,Cafe French Corner,French,$,Midtown,Outdoor seating,French restaurant in Midtown with outdoor seating atmosphere. $ price range.,5.1,40.70315861448257,-73.90637877537564
+rest_0395,Kitchen Thai House,Thai,$$$,Bronx,Trendy,Thai restaurant in Bronx with trendy atmosphere. $$$ price range.,4.7,40.70519712836515,-73.94587036646989
+rest_0396,Cafe Greek Corner,Greek,$$$$,Astoria,Bar atmosphere,Greek restaurant in Astoria with bar atmosphere atmosphere. $$$$ price range.,4.6,40.77140869321324,-73.91982719169303
+rest_0397,The American Place,American,$,SoHo,Casual,American restaurant in SoHo with casual atmosphere. $ price range.,4.3,40.73394501925428,-73.91851748862535
+rest_0398,The Spanish House,Spanish,$$$$,Park Slope,Fast-casual,Spanish restaurant in Park Slope with fast-casual atmosphere. $$$$ price range.,5.1,40.74523182845183,-73.93564223048035
+rest_0399,Bistro French House,French,$,Astoria,Upscale,French restaurant in Astoria with upscale atmosphere. $ price range.,4.2,40.752640266093614,-73.92684104782447
+rest_0400,Kitchen Turkish Spot,Turkish,$,Queens,Romantic,Turkish restaurant in Queens with romantic atmosphere. $ price range.,3.5,40.78717835665922,-73.9780786012642
+rest_0401,Golden Palace,Chinese,$,SoHo,Trendy,Chinese restaurant in SoHo with trendy atmosphere. $ price range.,3.6,40.79758652558191,-73.9663104208229
+rest_0402,Cafe Vietnamese Place,Vietnamese,$,Queens,Bar atmosphere,Vietnamese restaurant in Queens with bar atmosphere atmosphere. $ price range.,4.4,40.765870777550084,-73.95018042835468
+rest_0403,Tokyo House,Japanese,$$$,Brooklyn,Bar atmosphere,Japanese restaurant in Brooklyn with bar atmosphere atmosphere. $$$ price range.,3.5,40.75553635509376,-73.92807982217278
+rest_0404,The Ethiopian Spot,Ethiopian,$$$,Williamsburg,Family-friendly,Ethiopian restaurant in Williamsburg with family-friendly atmosphere. $$$ price range.,4.0,40.719954245092914,-73.93197717575687
+rest_0405,Golden House,Chinese,$,Williamsburg,Romantic,Chinese restaurant in Williamsburg with romantic atmosphere. $ price range.,4.1,40.70721984089792,-73.99693474977941
+rest_0406,Kitchen Spanish Place,Spanish,$$$,Downtown,Trendy,Spanish restaurant in Downtown with trendy atmosphere. $$$ price range.,3.8,40.78682725054084,-73.92728309302338
+rest_0407,Kitchen Korean Corner,Korean,$$$,Park Slope,Upscale,Korean restaurant in Park Slope with upscale atmosphere. $$$ price range.,2.7,40.774270652119995,-73.95745066655519
+rest_0408,Cafe Spanish House,Spanish,$,Chelsea,Trendy,Spanish restaurant in Chelsea with trendy atmosphere. $ price range.,3.0,40.7987649563736,-73.99598908085875
+rest_0409,Tokyo House,Japanese,$$$,Brooklyn,Upscale,Japanese restaurant in Brooklyn with upscale atmosphere. $$$ price range.,2.8,40.786703149612244,-73.94213245914277
+rest_0410,The Vietnamese Spot,Vietnamese,$$$,Midtown,Fine Dining,Vietnamese restaurant in Midtown with fine dining atmosphere. $$$ price range.,5.3,40.748666894142474,-73.91265767619184
+rest_0411,Cafe Brazilian House,Brazilian,$$$,Manhattan,Fine Dining,Brazilian restaurant in Manhattan with fine dining atmosphere. $$$ price range.,3.6,40.790070186401124,-73.95782790731266
+rest_0412,Kitchen French House,French,$$$$,Astoria,Outdoor seating,French restaurant in Astoria with outdoor seating atmosphere. $$$$ price range.,4.5,40.79123633456167,-73.97893378109943
+rest_0413,Bella Pizzeria,Italian,$,Bronx,Outdoor seating,Italian restaurant in Bronx with outdoor seating atmosphere. $ price range.,2.7,40.76229665835635,-73.93684397799075
+rest_0414,Kitchen Spanish House,Spanish,$,Manhattan,Upscale,Spanish restaurant in Manhattan with upscale atmosphere. $ price range.,3.5,40.771582496468206,-73.90909674793345
+rest_0415,Cafe Ethiopian Place,Ethiopian,$$,Chelsea,Outdoor seating,Ethiopian restaurant in Chelsea with outdoor seating atmosphere. $$ price range.,4.3,40.717968310887024,-73.97624566750761
+rest_0416,Bistro French Place,French,$$,Manhattan,Trendy,French restaurant in Manhattan with trendy atmosphere. $$ price range.,4.0,40.72472310744032,-73.91292500987275
+rest_0417,Bistro Indian Place,Indian,$,Brooklyn,Upscale,Indian restaurant in Brooklyn with upscale atmosphere. $ price range.,4.9,40.74453052550027,-73.94851826460703
+rest_0418,Bistro American Corner,American,$$$$,Midtown,Cozy,American restaurant in Midtown with cozy atmosphere. $$$$ price range.,4.9,40.7163523872585,-73.96089184633483
+rest_0419,Cafe Lebanese Spot,Lebanese,$$,Astoria,Fine Dining,Lebanese restaurant in Astoria with fine dining atmosphere. $$ price range.,2.6,40.79694123223353,-73.97418665672988
+rest_0420,Nonna Pizzeria,Italian,$$$$,Bronx,Bar atmosphere,Italian restaurant in Bronx with bar atmosphere atmosphere. $$$$ price range.,3.0,40.77734731256866,-73.98691263392817
+rest_0421,Cafe Brazilian Spot,Brazilian,$$$,Williamsburg,Bar atmosphere,Brazilian restaurant in Williamsburg with bar atmosphere atmosphere. $$$ price range.,4.9,40.796982104507855,-73.95462104586164
+rest_0422,Cafe Vietnamese Place,Vietnamese,$$,Astoria,Cozy,Vietnamese restaurant in Astoria with cozy atmosphere. $$ price range.,4.1,40.73370031764313,-73.91711166341175
+rest_0423,Cafe Vietnamese Spot,Vietnamese,$$$,Tribeca,Fast-casual,Vietnamese restaurant in Tribeca with fast-casual atmosphere. $$$ price range.,3.0,40.743088752366184,-73.97512857274124
+rest_0424,The Spanish Corner,Spanish,$$$,Williamsburg,Cozy,Spanish restaurant in Williamsburg with cozy atmosphere. $$$ price range.,5.2,40.7167041907901,-73.98323807837117
+rest_0425,The Ethiopian Place,Ethiopian,$$,SoHo,Outdoor seating,Ethiopian restaurant in SoHo with outdoor seating atmosphere. $$ price range.,4.7,40.703667142693355,-73.92635979849344
+rest_0426,Kitchen Thai Place,Thai,$$$$,Manhattan,Fine Dining,Thai restaurant in Manhattan with fine dining atmosphere. $$$$ price range.,3.7,40.78441704489692,-73.919432984705
+rest_0427,Cafe Indian Place,Indian,$$$,Queens,Trendy,Indian restaurant in Queens with trendy atmosphere. $$$ price range.,5.7,40.75853543643967,-73.91317287194867
+rest_0428,Kitchen Spanish Place,Spanish,$,Astoria,Bar atmosphere,Spanish restaurant in Astoria with bar atmosphere atmosphere. $ price range.,3.8,40.7269749611517,-73.99429131439106
+rest_0429,Bistro Ethiopian House,Ethiopian,$$$$,Park Slope,Casual,Ethiopian restaurant in Park Slope with casual atmosphere. $$$$ price range.,3.8,40.753116952800106,-73.90633943077052
+rest_0430,Cafe Mexican House,Mexican,$$,SoHo,Cozy,Mexican restaurant in SoHo with cozy atmosphere. $$ price range.,4.6,40.73161561049768,-73.94927651913116
+rest_0431,The Spanish House,Spanish,$$$,Williamsburg,Fine Dining,Spanish restaurant in Williamsburg with fine dining atmosphere. $$$ price range.,3.9,40.70415728590504,-73.98516567990379
+rest_0432,Cafe Mediterranean Place,Mediterranean,$$,Park Slope,Outdoor seating,Mediterranean restaurant in Park Slope with outdoor seating atmosphere. $$ price range.,4.7,40.745473985563386,-73.94844039714208
+rest_0433,Cafe Greek Spot,Greek,$$$$,Astoria,Bar atmosphere,Greek restaurant in Astoria with bar atmosphere atmosphere. $$$$ price range.,4.3,40.748884658025695,-73.93331357424539
+rest_0434,Nonna Trattoria,Italian,$$$$,Midtown,Trendy,Italian restaurant in Midtown with trendy atmosphere. $$$$ price range.,4.9,40.72018534521229,-73.93265675666751
+rest_0435,Bistro Mexican Place,Mexican,$$,Bronx,Trendy,Mexican restaurant in Bronx with trendy atmosphere. $$ price range.,3.2,40.79699120461073,-73.99060992842107
+rest_0436,The Thai Place,Thai,$$$$,Bronx,Fast-casual,Thai restaurant in Bronx with fast-casual atmosphere. $$$$ price range.,3.5,40.78681422543775,-73.98228502105526
+rest_0437,The Brazilian House,Brazilian,$$$,Midtown,Trendy,Brazilian restaurant in Midtown with trendy atmosphere. $$$ price range.,5.5,40.769262595222614,-73.9161884710352
+rest_0438,Mario Ristorante,Italian,$$$,SoHo,Fine Dining,Italian restaurant in SoHo with fine dining atmosphere. $$$ price range.,4.1,40.749717476400846,-73.93821527597989
+rest_0439,Bistro Turkish Place,Turkish,$$,Park Slope,Family-friendly,Turkish restaurant in Park Slope with family-friendly atmosphere. $$ price range.,4.3,40.78689049844787,-73.94293902533612
+rest_0440,Cafe Brazilian Place,Brazilian,$$,Williamsburg,Family-friendly,Brazilian restaurant in Williamsburg with family-friendly atmosphere. $$ price range.,4.9,40.72156751523978,-73.93411145297674
+rest_0441,Cafe Spanish Place,Spanish,$,Tribeca,Bar atmosphere,Spanish restaurant in Tribeca with bar atmosphere atmosphere. $ price range.,4.9,40.73938644056542,-73.93487670229585
+rest_0442,Cafe German Spot,German,$$$$,Downtown,Romantic,German restaurant in Downtown with romantic atmosphere. $$$$ price range.,4.2,40.79994137257707,-73.99517879611395
+rest_0443,Zen Garden,Japanese,$,Park Slope,Family-friendly,Japanese restaurant in Park Slope with family-friendly atmosphere. $ price range.,3.4,40.79771741842213,-73.95930920392772
+rest_0444,Kitchen Thai Spot,Thai,$$$$,Midtown,Trendy,Thai restaurant in Midtown with trendy atmosphere. $$$$ price range.,4.3,40.75670162609867,-73.92615507907487
+rest_0445,Bistro Spanish Spot,Spanish,$$$$,Chelsea,Fine Dining,Spanish restaurant in Chelsea with fine dining atmosphere. $$$$ price range.,4.3,40.787851556130136,-73.9595859678349
+rest_0446,The Brazilian Corner,Brazilian,$$,SoHo,Trendy,Brazilian restaurant in SoHo with trendy atmosphere. $$ price range.,5.0,40.780784594194124,-73.92377148652234
+rest_0447,The Vietnamese Corner,Vietnamese,$,Queens,Trendy,Vietnamese restaurant in Queens with trendy atmosphere. $ price range.,3.0,40.779781364885864,-73.9564416685187
+rest_0448,Kitchen Greek Corner,Greek,$$,Park Slope,Upscale,Greek restaurant in Park Slope with upscale atmosphere. $$ price range.,3.9,40.75444890979608,-73.99942413395019
+rest_0449,Cafe Spanish Corner,Spanish,$$$$,Brooklyn,Fast-casual,Spanish restaurant in Brooklyn with fast-casual atmosphere. $$$$ price range.,4.1,40.73245858299003,-73.96335384651286
+rest_0450,Bistro Lebanese Place,Lebanese,$$$,Brooklyn,Family-friendly,Lebanese restaurant in Brooklyn with family-friendly atmosphere. $$$ price range.,5.3,40.738855810127035,-73.95513063773775
+rest_0451,Dragon Palace,Chinese,$$$,Downtown,Fast-casual,Chinese restaurant in Downtown with fast-casual atmosphere. $$$ price range.,3.3,40.723754413087434,-73.96267482083707
+rest_0452,Kitchen Spanish Place,Spanish,$$$$,Williamsburg,Fast-casual,Spanish restaurant in Williamsburg with fast-casual atmosphere. $$$$ price range.,5.3,40.76194903460096,-73.95365059561995
+rest_0453,The Lebanese Corner,Lebanese,$$,Midtown,Bar atmosphere,Lebanese restaurant in Midtown with bar atmosphere atmosphere. $$ price range.,4.8,40.73797857801792,-73.91366663504282
+rest_0454,Bistro American Corner,American,$,Manhattan,Romantic,American restaurant in Manhattan with romantic atmosphere. $ price range.,2.0,40.70256420658065,-73.96587521723738
+rest_0455,The Brazilian House,Brazilian,$$$$,Park Slope,Outdoor seating,Brazilian restaurant in Park Slope with outdoor seating atmosphere. $$$$ price range.,5.8,40.73801956187859,-73.96011772191031
+rest_0456,Kitchen Mediterranean Corner,Mediterranean,$$$,Park Slope,Casual,Mediterranean restaurant in Park Slope with casual atmosphere. $$$ price range.,4.8,40.760790509279346,-73.9235116738458
+rest_0457,Bistro German House,German,$,Tribeca,Romantic,German restaurant in Tribeca with romantic atmosphere. $ price range.,6.0,40.78129857387161,-73.92818769237735
+rest_0458,Kitchen Brazilian House,Brazilian,$$$,Bronx,Fine Dining,Brazilian restaurant in Bronx with fine dining atmosphere. $$$ price range.,4.6,40.72434822965763,-73.90729654552038
+rest_0459,Bistro Korean Place,Korean,$$,Tribeca,Bar atmosphere,Korean restaurant in Tribeca with bar atmosphere atmosphere. $$ price range.,4.2,40.70602673902896,-73.90655639731945
+rest_0460,The French Spot,French,$$,Queens,Romantic,French restaurant in Queens with romantic atmosphere. $$ price range.,3.4,40.74858717591863,-73.97432234322795
+rest_0461,Cafe Ethiopian Spot,Ethiopian,$$$,Chelsea,Outdoor seating,Ethiopian restaurant in Chelsea with outdoor seating atmosphere. $$$ price range.,3.8,40.72848729019619,-73.96927100350737
+rest_0462,The American Corner,American,$$$,Chelsea,Trendy,American restaurant in Chelsea with trendy atmosphere. $$$ price range.,4.1,40.7311307699156,-73.93896662166891
+rest_0463,Cafe German Corner,German,$,Manhattan,Family-friendly,German restaurant in Manhattan with family-friendly atmosphere. $ price range.,5.1,40.77161506742232,-73.97273759992665
+rest_0464,Kitchen Indian Corner,Indian,$$$,Queens,Upscale,Indian restaurant in Queens with upscale atmosphere. $$$ price range.,3.2,40.71811493495347,-73.9318882146035
+rest_0465,The Mediterranean House,Mediterranean,$$$$,Williamsburg,Fast-casual,Mediterranean restaurant in Williamsburg with fast-casual atmosphere. $$$$ price range.,3.8,40.71814383476956,-73.9474836616333
+rest_0466,Kitchen Spanish Place,Spanish,$$$,Tribeca,Cozy,Spanish restaurant in Tribeca with cozy atmosphere. $$$ price range.,3.5,40.75673122196289,-73.97434372162986
+rest_0467,Kitchen Vietnamese Spot,Vietnamese,$,Tribeca,Fine Dining,Vietnamese restaurant in Tribeca with fine dining atmosphere. $ price range.,4.3,40.79629268752375,-73.951645435328
+rest_0468,Tokyo House,Japanese,$$$$,Queens,Upscale,Japanese restaurant in Queens with upscale atmosphere. $$$$ price range.,4.2,40.704341253285484,-73.9366848624406
+rest_0469,Cafe Mediterranean Place,Mediterranean,$$$,Manhattan,Cozy,Mediterranean restaurant in Manhattan with cozy atmosphere. $$$ price range.,5.1,40.79514033422066,-73.93983881798538
+rest_0470,Kitchen Vietnamese House,Vietnamese,$,Downtown,Fine Dining,Vietnamese restaurant in Downtown with fine dining atmosphere. $ price range.,4.0,40.7228079771949,-73.97879551600919
+rest_0471,The Mexican Place,Mexican,$$,Astoria,Fast-casual,Mexican restaurant in Astoria with fast-casual atmosphere. $$ price range.,4.0,40.7610980988851,-73.95889715301934
+rest_0472,Cafe Thai Spot,Thai,$$,SoHo,Trendy,Thai restaurant in SoHo with trendy atmosphere. $$ price range.,3.0,40.77805255152438,-73.9725193964452
+rest_0473,Zen Ramen,Japanese,$$$,Manhattan,Fine Dining,Japanese restaurant in Manhattan with fine dining atmosphere. $$$ price range.,3.4,40.78226143185137,-73.95762617463512
+rest_0474,Dragon Kitchen,Chinese,$$$$,SoHo,Trendy,Chinese restaurant in SoHo with trendy atmosphere. $$$$ price range.,3.5,40.76238593246766,-73.95482323212627
+rest_0475,Bamboo Sushi,Japanese,$,Downtown,Romantic,Japanese restaurant in Downtown with romantic atmosphere. $ price range.,4.2,40.75866084631755,-73.98319857922552
+rest_0476,The Indian House,Indian,$$,Park Slope,Fast-casual,Indian restaurant in Park Slope with fast-casual atmosphere. $$ price range.,4.5,40.72167398000908,-73.99042854444798
+rest_0477,Kitchen Vietnamese House,Vietnamese,$,Williamsburg,Family-friendly,Vietnamese restaurant in Williamsburg with family-friendly atmosphere. $ price range.,4.3,40.702363858604635,-73.93580284995568
+rest_0478,The Korean Spot,Korean,$$$$,Midtown,Fine Dining,Korean restaurant in Midtown with fine dining atmosphere. $$$$ price range.,4.8,40.7231947096116,-73.96090940040945
+rest_0479,Cafe Greek Corner,Greek,$$$,Brooklyn,Upscale,Greek restaurant in Brooklyn with upscale atmosphere. $$$ price range.,5.8,40.75944763351862,-73.95032331411409
+rest_0480,Bamboo Garden,Japanese,$,Chelsea,Family-friendly,Japanese restaurant in Chelsea with family-friendly atmosphere. $ price range.,3.4,40.742819961492565,-73.92824022343419
+rest_0481,Kitchen Thai Corner,Thai,$$,Williamsburg,Bar atmosphere,Thai restaurant in Williamsburg with bar atmosphere atmosphere. $$ price range.,5.3,40.76924361513244,-73.90087440062979
+rest_0482,Bamboo Garden,Japanese,$,Brooklyn,Fine Dining,Japanese restaurant in Brooklyn with fine dining atmosphere. $ price range.,4.5,40.727416066655984,-73.9920580631011
+rest_0483,Bistro German House,German,$$$,Brooklyn,Romantic,German restaurant in Brooklyn with romantic atmosphere. $$$ price range.,5.3,40.70856582495964,-73.91058091253359
+rest_0484,Bistro Korean Corner,Korean,$$$,Tribeca,Casual,Korean restaurant in Tribeca with casual atmosphere. $$$ price range.,3.5,40.7226656402227,-73.96450036941681
+rest_0485,Bistro Turkish House,Turkish,$$,Tribeca,Upscale,Turkish restaurant in Tribeca with upscale atmosphere. $$ price range.,3.2,40.70694238427461,-73.94809402090918
+rest_0486,Cafe Korean Place,Korean,$$$$,Williamsburg,Fine Dining,Korean restaurant in Williamsburg with fine dining atmosphere. $$$$ price range.,4.2,40.78800790875614,-73.93491226309528
+rest_0487,Tokyo House,Japanese,$,Bronx,Cozy,Japanese restaurant in Bronx with cozy atmosphere. $ price range.,2.8,40.753295778655136,-73.96756662468846
+rest_0488,Kitchen German House,German,$$$,Park Slope,Family-friendly,German restaurant in Park Slope with family-friendly atmosphere. $$$ price range.,5.0,40.799413936122114,-73.93381608101507
+rest_0489,Mario Trattoria,Italian,$,Downtown,Trendy,Italian restaurant in Downtown with trendy atmosphere. $ price range.,3.0,40.755778341737,-73.92693494897608
+rest_0490,Imperial Kitchen,Chinese,$$$$,Park Slope,Trendy,Chinese restaurant in Park Slope with trendy atmosphere. $$$$ price range.,3.4,40.75622968158779,-73.90423747154946
+rest_0491,Cafe Spanish Spot,Spanish,$,SoHo,Outdoor seating,Spanish restaurant in SoHo with outdoor seating atmosphere. $ price range.,4.0,40.717530294235765,-73.93099951091794
+rest_0492,Tokyo Ramen,Japanese,$$$,Midtown,Outdoor seating,Japanese restaurant in Midtown with outdoor seating atmosphere. $$$ price range.,4.1,40.709667644964675,-73.95496290637418
+rest_0493,The Ethiopian Spot,Ethiopian,$$$,Williamsburg,Bar atmosphere,Ethiopian restaurant in Williamsburg with bar atmosphere atmosphere. $$$ price range.,2.9,40.77561633288952,-73.9652428475761
+rest_0494,The German Place,German,$$,Downtown,Romantic,German restaurant in Downtown with romantic atmosphere. $$ price range.,4.9,40.79271778194794,-73.97653579181446
+rest_0495,The Mexican Spot,Mexican,$$$$,Chelsea,Bar atmosphere,Mexican restaurant in Chelsea with bar atmosphere atmosphere. $$$$ price range.,4.5,40.739931591580934,-73.98475839866695
+rest_0496,The French Corner,French,$,Downtown,Family-friendly,French restaurant in Downtown with family-friendly atmosphere. $ price range.,5.0,40.75209579772721,-73.93764143119972
+rest_0497,Bistro Lebanese Corner,Lebanese,$$$,Park Slope,Outdoor seating,Lebanese restaurant in Park Slope with outdoor seating atmosphere. $$$ price range.,4.1,40.7089124432116,-73.92447295795033
+rest_0498,The Greek House,Greek,$$,Tribeca,Trendy,Greek restaurant in Tribeca with trendy atmosphere. $$ price range.,4.1,40.778202808767034,-73.9291255302257
+rest_0499,The Vietnamese Spot,Vietnamese,$$$$,Manhattan,Outdoor seating,Vietnamese restaurant in Manhattan with outdoor seating atmosphere. $$$$ price range.,3.9,40.70361603805248,-73.96968716440547
+rest_0500,Zen Sushi,Japanese,$$$$,Astoria,Outdoor seating,Japanese restaurant in Astoria with outdoor seating atmosphere. $$$$ price range.,3.4,40.70876427467638,-73.9063042176969
+rest_0501,Bistro Lebanese House,Lebanese,$$,Bronx,Family-friendly,Lebanese restaurant in Bronx with family-friendly atmosphere. $$ price range.,2.9,40.75538022407124,-73.9694475689342
+rest_0502,The Mexican House,Mexican,$$,Tribeca,Outdoor seating,Mexican restaurant in Tribeca with outdoor seating atmosphere. $$ price range.,3.1,40.76005943333606,-73.94843205723035
+rest_0503,Luigi Bistro,Italian,$$,Downtown,Fast-casual,Italian restaurant in Downtown with fast-casual atmosphere. $$ price range.,2.3,40.79193919732144,-73.95030365170942
+rest_0504,Kitchen Indian Corner,Indian,$$,Downtown,Outdoor seating,Indian restaurant in Downtown with outdoor seating atmosphere. $$ price range.,4.1,40.738062329347656,-73.9122025679555
+rest_0505,Bistro Vietnamese House,Vietnamese,$$,Williamsburg,Cozy,Vietnamese restaurant in Williamsburg with cozy atmosphere. $$ price range.,3.9,40.78680566901074,-73.91940745998824
+rest_0506,Cafe Greek Corner,Greek,$,Park Slope,Casual,Greek restaurant in Park Slope with casual atmosphere. $ price range.,3.5,40.70809192830513,-73.95970198212349
+rest_0507,Kitchen Turkish Spot,Turkish,$,Williamsburg,Fine Dining,Turkish restaurant in Williamsburg with fine dining atmosphere. $ price range.,4.8,40.717352451498655,-73.93050489110976
+rest_0508,Kitchen American House,American,$$$,Midtown,Outdoor seating,American restaurant in Midtown with outdoor seating atmosphere. $$$ price range.,4.0,40.76409720773453,-73.91775194363657
+rest_0509,Bistro Greek Corner,Greek,$$,Manhattan,Bar atmosphere,Greek restaurant in Manhattan with bar atmosphere atmosphere. $$ price range.,4.0,40.71325246727419,-73.91379855177274
+rest_0510,Cafe Brazilian Corner,Brazilian,$$$,Chelsea,Fast-casual,Brazilian restaurant in Chelsea with fast-casual atmosphere. $$$ price range.,4.0,40.7606252937751,-73.9235190199097
+rest_0511,Cafe Indian Spot,Indian,$,Williamsburg,Casual,Indian restaurant in Williamsburg with casual atmosphere. $ price range.,4.7,40.71748386272604,-73.94974339235365
+rest_0512,Luigi Trattoria,Italian,$$$,Downtown,Upscale,Italian restaurant in Downtown with upscale atmosphere. $$$ price range.,3.1,40.73675344222915,-73.99318276906145
+rest_0513,The Thai Corner,Thai,$$,Williamsburg,Fast-casual,Thai restaurant in Williamsburg with fast-casual atmosphere. $$ price range.,3.8,40.70258119069495,-73.98648337108452
+rest_0514,Kitchen Mediterranean Spot,Mediterranean,$,Downtown,Romantic,Mediterranean restaurant in Downtown with romantic atmosphere. $ price range.,4.0,40.79658221611532,-73.956750212167
+rest_0515,Cafe Brazilian Place,Brazilian,$,Chelsea,Fine Dining,Brazilian restaurant in Chelsea with fine dining atmosphere. $ price range.,4.4,40.73118161330853,-73.94938581371598
+rest_0516,Tokyo Garden,Japanese,$,Williamsburg,Family-friendly,Japanese restaurant in Williamsburg with family-friendly atmosphere. $ price range.,3.2,40.76408263146902,-73.97839618174905
+rest_0517,Bistro Mediterranean Place,Mediterranean,$$$,Williamsburg,Cozy,Mediterranean restaurant in Williamsburg with cozy atmosphere. $$$ price range.,3.9,40.76195879548978,-73.93497989076019
+rest_0518,Cafe Mediterranean House,Mediterranean,$$,Midtown,Romantic,Mediterranean restaurant in Midtown with romantic atmosphere. $$ price range.,3.8,40.70581637955055,-73.90051336828303
+rest_0519,Kitchen Indian Spot,Indian,$,Brooklyn,Fast-casual,Indian restaurant in Brooklyn with fast-casual atmosphere. $ price range.,5.2,40.70577805609964,-73.93049647711415
+rest_0520,Cafe German Place,German,$,Park Slope,Cozy,German restaurant in Park Slope with cozy atmosphere. $ price range.,3.5,40.76921613416941,-73.993770820187
+rest_0521,The American Corner,American,$$$$,Manhattan,Fine Dining,American restaurant in Manhattan with fine dining atmosphere. $$$$ price range.,3.8,40.75094221281498,-73.9003303146147
+rest_0522,Cafe American House,American,$,Queens,Cozy,American restaurant in Queens with cozy atmosphere. $ price range.,4.3,40.73062536207866,-73.93761041637084
+rest_0523,The Korean Spot,Korean,$$$,Williamsburg,Outdoor seating,Korean restaurant in Williamsburg with outdoor seating atmosphere. $$$ price range.,5.0,40.75270414639117,-73.95739166161097
+rest_0524,Kitchen Mediterranean Corner,Mediterranean,$$,Downtown,Upscale,Mediterranean restaurant in Downtown with upscale atmosphere. $$ price range.,2.9,40.73677593508773,-73.9585870247471
+rest_0525,The Mexican House,Mexican,$$$$,Midtown,Family-friendly,Mexican restaurant in Midtown with family-friendly atmosphere. $$$$ price range.,3.8,40.782753789556686,-73.92663856194386
+rest_0526,Imperial House,Chinese,$$,Brooklyn,Romantic,Chinese restaurant in Brooklyn with romantic atmosphere. $$ price range.,3.5,40.70191922768231,-73.97401867912549
+rest_0527,Sakura Ramen,Japanese,$$$,Midtown,Casual,Japanese restaurant in Midtown with casual atmosphere. $$$ price range.,1.9,40.77602898231221,-73.9862890294271
+rest_0528,The Brazilian House,Brazilian,$$,Midtown,Cozy,Brazilian restaurant in Midtown with cozy atmosphere. $$ price range.,2.8,40.70121207746439,-73.97587985424005
+rest_0529,Kitchen Brazilian Place,Brazilian,$,Brooklyn,Bar atmosphere,Brazilian restaurant in Brooklyn with bar atmosphere atmosphere. $ price range.,4.1,40.797587375491005,-73.91984628881171
+rest_0530,Cafe Lebanese Spot,Lebanese,$,Williamsburg,Upscale,Lebanese restaurant in Williamsburg with upscale atmosphere. $ price range.,4.0,40.71097361986775,-73.94520405110264
+rest_0531,Kitchen Thai Corner,Thai,$$,Manhattan,Trendy,Thai restaurant in Manhattan with trendy atmosphere. $$ price range.,4.5,40.745437733455994,-73.91556429172604
+rest_0532,Imperial Kitchen,Chinese,$$,SoHo,Trendy,Chinese restaurant in SoHo with trendy atmosphere. $$ price range.,4.0,40.7150048664694,-73.967532407311
+rest_0533,Bistro Ethiopian Place,Ethiopian,$$$$,Downtown,Fine Dining,Ethiopian restaurant in Downtown with fine dining atmosphere. $$$$ price range.,3.3,40.77373570773878,-73.95239818706312
+rest_0534,Cafe Indian House,Indian,$$$$,Queens,Outdoor seating,Indian restaurant in Queens with outdoor seating atmosphere. $$$$ price range.,2.9,40.7459446768406,-73.9214983456163
+rest_0535,Kitchen Spanish Spot,Spanish,$$$,Astoria,Outdoor seating,Spanish restaurant in Astoria with outdoor seating atmosphere. $$$ price range.,2.7,40.789208468894024,-73.90446653134961
+rest_0536,Cafe Turkish House,Turkish,$$$,Williamsburg,Trendy,Turkish restaurant in Williamsburg with trendy atmosphere. $$$ price range.,3.5,40.768813470608656,-73.95623968759446
+rest_0537,The Vietnamese Place,Vietnamese,$$,Downtown,Trendy,Vietnamese restaurant in Downtown with trendy atmosphere. $$ price range.,4.8,40.72546706220461,-73.91591284205741
+rest_0538,Cafe Turkish House,Turkish,$$$,Chelsea,Romantic,Turkish restaurant in Chelsea with romantic atmosphere. $$$ price range.,5.7,40.76593539222058,-73.91048822592936
+rest_0539,The Korean Corner,Korean,$$,Manhattan,Outdoor seating,Korean restaurant in Manhattan with outdoor seating atmosphere. $$ price range.,3.5,40.76366696821672,-73.938606641524
+rest_0540,Cafe Spanish Spot,Spanish,$$$,Brooklyn,Family-friendly,Spanish restaurant in Brooklyn with family-friendly atmosphere. $$$ price range.,4.0,40.71501690008171,-73.92625662312786
+rest_0541,Cafe Greek Corner,Greek,$,Tribeca,Cozy,Greek restaurant in Tribeca with cozy atmosphere. $ price range.,3.4,40.751222192081265,-73.93197722207917
+rest_0542,The Lebanese House,Lebanese,$$$,Brooklyn,Fast-casual,Lebanese restaurant in Brooklyn with fast-casual atmosphere. $$$ price range.,3.7,40.70712567277653,-73.9987891524765
+rest_0543,Golden Kitchen,Chinese,$$,Chelsea,Romantic,Chinese restaurant in Chelsea with romantic atmosphere. $$ price range.,4.1,40.795650139829945,-73.9262491640541
+rest_0544,Mario Pizzeria,Italian,$$$,Chelsea,Romantic,Italian restaurant in Chelsea with romantic atmosphere. $$$ price range.,2.9,40.73497032297458,-73.92253464688189
+rest_0545,Cafe French Corner,French,$$$,Downtown,Casual,French restaurant in Downtown with casual atmosphere. $$$ price range.,3.2,40.76613706110704,-73.98148044321326
+rest_0546,Kitchen Mexican House,Mexican,$$$,Midtown,Cozy,Mexican restaurant in Midtown with cozy atmosphere. $$$ price range.,4.9,40.7265046428325,-73.9979055038969
+rest_0547,Cafe Vietnamese Place,Vietnamese,$$$,Bronx,Family-friendly,Vietnamese restaurant in Bronx with family-friendly atmosphere. $$$ price range.,4.6,40.708217166747644,-73.9032139965155
+rest_0548,Bistro Lebanese Corner,Lebanese,$$$,Brooklyn,Outdoor seating,Lebanese restaurant in Brooklyn with outdoor seating atmosphere. $$$ price range.,4.8,40.762466356885426,-73.96180603603472
+rest_0549,Cafe French Corner,French,$$$$,Manhattan,Trendy,French restaurant in Manhattan with trendy atmosphere. $$$$ price range.,3.4,40.720568726219554,-73.98786135818406
+rest_0550,Mario Pizzeria,Italian,$$$$,Chelsea,Casual,Italian restaurant in Chelsea with casual atmosphere. $$$$ price range.,5.1,40.764390425354115,-73.94696978667508
+rest_0551,Bistro Korean House,Korean,$,Astoria,Family-friendly,Korean restaurant in Astoria with family-friendly atmosphere. $ price range.,4.4,40.704195122343165,-73.90315112224057
+rest_0552,The Korean Spot,Korean,$$$,Bronx,Family-friendly,Korean restaurant in Bronx with family-friendly atmosphere. $$$ price range.,3.5,40.79799703293588,-73.93981184103637
+rest_0553,Cafe Brazilian House,Brazilian,$,Manhattan,Romantic,Brazilian restaurant in Manhattan with romantic atmosphere. $ price range.,4.7,40.758242265820726,-73.92519268205704
+rest_0554,The Greek Place,Greek,$$$,Midtown,Casual,Greek restaurant in Midtown with casual atmosphere. $$$ price range.,4.4,40.71280957463662,-73.96617324940055
+rest_0555,Kitchen Brazilian Place,Brazilian,$$$$,Brooklyn,Upscale,Brazilian restaurant in Brooklyn with upscale atmosphere. $$$$ price range.,4.9,40.7928083640326,-73.97753843881561
+rest_0556,Cafe Greek Corner,Greek,$$$$,Midtown,Fast-casual,Greek restaurant in Midtown with fast-casual atmosphere. $$$$ price range.,3.2,40.743940498969444,-73.93870604175055
+rest_0557,The Brazilian Spot,Brazilian,$,Downtown,Trendy,Brazilian restaurant in Downtown with trendy atmosphere. $ price range.,2.4,40.79430758377447,-73.97593072881675
+rest_0558,Cafe Mediterranean Place,Mediterranean,$,Midtown,Cozy,Mediterranean restaurant in Midtown with cozy atmosphere. $ price range.,3.8,40.78869249002093,-73.93541891873448
+rest_0559,Bistro French Place,French,$,Park Slope,Fine Dining,French restaurant in Park Slope with fine dining atmosphere. $ price range.,3.8,40.728590678923915,-73.91840530610314
+rest_0560,Nonna Ristorante,Italian,$$$$,SoHo,Family-friendly,Italian restaurant in SoHo with family-friendly atmosphere. $$$$ price range.,3.9,40.77550419287463,-73.95394605027259
+rest_0561,Dragon Kitchen,Chinese,$,Bronx,Romantic,Chinese restaurant in Bronx with romantic atmosphere. $ price range.,4.2,40.784199855289,-73.92715093228384
+rest_0562,Bistro Ethiopian Corner,Ethiopian,$$$,SoHo,Trendy,Ethiopian restaurant in SoHo with trendy atmosphere. $$$ price range.,4.5,40.71774287694697,-73.9454973081103
+rest_0563,Kitchen Mexican Corner,Mexican,$,Williamsburg,Bar atmosphere,Mexican restaurant in Williamsburg with bar atmosphere atmosphere. $ price range.,4.9,40.79846697395245,-73.90626119335029
+rest_0564,Golden House,Chinese,$$$,Downtown,Upscale,Chinese restaurant in Downtown with upscale atmosphere. $$$ price range.,4.3,40.78177853298569,-73.97864886336893
+rest_0565,Cafe Lebanese Corner,Lebanese,$$,Midtown,Casual,Lebanese restaurant in Midtown with casual atmosphere. $$ price range.,3.5,40.750585269295186,-73.91592969719889
+rest_0566,Bistro American Place,American,$,Astoria,Fine Dining,American restaurant in Astoria with fine dining atmosphere. $ price range.,4.2,40.759034769045876,-73.94916394530837
+rest_0567,The Lebanese Place,Lebanese,$$$$,SoHo,Trendy,Lebanese restaurant in SoHo with trendy atmosphere. $$$$ price range.,5.4,40.729754845131886,-73.9434978007141
+rest_0568,Cafe French Place,French,$$$,Williamsburg,Cozy,French restaurant in Williamsburg with cozy atmosphere. $$$ price range.,4.6,40.76362913539793,-73.92388784629568
+rest_0569,Lucky Palace,Chinese,$$$,Astoria,Fast-casual,Chinese restaurant in Astoria with fast-casual atmosphere. $$$ price range.,4.3,40.71600716349546,-73.95384425255803
+rest_0570,The Mediterranean Spot,Mediterranean,$,Brooklyn,Fine Dining,Mediterranean restaurant in Brooklyn with fine dining atmosphere. $ price range.,3.8,40.780007096869916,-73.97959643653711
+rest_0571,The Ethiopian Place,Ethiopian,$$$$,Chelsea,Romantic,Ethiopian restaurant in Chelsea with romantic atmosphere. $$$$ price range.,3.3,40.755508494930226,-73.92669287039703
+rest_0572,Cafe Turkish Place,Turkish,$$$$,Park Slope,Fast-casual,Turkish restaurant in Park Slope with fast-casual atmosphere. $$$$ price range.,3.0,40.735538456868575,-73.92162082155147
+rest_0573,Cafe American House,American,$,Williamsburg,Casual,American restaurant in Williamsburg with casual atmosphere. $ price range.,4.4,40.7554226514132,-73.99947703864571
+rest_0574,Cafe Brazilian Corner,Brazilian,$$,Brooklyn,Romantic,Brazilian restaurant in Brooklyn with romantic atmosphere. $$ price range.,3.4,40.795807348011934,-73.9632059248698
+rest_0575,Dragon Palace,Chinese,$$$$,Midtown,Upscale,Chinese restaurant in Midtown with upscale atmosphere. $$$$ price range.,4.5,40.73269316163381,-73.98511119496676
+rest_0576,The Mediterranean Place,Mediterranean,$$$,Tribeca,Fine Dining,Mediterranean restaurant in Tribeca with fine dining atmosphere. $$$ price range.,4.6,40.79963343376272,-73.96316904694932
+rest_0577,Bistro Ethiopian Place,Ethiopian,$$$$,Park Slope,Cozy,Ethiopian restaurant in Park Slope with cozy atmosphere. $$$$ price range.,3.7,40.744861063095456,-73.92779290617973
+rest_0578,Mario Ristorante,Italian,$$$$,Midtown,Upscale,Italian restaurant in Midtown with upscale atmosphere. $$$$ price range.,4.2,40.73915256981778,-73.95873781591514
+rest_0579,Bistro Mexican Spot,Mexican,$,Chelsea,Fine Dining,Mexican restaurant in Chelsea with fine dining atmosphere. $ price range.,4.7,40.76956181464968,-73.99967817363957
+rest_0580,Kitchen German House,German,$$$,Williamsburg,Fast-casual,German restaurant in Williamsburg with fast-casual atmosphere. $$$ price range.,2.8,40.7794197331277,-73.99070093601769
+rest_0581,Kitchen French House,French,$$$,Williamsburg,Family-friendly,French restaurant in Williamsburg with family-friendly atmosphere. $$$ price range.,5.0,40.75882022669484,-73.95190271101139
+rest_0582,The Spanish Place,Spanish,$$$,Tribeca,Romantic,Spanish restaurant in Tribeca with romantic atmosphere. $$$ price range.,3.5,40.75799837874281,-73.94385154120405
+rest_0583,Bistro Mediterranean Spot,Mediterranean,$$$,Downtown,Cozy,Mediterranean restaurant in Downtown with cozy atmosphere. $$$ price range.,4.1,40.75606600944162,-73.93965123334036
+rest_0584,Cafe Mediterranean Corner,Mediterranean,$$$$,Tribeca,Fine Dining,Mediterranean restaurant in Tribeca with fine dining atmosphere. $$$$ price range.,4.8,40.726982072012824,-73.917495058982
+rest_0585,Kitchen American House,American,$$$$,Bronx,Trendy,American restaurant in Bronx with trendy atmosphere. $$$$ price range.,4.5,40.74982556822634,-73.99229417208657
+rest_0586,Kitchen Thai Spot,Thai,$$$$,Queens,Upscale,Thai restaurant in Queens with upscale atmosphere. $$$$ price range.,3.9,40.778489697711144,-73.92923190652591
+rest_0587,Imperial Palace,Chinese,$$,Midtown,Trendy,Chinese restaurant in Midtown with trendy atmosphere. $$ price range.,3.6,40.778861496467236,-73.94827309435584
+rest_0588,Cafe Turkish House,Turkish,$,Brooklyn,Romantic,Turkish restaurant in Brooklyn with romantic atmosphere. $ price range.,3.1,40.73281927536093,-73.95659806338261
+rest_0589,Bistro Korean Corner,Korean,$,Astoria,Casual,Korean restaurant in Astoria with casual atmosphere. $ price range.,3.8,40.70886004296796,-73.97793880472888
+rest_0590,Kitchen Mediterranean House,Mediterranean,$$$,Astoria,Outdoor seating,Mediterranean restaurant in Astoria with outdoor seating atmosphere. $$$ price range.,5.2,40.799834751139294,-73.90668866686565
+rest_0591,Nonna Ristorante,Italian,$$,Bronx,Fast-casual,Italian restaurant in Bronx with fast-casual atmosphere. $$ price range.,4.5,40.76425651995352,-73.95787519467059
+rest_0592,Bistro Lebanese House,Lebanese,$$$,Bronx,Family-friendly,Lebanese restaurant in Bronx with family-friendly atmosphere. $$$ price range.,5.0,40.71183361909234,-73.95900951103037
+rest_0593,Cafe American Corner,American,$,Williamsburg,Casual,American restaurant in Williamsburg with casual atmosphere. $ price range.,4.5,40.78398022856356,-73.9616167048067
+rest_0594,Bistro Korean Place,Korean,$$,SoHo,Romantic,Korean restaurant in SoHo with romantic atmosphere. $$ price range.,5.5,40.71844762531337,-73.96377645583478
+rest_0595,Kitchen Turkish Corner,Turkish,$,SoHo,Casual,Turkish restaurant in SoHo with casual atmosphere. $ price range.,5.2,40.733451128874194,-73.9973803291468
+rest_0596,Bistro French Spot,French,$,Queens,Trendy,French restaurant in Queens with trendy atmosphere. $ price range.,4.1,40.72987255735888,-73.90593207548847
+rest_0597,Bistro German Corner,German,$$$$,Bronx,Fast-casual,German restaurant in Bronx with fast-casual atmosphere. $$$$ price range.,2.6,40.725929675886576,-73.95703431872612
+rest_0598,Kitchen Brazilian House,Brazilian,$$$,SoHo,Outdoor seating,Brazilian restaurant in SoHo with outdoor seating atmosphere. $$$ price range.,4.4,40.745818688673786,-73.95170311279146
+rest_0599,Luigi Pizzeria,Italian,$$$,Park Slope,Bar atmosphere,Italian restaurant in Park Slope with bar atmosphere atmosphere. $$$ price range.,3.6,40.7133479972416,-73.99193984862428
+rest_0600,Bistro Mexican Spot,Mexican,$$$$,Midtown,Cozy,Mexican restaurant in Midtown with cozy atmosphere. $$$$ price range.,4.0,40.74368507026152,-73.92704917713476
+rest_0601,Cafe Mediterranean Corner,Mediterranean,$$$,SoHo,Trendy,Mediterranean restaurant in SoHo with trendy atmosphere. $$$ price range.,5.4,40.77655128989911,-73.98410918323306
+rest_0602,Kitchen Turkish Spot,Turkish,$$,Downtown,Bar atmosphere,Turkish restaurant in Downtown with bar atmosphere atmosphere. $$ price range.,3.2,40.7751375086029,-73.93430448437329
+rest_0603,Bistro Indian Spot,Indian,$,SoHo,Fast-casual,Indian restaurant in SoHo with fast-casual atmosphere. $ price range.,4.2,40.79566146210834,-73.99310419836436
+rest_0604,Cafe German Spot,German,$$$$,Williamsburg,Casual,German restaurant in Williamsburg with casual atmosphere. $$$$ price range.,3.9,40.72617056837359,-73.9753021200928
+rest_0605,Bistro Korean Corner,Korean,$$$$,SoHo,Cozy,Korean restaurant in SoHo with cozy atmosphere. $$$$ price range.,3.8,40.7906254580521,-73.97504538001505
+rest_0606,Kitchen Ethiopian Corner,Ethiopian,$$,Manhattan,Fine Dining,Ethiopian restaurant in Manhattan with fine dining atmosphere. $$ price range.,4.7,40.74497398424506,-73.92232894430448
+rest_0607,The Mediterranean Corner,Mediterranean,$$,SoHo,Cozy,Mediterranean restaurant in SoHo with cozy atmosphere. $$ price range.,3.4,40.70653661575644,-73.95124288063266
+rest_0608,Kitchen Greek Spot,Greek,$$,Tribeca,Trendy,Greek restaurant in Tribeca with trendy atmosphere. $$ price range.,2.1,40.734734332625884,-73.91001666543127
+rest_0609,Kitchen Greek House,Greek,$$$,Chelsea,Trendy,Greek restaurant in Chelsea with trendy atmosphere. $$$ price range.,4.7,40.70218233967755,-73.93362103138244
+rest_0610,The Lebanese Place,Lebanese,$,SoHo,Bar atmosphere,Lebanese restaurant in SoHo with bar atmosphere atmosphere. $ price range.,4.1,40.7936822462033,-73.99477421207139
+rest_0611,Bistro Thai Place,Thai,$,SoHo,Upscale,Thai restaurant in SoHo with upscale atmosphere. $ price range.,4.4,40.74187933190742,-73.9739842209038
+rest_0612,Lucky Kitchen,Chinese,$$,Brooklyn,Romantic,Chinese restaurant in Brooklyn with romantic atmosphere. $$ price range.,4.6,40.719809763275975,-73.94346697454284
+rest_0613,The Brazilian Place,Brazilian,$$,Bronx,Family-friendly,Brazilian restaurant in Bronx with family-friendly atmosphere. $$ price range.,3.0,40.74639324866883,-73.90279946703686
+rest_0614,The Vietnamese Place,Vietnamese,$$,Bronx,Casual,Vietnamese restaurant in Bronx with casual atmosphere. $$ price range.,2.7,40.7114095784888,-73.98487531712651
+rest_0615,Cafe Mediterranean Place,Mediterranean,$$,Brooklyn,Bar atmosphere,Mediterranean restaurant in Brooklyn with bar atmosphere atmosphere. $$ price range.,4.9,40.722531692995126,-73.97490333386597
+rest_0616,Bamboo House,Japanese,$$,Chelsea,Upscale,Japanese restaurant in Chelsea with upscale atmosphere. $$ price range.,4.2,40.752339091137436,-73.98852311281308
+rest_0617,The German Corner,German,$$$$,Williamsburg,Casual,German restaurant in Williamsburg with casual atmosphere. $$$$ price range.,4.9,40.78601396933494,-73.92771856967916
+rest_0618,Cafe Greek House,Greek,$,Bronx,Outdoor seating,Greek restaurant in Bronx with outdoor seating atmosphere. $ price range.,4.1,40.75435382173426,-73.99182746542532
+rest_0619,Luigi Ristorante,Italian,$$,Queens,Cozy,Italian restaurant in Queens with cozy atmosphere. $$ price range.,3.7,40.74583006415286,-73.95153037128699
+rest_0620,Bistro Mexican Corner,Mexican,$$$$,Park Slope,Bar atmosphere,Mexican restaurant in Park Slope with bar atmosphere atmosphere. $$$$ price range.,4.3,40.74622955610006,-73.95882344584155
+rest_0621,Bamboo Garden,Japanese,$,Manhattan,Trendy,Japanese restaurant in Manhattan with trendy atmosphere. $ price range.,4.7,40.765097346715095,-73.94545681305931
+rest_0622,Bistro German Corner,German,$$,Bronx,Fast-casual,German restaurant in Bronx with fast-casual atmosphere. $$ price range.,4.0,40.78064036172328,-73.95407601224031
+rest_0623,Cafe French Corner,French,$$$$,Downtown,Romantic,French restaurant in Downtown with romantic atmosphere. $$$$ price range.,3.4,40.70519565775543,-73.9213721800616
+rest_0624,Cafe Thai House,Thai,$,Chelsea,Outdoor seating,Thai restaurant in Chelsea with outdoor seating atmosphere. $ price range.,3.5,40.71647063534323,-73.96697849351285
+rest_0625,The Greek House,Greek,$,Williamsburg,Trendy,Greek restaurant in Williamsburg with trendy atmosphere. $ price range.,3.4,40.775675150568865,-73.9480614140496
+rest_0626,Kitchen Mexican Place,Mexican,$,Downtown,Fine Dining,Mexican restaurant in Downtown with fine dining atmosphere. $ price range.,4.3,40.78795818549515,-73.91294215749541
+rest_0627,Kitchen Spanish Corner,Spanish,$,Park Slope,Trendy,Spanish restaurant in Park Slope with trendy atmosphere. $ price range.,3.8,40.72387962113815,-73.9548760655819
+rest_0628,The Thai Spot,Thai,$,Manhattan,Upscale,Thai restaurant in Manhattan with upscale atmosphere. $ price range.,4.7,40.75387017979527,-73.95021874919658
+rest_0629,The Indian Spot,Indian,$$$$,Midtown,Outdoor seating,Indian restaurant in Midtown with outdoor seating atmosphere. $$$$ price range.,3.9,40.710547369995666,-73.93432198952758
+rest_0630,Cafe Mexican Spot,Mexican,$,Astoria,Romantic,Mexican restaurant in Astoria with romantic atmosphere. $ price range.,3.7,40.77756118509253,-73.90355233460993
+rest_0631,Bistro Turkish Corner,Turkish,$$,Bronx,Upscale,Turkish restaurant in Bronx with upscale atmosphere. $$ price range.,4.9,40.72037664591277,-73.94766703688053
+rest_0632,Lucky Palace,Chinese,$$$$,Queens,Fast-casual,Chinese restaurant in Queens with fast-casual atmosphere. $$$$ price range.,4.7,40.757759336588116,-73.93654175824497
+rest_0633,Bella Bistro,Italian,$,SoHo,Fine Dining,Italian restaurant in SoHo with fine dining atmosphere. $ price range.,3.5,40.77979141596159,-73.96040295273376
+rest_0634,The Indian Spot,Indian,$,Park Slope,Fine Dining,Indian restaurant in Park Slope with fine dining atmosphere. $ price range.,4.1,40.71579548228354,-73.93041008818312
+rest_0635,Kitchen Korean House,Korean,$$$$,Manhattan,Trendy,Korean restaurant in Manhattan with trendy atmosphere. $$$$ price range.,4.7,40.779326135043824,-73.96832383229325
+rest_0636,Bistro Mexican Spot,Mexican,$$,Downtown,Trendy,Mexican restaurant in Downtown with trendy atmosphere. $$ price range.,3.7,40.7184224839238,-73.91060102899922
+rest_0637,The German Corner,German,$,Midtown,Casual,German restaurant in Midtown with casual atmosphere. $ price range.,3.7,40.7654292552325,-73.98478957167778
+rest_0638,Bistro French House,French,$$$,Bronx,Fast-casual,French restaurant in Bronx with fast-casual atmosphere. $$$ price range.,5.7,40.70834640849894,-73.91175836315927
+rest_0639,Kitchen Greek Place,Greek,$$$,Brooklyn,Fine Dining,Greek restaurant in Brooklyn with fine dining atmosphere. $$$ price range.,3.1,40.780360353544154,-73.94947932264233
+rest_0640,Kitchen Brazilian Corner,Brazilian,$$$,Williamsburg,Fast-casual,Brazilian restaurant in Williamsburg with fast-casual atmosphere. $$$ price range.,3.9,40.79841103190365,-73.93320800011963
+rest_0641,Cafe Mexican House,Mexican,$$,Tribeca,Casual,Mexican restaurant in Tribeca with casual atmosphere. $$ price range.,4.4,40.76346712732539,-73.98340451047042
+rest_0642,Cafe German Place,German,$$$$,Chelsea,Fast-casual,German restaurant in Chelsea with fast-casual atmosphere. $$$$ price range.,3.9,40.71622334057825,-73.99873924800242
+rest_0643,Kitchen Greek Place,Greek,$,SoHo,Family-friendly,Greek restaurant in SoHo with family-friendly atmosphere. $ price range.,4.8,40.75597556836384,-73.94726003778773
+rest_0644,The Mexican Spot,Mexican,$$$$,Astoria,Casual,Mexican restaurant in Astoria with casual atmosphere. $$$$ price range.,4.5,40.7079406584643,-73.92685035096596
+rest_0645,Cafe Vietnamese Spot,Vietnamese,$,Tribeca,Outdoor seating,Vietnamese restaurant in Tribeca with outdoor seating atmosphere. $ price range.,4.3,40.71874119440976,-73.9141822946843
+rest_0646,Kitchen Turkish Spot,Turkish,$,Williamsburg,Romantic,Turkish restaurant in Williamsburg with romantic atmosphere. $ price range.,4.1,40.77102427986233,-73.96856498868162
+rest_0647,The Spanish House,Spanish,$$,Park Slope,Bar atmosphere,Spanish restaurant in Park Slope with bar atmosphere atmosphere. $$ price range.,5.1,40.74711678989328,-73.91783631022896
+rest_0648,The French Place,French,$$$$,Astoria,Family-friendly,French restaurant in Astoria with family-friendly atmosphere. $$$$ price range.,2.3,40.74942124472503,-73.91717507475629
+rest_0649,The Vietnamese Corner,Vietnamese,$$,Bronx,Trendy,Vietnamese restaurant in Bronx with trendy atmosphere. $$ price range.,3.5,40.73352080473709,-73.98262384068643
+rest_0650,The Ethiopian Place,Ethiopian,$$$$,Williamsburg,Romantic,Ethiopian restaurant in Williamsburg with romantic atmosphere. $$$$ price range.,4.7,40.71006374785235,-73.9760125887244
+rest_0651,Kitchen Brazilian Spot,Brazilian,$$$$,Midtown,Fast-casual,Brazilian restaurant in Midtown with fast-casual atmosphere. $$$$ price range.,4.4,40.7141971989761,-73.96520585884178
+rest_0652,The Mexican Place,Mexican,$$$$,Tribeca,Casual,Mexican restaurant in Tribeca with casual atmosphere. $$$$ price range.,5.3,40.76511475848817,-73.93790714325216
+rest_0653,The German House,German,$,Park Slope,Outdoor seating,German restaurant in Park Slope with outdoor seating atmosphere. $ price range.,3.7,40.735237494660964,-73.91585524469153
+rest_0654,Bistro American Spot,American,$$,SoHo,Fast-casual,American restaurant in SoHo with fast-casual atmosphere. $$ price range.,4.3,40.76341421382957,-73.98737352584355
+rest_0655,Imperial House,Chinese,$$,Astoria,Cozy,Chinese restaurant in Astoria with cozy atmosphere. $$ price range.,4.0,40.76761775620754,-73.96748959845684
+rest_0656,The Brazilian Spot,Brazilian,$,Midtown,Romantic,Brazilian restaurant in Midtown with romantic atmosphere. $ price range.,3.6,40.717488143717596,-73.91442627410943
+rest_0657,Bistro Greek House,Greek,$$$,Park Slope,Outdoor seating,Greek restaurant in Park Slope with outdoor seating atmosphere. $$$ price range.,4.2,40.72271795570235,-73.91629588747571
+rest_0658,Imperial Garden,Chinese,$$,Astoria,Family-friendly,Chinese restaurant in Astoria with family-friendly atmosphere. $$ price range.,4.7,40.76941505735098,-73.94873452468549
+rest_0659,Kitchen Mediterranean Corner,Mediterranean,$$,Queens,Fine Dining,Mediterranean restaurant in Queens with fine dining atmosphere. $$ price range.,2.9,40.73053106766967,-73.97873556236289
+rest_0660,The Brazilian Place,Brazilian,$$,Tribeca,Cozy,Brazilian restaurant in Tribeca with cozy atmosphere. $$ price range.,4.4,40.787120448226304,-73.92339352234647
+rest_0661,Dragon Kitchen,Chinese,$,Astoria,Fast-casual,Chinese restaurant in Astoria with fast-casual atmosphere. $ price range.,4.1,40.778844734325325,-73.9335015096524
+rest_0662,Nonna Ristorante,Italian,$,Park Slope,Upscale,Italian restaurant in Park Slope with upscale atmosphere. $ price range.,4.3,40.76707323119058,-73.94395593690196
+rest_0663,Bistro French Place,French,$$,Midtown,Upscale,French restaurant in Midtown with upscale atmosphere. $$ price range.,3.8,40.711098946921354,-73.95529444561936
+rest_0664,Bistro German Spot,German,$$,Manhattan,Upscale,German restaurant in Manhattan with upscale atmosphere. $$ price range.,4.9,40.75466482201878,-73.96195994510296
+rest_0665,Bistro Brazilian Spot,Brazilian,$$,Brooklyn,Upscale,Brazilian restaurant in Brooklyn with upscale atmosphere. $$ price range.,3.9,40.79768003285106,-73.98892794066737
+rest_0666,Bistro Ethiopian Spot,Ethiopian,$$,Queens,Romantic,Ethiopian restaurant in Queens with romantic atmosphere. $$ price range.,3.6,40.77399041207669,-73.90819234478009
+rest_0667,Bistro Indian House,Indian,$$,Park Slope,Outdoor seating,Indian restaurant in Park Slope with outdoor seating atmosphere. $$ price range.,3.9,40.72800373295505,-73.9141658323201
+rest_0668,Kitchen Greek Spot,Greek,$$$$,Chelsea,Bar atmosphere,Greek restaurant in Chelsea with bar atmosphere atmosphere. $$$$ price range.,4.4,40.77539619035968,-73.91950932231586
+rest_0669,The German Place,German,$,Park Slope,Fine Dining,German restaurant in Park Slope with fine dining atmosphere. $ price range.,3.8,40.70180065556005,-73.90371896429261
+rest_0670,Cafe Indian Spot,Indian,$,SoHo,Casual,Indian restaurant in SoHo with casual atmosphere. $ price range.,3.3,40.782939466485885,-73.9718478801585
+rest_0671,Cafe French House,French,$$$,SoHo,Trendy,French restaurant in SoHo with trendy atmosphere. $$$ price range.,4.9,40.78727538395661,-73.9887419609588
+rest_0672,Bistro American Place,American,$$,Park Slope,Casual,American restaurant in Park Slope with casual atmosphere. $$ price range.,4.3,40.70965344701955,-73.97581061717412
+rest_0673,Kitchen Mexican Corner,Mexican,$$,Tribeca,Outdoor seating,Mexican restaurant in Tribeca with outdoor seating atmosphere. $$ price range.,5.5,40.701240403627736,-73.95312320345356
+rest_0674,Kitchen Turkish Place,Turkish,$$$,Tribeca,Casual,Turkish restaurant in Tribeca with casual atmosphere. $$$ price range.,4.6,40.72972378077086,-73.9700080888493
+rest_0675,The German Spot,German,$$$,Park Slope,Casual,German restaurant in Park Slope with casual atmosphere. $$$ price range.,2.7,40.77431931987316,-73.99518571640216
+rest_0676,Cafe Thai Corner,Thai,$$$$,Queens,Cozy,Thai restaurant in Queens with cozy atmosphere. $$$$ price range.,4.8,40.78923024981396,-73.98146698204712
+rest_0677,Cafe American Corner,American,$$$$,Brooklyn,Fine Dining,American restaurant in Brooklyn with fine dining atmosphere. $$$$ price range.,5.4,40.707896916219084,-73.97604898300905
+rest_0678,Kitchen Turkish Spot,Turkish,$,Williamsburg,Casual,Turkish restaurant in Williamsburg with casual atmosphere. $ price range.,4.1,40.706364090928666,-73.91686264856143
+rest_0679,Bistro Ethiopian House,Ethiopian,$$$,Brooklyn,Family-friendly,Ethiopian restaurant in Brooklyn with family-friendly atmosphere. $$$ price range.,4.9,40.75989785081772,-73.98850670029404
+rest_0680,The Vietnamese Corner,Vietnamese,$$$$,Tribeca,Family-friendly,Vietnamese restaurant in Tribeca with family-friendly atmosphere. $$$$ price range.,4.8,40.787897890028226,-73.94282276479517
+rest_0681,Bistro Vietnamese Place,Vietnamese,$,SoHo,Bar atmosphere,Vietnamese restaurant in SoHo with bar atmosphere atmosphere. $ price range.,4.4,40.751744635175505,-73.9569572589679
+rest_0682,Cafe Ethiopian Corner,Ethiopian,$$$,Midtown,Cozy,Ethiopian restaurant in Midtown with cozy atmosphere. $$$ price range.,3.5,40.77738796557301,-73.9398076568985
+rest_0683,Kitchen Turkish Place,Turkish,$,Park Slope,Family-friendly,Turkish restaurant in Park Slope with family-friendly atmosphere. $ price range.,2.5,40.78925232899548,-73.95566199856208
+rest_0684,Zen Garden,Japanese,$$$,Queens,Romantic,Japanese restaurant in Queens with romantic atmosphere. $$$ price range.,5.3,40.75916971623063,-73.92973662269145
+rest_0685,Kitchen Greek House,Greek,$$$,Queens,Bar atmosphere,Greek restaurant in Queens with bar atmosphere atmosphere. $$$ price range.,5.1,40.72374334683748,-73.94876362224542
+rest_0686,Cafe Mexican House,Mexican,$$$,Astoria,Romantic,Mexican restaurant in Astoria with romantic atmosphere. $$$ price range.,3.8,40.74876670686213,-73.93477757404546
+rest_0687,Bistro Vietnamese Spot,Vietnamese,$$$$,Midtown,Upscale,Vietnamese restaurant in Midtown with upscale atmosphere. $$$$ price range.,3.3,40.79505310525862,-73.93993489334517
+rest_0688,Nonna Bistro,Italian,$$$,Park Slope,Outdoor seating,Italian restaurant in Park Slope with outdoor seating atmosphere. $$$ price range.,4.0,40.763410403137634,-73.99290677838663
+rest_0689,Lucky Garden,Chinese,$$$,SoHo,Romantic,Chinese restaurant in SoHo with romantic atmosphere. $$$ price range.,5.4,40.725439158084185,-73.96381469067948
+rest_0690,The Mexican House,Mexican,$$,Park Slope,Outdoor seating,Mexican restaurant in Park Slope with outdoor seating atmosphere. $$ price range.,3.5,40.71400240975533,-73.97231856922087
+rest_0691,The Thai Corner,Thai,$$,SoHo,Upscale,Thai restaurant in SoHo with upscale atmosphere. $$ price range.,4.0,40.7971532690901,-73.9668652992897
+rest_0692,Cafe Ethiopian House,Ethiopian,$$$$,SoHo,Fine Dining,Ethiopian restaurant in SoHo with fine dining atmosphere. $$$$ price range.,2.9,40.76107800710758,-73.9719316784484
+rest_0693,The Brazilian House,Brazilian,$$$,Downtown,Fine Dining,Brazilian restaurant in Downtown with fine dining atmosphere. $$$ price range.,3.9,40.72069925784385,-73.9483427371554
+rest_0694,Cafe French Spot,French,$$$,Park Slope,Fine Dining,French restaurant in Park Slope with fine dining atmosphere. $$$ price range.,3.8,40.78025856795798,-73.94279513566308
+rest_0695,Kitchen German Spot,German,$$$$,Astoria,Upscale,German restaurant in Astoria with upscale atmosphere. $$$$ price range.,3.4,40.75126677259564,-73.9706511176792
+rest_0696,Bella Trattoria,Italian,$$$$,SoHo,Fine Dining,Italian restaurant in SoHo with fine dining atmosphere. $$$$ price range.,3.9,40.70870927667958,-73.93829334838823
+rest_0697,Golden House,Chinese,$,Bronx,Outdoor seating,Chinese restaurant in Bronx with outdoor seating atmosphere. $ price range.,4.5,40.71138383934766,-73.96547768571983
+rest_0698,Kitchen American Place,American,$,Manhattan,Fast-casual,American restaurant in Manhattan with fast-casual atmosphere. $ price range.,4.9,40.749354658034015,-73.92977412339684
+rest_0699,Mario Ristorante,Italian,$$$$,Brooklyn,Outdoor seating,Italian restaurant in Brooklyn with outdoor seating atmosphere. $$$$ price range.,4.0,40.799281683899906,-73.9868510880102
+rest_0700,Bistro Spanish Spot,Spanish,$$$,SoHo,Family-friendly,Spanish restaurant in SoHo with family-friendly atmosphere. $$$ price range.,3.4,40.74218281785388,-73.95889789247344
+rest_0701,Bella Bistro,Italian,$$,Midtown,Casual,Italian restaurant in Midtown with casual atmosphere. $$ price range.,2.8,40.79076110025565,-73.92859673555331
+rest_0702,Bistro Ethiopian Corner,Ethiopian,$,Manhattan,Romantic,Ethiopian restaurant in Manhattan with romantic atmosphere. $ price range.,2.7,40.78237903842213,-73.90449394885151
+rest_0703,Cafe German Spot,German,$$,Brooklyn,Family-friendly,German restaurant in Brooklyn with family-friendly atmosphere. $$ price range.,4.7,40.78211982825502,-73.99984348948085
+rest_0704,The Thai Place,Thai,$,Brooklyn,Bar atmosphere,Thai restaurant in Brooklyn with bar atmosphere atmosphere. $ price range.,3.6,40.72576072203337,-73.99404752996523
+rest_0705,Bistro Ethiopian House,Ethiopian,$,Manhattan,Fine Dining,Ethiopian restaurant in Manhattan with fine dining atmosphere. $ price range.,4.1,40.76037954529494,-73.93134100865075
+rest_0706,Cafe Thai Corner,Thai,$$$$,Bronx,Cozy,Thai restaurant in Bronx with cozy atmosphere. $$$$ price range.,3.8,40.74562365089555,-73.9630946978239
+rest_0707,Cafe Mexican Spot,Mexican,$$$,Chelsea,Fine Dining,Mexican restaurant in Chelsea with fine dining atmosphere. $$$ price range.,3.3,40.71210250004852,-73.95810522098125
+rest_0708,Bistro Lebanese Corner,Lebanese,$$$$,Bronx,Bar atmosphere,Lebanese restaurant in Bronx with bar atmosphere atmosphere. $$$$ price range.,3.9,40.70801800140819,-73.96452287081641
+rest_0709,The Greek Spot,Greek,$$$,Williamsburg,Family-friendly,Greek restaurant in Williamsburg with family-friendly atmosphere. $$$ price range.,4.1,40.79417257116189,-73.9331427353277
+rest_0710,Bistro Korean Spot,Korean,$$,Tribeca,Upscale,Korean restaurant in Tribeca with upscale atmosphere. $$ price range.,3.1,40.75936607912085,-73.99898688159722
+rest_0711,Kitchen Indian Spot,Indian,$$$,Astoria,Fast-casual,Indian restaurant in Astoria with fast-casual atmosphere. $$$ price range.,5.1,40.763609604640955,-73.90867130524238
+rest_0712,Cafe American House,American,$$$$,Park Slope,Fine Dining,American restaurant in Park Slope with fine dining atmosphere. $$$$ price range.,4.8,40.772397305546605,-73.98794415835962
+rest_0713,Bistro Mediterranean House,Mediterranean,$$,Park Slope,Romantic,Mediterranean restaurant in Park Slope with romantic atmosphere. $$ price range.,4.2,40.79024533072858,-73.99335561556443
+rest_0714,Bamboo Ramen,Japanese,$,Park Slope,Casual,Japanese restaurant in Park Slope with casual atmosphere. $ price range.,3.1,40.70117066107309,-73.95779657398724
+rest_0715,Imperial Palace,Chinese,$$$,Park Slope,Outdoor seating,Chinese restaurant in Park Slope with outdoor seating atmosphere. $$$ price range.,4.1,40.729504070765415,-73.95139995062024
+rest_0716,Bistro Greek Corner,Greek,$$$$,Queens,Bar atmosphere,Greek restaurant in Queens with bar atmosphere atmosphere. $$$$ price range.,3.6,40.712300329512374,-73.94413576035497
+rest_0717,The Brazilian Corner,Brazilian,$,Williamsburg,Cozy,Brazilian restaurant in Williamsburg with cozy atmosphere. $ price range.,4.1,40.734316735317265,-73.92708265124506
+rest_0718,Cafe French Corner,French,$$,Astoria,Family-friendly,French restaurant in Astoria with family-friendly atmosphere. $$ price range.,4.8,40.76924928266692,-73.95700689226099
+rest_0719,Kitchen Lebanese Corner,Lebanese,$$$,Downtown,Romantic,Lebanese restaurant in Downtown with romantic atmosphere. $$$ price range.,4.3,40.767296662239445,-73.97246188257446
+rest_0720,Sakura Ramen,Japanese,$$$,Bronx,Romantic,Japanese restaurant in Bronx with romantic atmosphere. $$$ price range.,4.8,40.74464195164016,-73.92016196594817
+rest_0721,Kitchen Turkish House,Turkish,$$$,Williamsburg,Fast-casual,Turkish restaurant in Williamsburg with fast-casual atmosphere. $$$ price range.,3.5,40.78224223736682,-73.91424376623388
+rest_0722,Lucky House,Chinese,$$$,Midtown,Outdoor seating,Chinese restaurant in Midtown with outdoor seating atmosphere. $$$ price range.,3.9,40.731886681832115,-73.94178012534059
+rest_0723,Bistro Ethiopian House,Ethiopian,$$,Williamsburg,Upscale,Ethiopian restaurant in Williamsburg with upscale atmosphere. $$ price range.,4.6,40.737117242343764,-73.93989258331997
+rest_0724,Kitchen Turkish Spot,Turkish,$$$,Williamsburg,Romantic,Turkish restaurant in Williamsburg with romantic atmosphere. $$$ price range.,4.8,40.737455288702016,-73.98331397983013
+rest_0725,The Greek Corner,Greek,$$$$,Astoria,Bar atmosphere,Greek restaurant in Astoria with bar atmosphere atmosphere. $$$$ price range.,4.9,40.74305293384622,-73.98574058559181
+rest_0726,Bistro Brazilian Corner,Brazilian,$$,Queens,Fine Dining,Brazilian restaurant in Queens with fine dining atmosphere. $$ price range.,3.8,40.715445974722336,-73.99745522400943
+rest_0727,The Indian Corner,Indian,$$,Brooklyn,Cozy,Indian restaurant in Brooklyn with cozy atmosphere. $$ price range.,4.6,40.76458223862865,-73.93630976825453
+rest_0728,Kitchen German Place,German,$$$,Tribeca,Fine Dining,German restaurant in Tribeca with fine dining atmosphere. $$$ price range.,3.6,40.74096288948952,-73.96887825049366
+rest_0729,Kitchen Lebanese House,Lebanese,$$,Chelsea,Family-friendly,Lebanese restaurant in Chelsea with family-friendly atmosphere. $$ price range.,3.8,40.7677120639735,-73.93942207505474
+rest_0730,Cafe Korean Corner,Korean,$,Brooklyn,Bar atmosphere,Korean restaurant in Brooklyn with bar atmosphere atmosphere. $ price range.,3.0,40.798803596615556,-73.9545998378804
+rest_0731,The Turkish Corner,Turkish,$,Chelsea,Family-friendly,Turkish restaurant in Chelsea with family-friendly atmosphere. $ price range.,3.5,40.768827423578024,-73.98594470324217
+rest_0732,The Mediterranean Spot,Mediterranean,$$,Park Slope,Upscale,Mediterranean restaurant in Park Slope with upscale atmosphere. $$ price range.,3.6,40.750545511791046,-73.90359825928823
+rest_0733,Bamboo House,Japanese,$$,Astoria,Bar atmosphere,Japanese restaurant in Astoria with bar atmosphere atmosphere. $$ price range.,4.0,40.73842067129858,-73.99610039874251
+rest_0734,Cafe French Corner,French,$$,Williamsburg,Bar atmosphere,French restaurant in Williamsburg with bar atmosphere atmosphere. $$ price range.,3.9,40.71600249364632,-73.99766479036718
+rest_0735,Kitchen Turkish House,Turkish,$$$,Brooklyn,Cozy,Turkish restaurant in Brooklyn with cozy atmosphere. $$$ price range.,3.7,40.77562136139502,-73.95414769911181
+rest_0736,The Korean House,Korean,$$$$,Williamsburg,Family-friendly,Korean restaurant in Williamsburg with family-friendly atmosphere. $$$$ price range.,4.4,40.711613896020054,-73.90440811710447
+rest_0737,The Thai Corner,Thai,$$$$,Brooklyn,Bar atmosphere,Thai restaurant in Brooklyn with bar atmosphere atmosphere. $$$$ price range.,3.8,40.731396671737734,-73.91115963276914
+rest_0738,The Lebanese House,Lebanese,$,Park Slope,Outdoor seating,Lebanese restaurant in Park Slope with outdoor seating atmosphere. $ price range.,4.9,40.79840131632104,-73.97115945621813
+rest_0739,The Lebanese Place,Lebanese,$$,Chelsea,Outdoor seating,Lebanese restaurant in Chelsea with outdoor seating atmosphere. $$ price range.,4.3,40.79611354854076,-73.96105181050976
+rest_0740,Kitchen Turkish Corner,Turkish,$$$$,Bronx,Casual,Turkish restaurant in Bronx with casual atmosphere. $$$$ price range.,2.7,40.75414076073476,-73.98458549568215
+rest_0741,The Lebanese Place,Lebanese,$$$$,Bronx,Bar atmosphere,Lebanese restaurant in Bronx with bar atmosphere atmosphere. $$$$ price range.,3.1,40.7553711485358,-73.945829518759
+rest_0742,The Indian Spot,Indian,$$$,Astoria,Romantic,Indian restaurant in Astoria with romantic atmosphere. $$$ price range.,4.5,40.744044135031245,-73.96976667506485
+rest_0743,The Ethiopian House,Ethiopian,$$$$,Manhattan,Romantic,Ethiopian restaurant in Manhattan with romantic atmosphere. $$$$ price range.,4.4,40.72593348973171,-73.98053761632951
+rest_0744,Kitchen Turkish Corner,Turkish,$,Park Slope,Casual,Turkish restaurant in Park Slope with casual atmosphere. $ price range.,3.9,40.72702476921308,-73.90335826141336
+rest_0745,Cafe Vietnamese Place,Vietnamese,$$$$,Bronx,Fine Dining,Vietnamese restaurant in Bronx with fine dining atmosphere. $$$$ price range.,3.6,40.755770882625,-73.96527229609696
+rest_0746,Bistro Mediterranean Spot,Mediterranean,$$$,Park Slope,Upscale,Mediterranean restaurant in Park Slope with upscale atmosphere. $$$ price range.,3.1,40.74440437492022,-73.9373765678579
+rest_0747,Kitchen Spanish Corner,Spanish,$$,Williamsburg,Outdoor seating,Spanish restaurant in Williamsburg with outdoor seating atmosphere. $$ price range.,4.2,40.748889783179244,-73.95982211993457
+rest_0748,Bistro Greek Place,Greek,$$$$,Manhattan,Trendy,Greek restaurant in Manhattan with trendy atmosphere. $$$$ price range.,4.9,40.76206604798246,-73.97986878921776
+rest_0749,Kitchen Indian Corner,Indian,$,Tribeca,Romantic,Indian restaurant in Tribeca with romantic atmosphere. $ price range.,5.6,40.73951377432643,-73.99605404671091
+rest_0750,Bistro Mexican House,Mexican,$$,Park Slope,Upscale,Mexican restaurant in Park Slope with upscale atmosphere. $$ price range.,6.1,40.72277497361032,-73.90359711528346
+rest_0751,The French Corner,French,$$$$,SoHo,Casual,French restaurant in SoHo with casual atmosphere. $$$$ price range.,2.8,40.79094546109372,-73.92778567645442
+rest_0752,Bistro Lebanese Corner,Lebanese,$$$$,Midtown,Fine Dining,Lebanese restaurant in Midtown with fine dining atmosphere. $$$$ price range.,4.9,40.71306523438235,-73.92094902057252
+rest_0753,Kitchen Greek Place,Greek,$,Chelsea,Casual,Greek restaurant in Chelsea with casual atmosphere. $ price range.,4.1,40.712482081396686,-73.92057893374506
+rest_0754,The Turkish Corner,Turkish,$$$,Tribeca,Bar atmosphere,Turkish restaurant in Tribeca with bar atmosphere atmosphere. $$$ price range.,4.5,40.794404209382535,-73.98512040305948
+rest_0755,Bistro Lebanese Corner,Lebanese,$$$$,Downtown,Romantic,Lebanese restaurant in Downtown with romantic atmosphere. $$$$ price range.,3.7,40.74626756050654,-73.90190126218374
+rest_0756,Golden House,Chinese,$$,Chelsea,Family-friendly,Chinese restaurant in Chelsea with family-friendly atmosphere. $$ price range.,4.9,40.758873152213134,-73.96246700920804
+rest_0757,Bistro Korean Place,Korean,$,Brooklyn,Fine Dining,Korean restaurant in Brooklyn with fine dining atmosphere. $ price range.,4.0,40.728578355552585,-73.97967769089139
+rest_0758,Cafe Greek House,Greek,$$$$,Williamsburg,Bar atmosphere,Greek restaurant in Williamsburg with bar atmosphere atmosphere. $$$$ price range.,3.5,40.751127546220076,-73.95076745199988
+rest_0759,Zen Garden,Japanese,$,Park Slope,Trendy,Japanese restaurant in Park Slope with trendy atmosphere. $ price range.,5.1,40.757727902923314,-73.91344228543755
+rest_0760,Kitchen Mediterranean Place,Mediterranean,$$,Chelsea,Romantic,Mediterranean restaurant in Chelsea with romantic atmosphere. $$ price range.,4.0,40.78275189221063,-73.92354722053453
+rest_0761,Bella Trattoria,Italian,$$$,Brooklyn,Upscale,Italian restaurant in Brooklyn with upscale atmosphere. $$$ price range.,4.2,40.75735289514556,-73.90439528563881
+rest_0762,Bistro Turkish Spot,Turkish,$$$,Bronx,Fine Dining,Turkish restaurant in Bronx with fine dining atmosphere. $$$ price range.,3.8,40.78539619669554,-73.95608501833662
+rest_0763,Cafe Brazilian Spot,Brazilian,$$$$,Chelsea,Fast-casual,Brazilian restaurant in Chelsea with fast-casual atmosphere. $$$$ price range.,3.9,40.7846968854207,-73.91069097948046
+rest_0764,Kitchen Brazilian House,Brazilian,$$$$,Chelsea,Casual,Brazilian restaurant in Chelsea with casual atmosphere. $$$$ price range.,4.5,40.76265925110932,-73.907361739327
+rest_0765,Cafe Mediterranean Spot,Mediterranean,$,Williamsburg,Romantic,Mediterranean restaurant in Williamsburg with romantic atmosphere. $ price range.,1.6,40.70191160944298,-73.95231565316823
+rest_0766,The German Spot,German,$$$,Park Slope,Outdoor seating,German restaurant in Park Slope with outdoor seating atmosphere. $$$ price range.,4.9,40.76925324315371,-73.98655648705919
+rest_0767,Bistro Korean House,Korean,$$$,Midtown,Upscale,Korean restaurant in Midtown with upscale atmosphere. $$$ price range.,4.8,40.72993955883717,-73.96412844745831
+rest_0768,Bistro Ethiopian Corner,Ethiopian,$$,Astoria,Cozy,Ethiopian restaurant in Astoria with cozy atmosphere. $$ price range.,3.5,40.72107049638672,-73.9042551980962
+rest_0769,Kitchen Mediterranean Corner,Mediterranean,$$,Tribeca,Romantic,Mediterranean restaurant in Tribeca with romantic atmosphere. $$ price range.,4.7,40.70088632851135,-73.9002179144318
+rest_0770,Cafe Korean Corner,Korean,$$,Manhattan,Romantic,Korean restaurant in Manhattan with romantic atmosphere. $$ price range.,4.8,40.72946193963462,-73.99856847223329
+rest_0771,The Korean House,Korean,$$$,Brooklyn,Fine Dining,Korean restaurant in Brooklyn with fine dining atmosphere. $$$ price range.,4.4,40.77378695185615,-73.91658554029993
+rest_0772,Kitchen Lebanese Spot,Lebanese,$,Park Slope,Casual,Lebanese restaurant in Park Slope with casual atmosphere. $ price range.,3.5,40.77534279222569,-73.92310772178924
+rest_0773,Kitchen Vietnamese Corner,Vietnamese,$$$$,Chelsea,Trendy,Vietnamese restaurant in Chelsea with trendy atmosphere. $$$$ price range.,4.3,40.765854051567004,-73.92338840672045
+rest_0774,Cafe Turkish House,Turkish,$$$,Williamsburg,Romantic,Turkish restaurant in Williamsburg with romantic atmosphere. $$$ price range.,4.3,40.70886047139697,-73.95123721903329
+rest_0775,The Turkish Spot,Turkish,$$$$,Astoria,Outdoor seating,Turkish restaurant in Astoria with outdoor seating atmosphere. $$$$ price range.,4.9,40.70776493346716,-73.95924569689676
+rest_0776,Kitchen Spanish Spot,Spanish,$$,Astoria,Fine Dining,Spanish restaurant in Astoria with fine dining atmosphere. $$ price range.,3.5,40.73488205339695,-73.98890019012087
+rest_0777,Nonna Trattoria,Italian,$,SoHo,Romantic,Italian restaurant in SoHo with romantic atmosphere. $ price range.,3.9,40.78082352100092,-73.90523119740355
+rest_0778,Cafe Vietnamese Spot,Vietnamese,$$$,Chelsea,Trendy,Vietnamese restaurant in Chelsea with trendy atmosphere. $$$ price range.,2.5,40.707686207527615,-73.94993757319295
+rest_0779,Bistro Korean Spot,Korean,$$$,Astoria,Bar atmosphere,Korean restaurant in Astoria with bar atmosphere atmosphere. $$$ price range.,4.2,40.779451554449075,-73.92929135227334
+rest_0780,Kitchen French Spot,French,$$$$,Williamsburg,Romantic,French restaurant in Williamsburg with romantic atmosphere. $$$$ price range.,2.7,40.72323843230561,-73.97189955010913
+rest_0781,Cafe Greek Corner,Greek,$$$$,Manhattan,Fast-casual,Greek restaurant in Manhattan with fast-casual atmosphere. $$$$ price range.,3.4,40.78034827432969,-73.90707719463683
+rest_0782,Cafe Korean Place,Korean,$,Tribeca,Trendy,Korean restaurant in Tribeca with trendy atmosphere. $ price range.,4.7,40.73214957012479,-73.95235630136563
+rest_0783,Kitchen Spanish House,Spanish,$$,Brooklyn,Family-friendly,Spanish restaurant in Brooklyn with family-friendly atmosphere. $$ price range.,3.8,40.7226028997816,-73.93595239578242
+rest_0784,Bistro French Place,French,$$$$,Astoria,Family-friendly,French restaurant in Astoria with family-friendly atmosphere. $$$$ price range.,4.0,40.735781408411356,-73.93521825540095
+rest_0785,The American Place,American,$$$,Park Slope,Bar atmosphere,American restaurant in Park Slope with bar atmosphere atmosphere. $$$ price range.,4.2,40.71229206784654,-73.91113409197347
+rest_0786,Bistro Mexican Place,Mexican,$$,Downtown,Romantic,Mexican restaurant in Downtown with romantic atmosphere. $$ price range.,1.6,40.75858647884535,-73.93752161372106
+rest_0787,Bistro Mexican Spot,Mexican,$$$$,Tribeca,Cozy,Mexican restaurant in Tribeca with cozy atmosphere. $$$$ price range.,4.1,40.707177580622655,-73.93173827787767
+rest_0788,Kitchen Greek House,Greek,$$$,Bronx,Casual,Greek restaurant in Bronx with casual atmosphere. $$$ price range.,4.6,40.78225347943842,-73.91960414924475
+rest_0789,Cafe Greek Spot,Greek,$$,Chelsea,Bar atmosphere,Greek restaurant in Chelsea with bar atmosphere atmosphere. $$ price range.,3.2,40.75525009674079,-73.94798301076892
+rest_0790,Kitchen Greek Place,Greek,$$$,SoHo,Outdoor seating,Greek restaurant in SoHo with outdoor seating atmosphere. $$$ price range.,4.3,40.72714093804467,-73.95033045771821
+rest_0791,Bamboo Ramen,Japanese,$$$$,Chelsea,Trendy,Japanese restaurant in Chelsea with trendy atmosphere. $$$$ price range.,3.6,40.728427409292756,-73.98661716370003
+rest_0792,Kitchen French House,French,$$$,Williamsburg,Bar atmosphere,French restaurant in Williamsburg with bar atmosphere atmosphere. $$$ price range.,3.6,40.77486452341262,-73.9682413204739
+rest_0793,Zen Garden,Japanese,$$,Bronx,Romantic,Japanese restaurant in Bronx with romantic atmosphere. $$ price range.,4.1,40.70001346930045,-73.94888708607628
+rest_0794,Bistro American Place,American,$$$,Chelsea,Upscale,American restaurant in Chelsea with upscale atmosphere. $$$ price range.,3.7,40.783933849235595,-73.99961800773414
+rest_0795,Cafe Greek House,Greek,$$$$,Williamsburg,Family-friendly,Greek restaurant in Williamsburg with family-friendly atmosphere. $$$$ price range.,4.1,40.72468238692019,-73.92590959438479
+rest_0796,The Indian Corner,Indian,$$,SoHo,Trendy,Indian restaurant in SoHo with trendy atmosphere. $$ price range.,3.5,40.736023391880046,-73.97296067136155
+rest_0797,The French Place,French,$$$$,Midtown,Fine Dining,French restaurant in Midtown with fine dining atmosphere. $$$$ price range.,3.8,40.78427119021605,-73.96866520824149
+rest_0798,The Ethiopian House,Ethiopian,$,Downtown,Upscale,Ethiopian restaurant in Downtown with upscale atmosphere. $ price range.,4.2,40.743381741957656,-73.90900568561456
+rest_0799,Bistro Mediterranean Corner,Mediterranean,$$,Midtown,Upscale,Mediterranean restaurant in Midtown with upscale atmosphere. $$ price range.,4.2,40.73773180539632,-73.90359215835099
+rest_0800,Cafe Korean Corner,Korean,$$$,Astoria,Family-friendly,Korean restaurant in Astoria with family-friendly atmosphere. $$$ price range.,4.2,40.74938140404569,-73.96123511945444
+rest_0801,Luigi Bistro,Italian,$,SoHo,Cozy,Italian restaurant in SoHo with cozy atmosphere. $ price range.,3.5,40.76327118787486,-73.92961429083657
+rest_0802,Cafe Brazilian Corner,Brazilian,$$$,Park Slope,Fast-casual,Brazilian restaurant in Park Slope with fast-casual atmosphere. $$$ price range.,4.8,40.79660475051286,-73.92389622097492
+rest_0803,Bistro Brazilian Spot,Brazilian,$$$$,Park Slope,Outdoor seating,Brazilian restaurant in Park Slope with outdoor seating atmosphere. $$$$ price range.,5.0,40.795077270773135,-73.92974594984652
+rest_0804,Bistro Lebanese Spot,Lebanese,$$,Midtown,Fast-casual,Lebanese restaurant in Midtown with fast-casual atmosphere. $$ price range.,3.5,40.77818238633449,-73.93558507785241
+rest_0805,The German House,German,$$$,Brooklyn,Trendy,German restaurant in Brooklyn with trendy atmosphere. $$$ price range.,3.7,40.70481860123933,-73.96399495340991
+rest_0806,Kitchen Turkish House,Turkish,$$,Bronx,Trendy,Turkish restaurant in Bronx with trendy atmosphere. $$ price range.,4.0,40.74327291360197,-73.95423003948407
+rest_0807,Kitchen Lebanese Spot,Lebanese,$$$$,Manhattan,Casual,Lebanese restaurant in Manhattan with casual atmosphere. $$$$ price range.,4.5,40.720888272400515,-73.96312928291353
+rest_0808,Cafe Korean Place,Korean,$,Park Slope,Cozy,Korean restaurant in Park Slope with cozy atmosphere. $ price range.,3.6,40.77675676285179,-73.95834955680961
+rest_0809,Cafe Ethiopian Place,Ethiopian,$$$$,Williamsburg,Romantic,Ethiopian restaurant in Williamsburg with romantic atmosphere. $$$$ price range.,3.9,40.78221798868164,-73.91496519988802
+rest_0810,Kitchen Spanish Corner,Spanish,$$,Manhattan,Fine Dining,Spanish restaurant in Manhattan with fine dining atmosphere. $$ price range.,4.5,40.7472281804163,-73.91198432620786
+rest_0811,Bistro Turkish Place,Turkish,$$$,Manhattan,Outdoor seating,Turkish restaurant in Manhattan with outdoor seating atmosphere. $$$ price range.,3.1,40.72157406791765,-73.932218679969
+rest_0812,Bistro Thai House,Thai,$,Brooklyn,Family-friendly,Thai restaurant in Brooklyn with family-friendly atmosphere. $ price range.,2.8,40.71366009036512,-73.93483602395227
+rest_0813,Kitchen Brazilian Corner,Brazilian,$$$$,Manhattan,Bar atmosphere,Brazilian restaurant in Manhattan with bar atmosphere atmosphere. $$$$ price range.,4.7,40.77385974581323,-73.96843726562366
+rest_0814,The Vietnamese Corner,Vietnamese,$,Brooklyn,Casual,Vietnamese restaurant in Brooklyn with casual atmosphere. $ price range.,3.0,40.77132068832826,-73.9800784725106
+rest_0815,Kitchen Mexican House,Mexican,$$$,Manhattan,Family-friendly,Mexican restaurant in Manhattan with family-friendly atmosphere. $$$ price range.,5.3,40.789021500263615,-73.97125904035344
+rest_0816,Kitchen Korean Corner,Korean,$,Brooklyn,Casual,Korean restaurant in Brooklyn with casual atmosphere. $ price range.,3.6,40.71115122123213,-73.94841380972878
+rest_0817,Bistro Vietnamese Place,Vietnamese,$$$$,Manhattan,Fast-casual,Vietnamese restaurant in Manhattan with fast-casual atmosphere. $$$$ price range.,3.9,40.7267592676728,-73.91645197742578
+rest_0818,Golden House,Chinese,$$$,Midtown,Family-friendly,Chinese restaurant in Midtown with family-friendly atmosphere. $$$ price range.,3.8,40.74928645844474,-73.95957102527451
+rest_0819,Cafe Spanish Corner,Spanish,$,Park Slope,Fast-casual,Spanish restaurant in Park Slope with fast-casual atmosphere. $ price range.,3.2,40.75309376784121,-73.94048683250944
+rest_0820,Cafe Mediterranean Place,Mediterranean,$$$$,Downtown,Fine Dining,Mediterranean restaurant in Downtown with fine dining atmosphere. $$$$ price range.,4.0,40.79634992408876,-73.94809677198705
+rest_0821,Cafe Brazilian Place,Brazilian,$$,Tribeca,Casual,Brazilian restaurant in Tribeca with casual atmosphere. $$ price range.,3.8,40.76775422674589,-73.96881361420832
+rest_0822,Bistro Mexican Spot,Mexican,$$,Astoria,Upscale,Mexican restaurant in Astoria with upscale atmosphere. $$ price range.,4.6,40.752129604765415,-73.90239861767209
+rest_0823,The French Spot,French,$,Tribeca,Outdoor seating,French restaurant in Tribeca with outdoor seating atmosphere. $ price range.,4.6,40.71255502147627,-73.99830523351105
+rest_0824,The Lebanese Corner,Lebanese,$$$,Queens,Cozy,Lebanese restaurant in Queens with cozy atmosphere. $$$ price range.,4.5,40.71202072291206,-73.97344171670414
+rest_0825,Bistro Mexican House,Mexican,$$,SoHo,Upscale,Mexican restaurant in SoHo with upscale atmosphere. $$ price range.,4.5,40.701755236336666,-73.97066913892195
+rest_0826,Kitchen French Corner,French,$$$,Chelsea,Fine Dining,French restaurant in Chelsea with fine dining atmosphere. $$$ price range.,4.1,40.73480955931683,-73.96282607050937
+rest_0827,Mario Pizzeria,Italian,$,Chelsea,Fast-casual,Italian restaurant in Chelsea with fast-casual atmosphere. $ price range.,5.2,40.70013536257155,-73.97001994724347
+rest_0828,Sakura Garden,Japanese,$$,Brooklyn,Fast-casual,Japanese restaurant in Brooklyn with fast-casual atmosphere. $$ price range.,4.1,40.784706082698385,-73.99764050353545
+rest_0829,Golden Palace,Chinese,$,Bronx,Family-friendly,Chinese restaurant in Bronx with family-friendly atmosphere. $ price range.,4.0,40.78985606046748,-73.92168015867014
+rest_0830,Bistro Lebanese Place,Lebanese,$$,Bronx,Outdoor seating,Lebanese restaurant in Bronx with outdoor seating atmosphere. $$ price range.,3.8,40.73980052929545,-73.96970842711669
+rest_0831,Bistro Thai Corner,Thai,$,Tribeca,Upscale,Thai restaurant in Tribeca with upscale atmosphere. $ price range.,5.2,40.706569485895436,-73.97717646365064
+rest_0832,Bistro Mediterranean Place,Mediterranean,$,Astoria,Fast-casual,Mediterranean restaurant in Astoria with fast-casual atmosphere. $ price range.,3.9,40.77474444065967,-73.9526190171602
+rest_0833,Bistro Thai Place,Thai,$$,Park Slope,Cozy,Thai restaurant in Park Slope with cozy atmosphere. $$ price range.,2.7,40.70578444494472,-73.90422101990119
+rest_0834,Cafe Mediterranean Place,Mediterranean,$$,Midtown,Outdoor seating,Mediterranean restaurant in Midtown with outdoor seating atmosphere. $$ price range.,4.0,40.79627683502532,-73.99243949593833
+rest_0835,Kitchen American House,American,$$$,Park Slope,Cozy,American restaurant in Park Slope with cozy atmosphere. $$$ price range.,4.2,40.73656807482614,-73.97746187319933
+rest_0836,The Turkish Spot,Turkish,$$$$,Tribeca,Family-friendly,Turkish restaurant in Tribeca with family-friendly atmosphere. $$$$ price range.,3.7,40.7622413641566,-73.92186781442527
+rest_0837,Kitchen Korean Corner,Korean,$$$,Tribeca,Fine Dining,Korean restaurant in Tribeca with fine dining atmosphere. $$$ price range.,3.7,40.75782983994203,-73.98530372904118
+rest_0838,Bistro Turkish Spot,Turkish,$$$$,Park Slope,Family-friendly,Turkish restaurant in Park Slope with family-friendly atmosphere. $$$$ price range.,4.4,40.7388165706127,-73.9325869704464
+rest_0839,The German House,German,$$$,Midtown,Fine Dining,German restaurant in Midtown with fine dining atmosphere. $$$ price range.,4.9,40.725990497924286,-73.96548077915058
+rest_0840,The Indian Place,Indian,$$,Downtown,Romantic,Indian restaurant in Downtown with romantic atmosphere. $$ price range.,3.8,40.74699882681579,-73.9109858862604
+rest_0841,Kitchen Thai Place,Thai,$,Downtown,Bar atmosphere,Thai restaurant in Downtown with bar atmosphere atmosphere. $ price range.,4.4,40.77077213502675,-73.99377967738353
+rest_0842,Cafe Turkish House,Turkish,$$$,Downtown,Cozy,Turkish restaurant in Downtown with cozy atmosphere. $$$ price range.,3.3,40.71342748509023,-73.90420658789432
+rest_0843,Bella Bistro,Italian,$$,SoHo,Fast-casual,Italian restaurant in SoHo with fast-casual atmosphere. $$ price range.,5.7,40.75296597239456,-73.97581067058871
+rest_0844,Lucky Garden,Chinese,$$$,Park Slope,Upscale,Chinese restaurant in Park Slope with upscale atmosphere. $$$ price range.,5.6,40.70762392179736,-73.97252961849522
+rest_0845,Bistro Mediterranean House,Mediterranean,$,Tribeca,Fine Dining,Mediterranean restaurant in Tribeca with fine dining atmosphere. $ price range.,4.0,40.7806965490884,-73.95403351295974
+rest_0846,Kitchen Thai Corner,Thai,$,Midtown,Romantic,Thai restaurant in Midtown with romantic atmosphere. $ price range.,2.2,40.704389994264304,-73.98342502201798
+rest_0847,Kitchen Thai House,Thai,$$,Chelsea,Family-friendly,Thai restaurant in Chelsea with family-friendly atmosphere. $$ price range.,5.2,40.74455416387419,-73.9790814534592
+rest_0848,The Greek Corner,Greek,$$$$,Tribeca,Upscale,Greek restaurant in Tribeca with upscale atmosphere. $$$$ price range.,3.7,40.79606269755132,-73.98030742955466
+rest_0849,Cafe French Place,French,$$$$,Park Slope,Cozy,French restaurant in Park Slope with cozy atmosphere. $$$$ price range.,4.5,40.79514298103618,-73.90051807060341
+rest_0850,Bistro Greek Place,Greek,$$$,Park Slope,Cozy,Greek restaurant in Park Slope with cozy atmosphere. $$$ price range.,2.7,40.743699588566564,-73.94064390646213
+rest_0851,Cafe German Place,German,$$$,Chelsea,Romantic,German restaurant in Chelsea with romantic atmosphere. $$$ price range.,4.4,40.70730815620271,-73.93776567353828
+rest_0852,Kitchen Ethiopian Place,Ethiopian,$$$,Bronx,Fast-casual,Ethiopian restaurant in Bronx with fast-casual atmosphere. $$$ price range.,4.3,40.775731020713444,-73.98383285637631
+rest_0853,Bella Ristorante,Italian,$,Manhattan,Bar atmosphere,Italian restaurant in Manhattan with bar atmosphere atmosphere. $ price range.,4.0,40.7476900106468,-73.9281668824628
+rest_0854,Cafe American Spot,American,$,Manhattan,Romantic,American restaurant in Manhattan with romantic atmosphere. $ price range.,4.6,40.76666004790466,-73.98373002561914
+rest_0855,Mario Trattoria,Italian,$$$,Park Slope,Outdoor seating,Italian restaurant in Park Slope with outdoor seating atmosphere. $$$ price range.,3.0,40.756508531245274,-73.92283730890215
+rest_0856,Dragon House,Chinese,$$$$,Bronx,Family-friendly,Chinese restaurant in Bronx with family-friendly atmosphere. $$$$ price range.,3.7,40.700903846907934,-73.964297065603
+rest_0857,Bistro Greek House,Greek,$$,Queens,Trendy,Greek restaurant in Queens with trendy atmosphere. $$ price range.,4.0,40.79261940684317,-73.97713232203964
+rest_0858,Bistro Spanish Place,Spanish,$$,Tribeca,Fine Dining,Spanish restaurant in Tribeca with fine dining atmosphere. $$ price range.,3.0,40.73216699896596,-73.91519579103985
+rest_0859,The French Spot,French,$$$$,Tribeca,Bar atmosphere,French restaurant in Tribeca with bar atmosphere atmosphere. $$$$ price range.,4.5,40.772886144226995,-73.99046007226868
+rest_0860,Lucky House,Chinese,$$$$,Midtown,Casual,Chinese restaurant in Midtown with casual atmosphere. $$$$ price range.,3.7,40.7480890146603,-73.9337565988299
+rest_0861,The German Place,German,$$$$,Midtown,Romantic,German restaurant in Midtown with romantic atmosphere. $$$$ price range.,3.9,40.71185026235982,-73.97111150610908
+rest_0862,Lucky Palace,Chinese,$$$,Park Slope,Casual,Chinese restaurant in Park Slope with casual atmosphere. $$$ price range.,4.6,40.79932550154229,-73.99550887010044
+rest_0863,Kitchen Vietnamese Place,Vietnamese,$$,Brooklyn,Casual,Vietnamese restaurant in Brooklyn with casual atmosphere. $$ price range.,3.9,40.77610079234954,-73.96282759335976
+rest_0864,Bistro Turkish Place,Turkish,$,Queens,Upscale,Turkish restaurant in Queens with upscale atmosphere. $ price range.,5.1,40.79184264321454,-73.90490714054975
+rest_0865,Kitchen Indian House,Indian,$$,Bronx,Fine Dining,Indian restaurant in Bronx with fine dining atmosphere. $$ price range.,3.5,40.75771225860383,-73.96428788406995
+rest_0866,Kitchen Ethiopian Place,Ethiopian,$$$$,Manhattan,Fine Dining,Ethiopian restaurant in Manhattan with fine dining atmosphere. $$$$ price range.,3.5,40.756407402883355,-73.96414215384752
+rest_0867,Cafe Indian Place,Indian,$$,Astoria,Outdoor seating,Indian restaurant in Astoria with outdoor seating atmosphere. $$ price range.,4.6,40.765663107370784,-73.97596010871065
+rest_0868,Cafe Spanish Corner,Spanish,$$,Park Slope,Bar atmosphere,Spanish restaurant in Park Slope with bar atmosphere atmosphere. $$ price range.,4.0,40.722085278296305,-73.99610700366743
+rest_0869,Sakura Sushi,Japanese,$$$,Williamsburg,Cozy,Japanese restaurant in Williamsburg with cozy atmosphere. $$$ price range.,3.2,40.703601881829144,-73.98247782278942
+rest_0870,Cafe German Spot,German,$$$$,Bronx,Cozy,German restaurant in Bronx with cozy atmosphere. $$$$ price range.,3.7,40.79504591705753,-73.94183777070108
+rest_0871,Bistro Greek Place,Greek,$,Manhattan,Family-friendly,Greek restaurant in Manhattan with family-friendly atmosphere. $ price range.,4.5,40.74366141897688,-73.94199111653306
+rest_0872,Cafe Indian Spot,Indian,$$$$,Downtown,Romantic,Indian restaurant in Downtown with romantic atmosphere. $$$$ price range.,5.3,40.72824960659729,-73.96469496083998
+rest_0873,Cafe Indian Corner,Indian,$,Midtown,Casual,Indian restaurant in Midtown with casual atmosphere. $ price range.,4.1,40.78940943025332,-73.90535434868497
+rest_0874,Bistro American Place,American,$,Bronx,Fine Dining,American restaurant in Bronx with fine dining atmosphere. $ price range.,3.8,40.77803655030068,-73.9523664266699
+rest_0875,Cafe Lebanese Corner,Lebanese,$,Bronx,Romantic,Lebanese restaurant in Bronx with romantic atmosphere. $ price range.,4.7,40.74975398521461,-73.97953198909427
+rest_0876,Cafe Ethiopian House,Ethiopian,$$$,Park Slope,Fast-casual,Ethiopian restaurant in Park Slope with fast-casual atmosphere. $$$ price range.,3.0,40.73315646990672,-73.914496979838
+rest_0877,The Spanish Spot,Spanish,$,Manhattan,Family-friendly,Spanish restaurant in Manhattan with family-friendly atmosphere. $ price range.,4.3,40.720707580921086,-73.99288417148266
+rest_0878,The Thai House,Thai,$$$,Downtown,Fast-casual,Thai restaurant in Downtown with fast-casual atmosphere. $$$ price range.,1.9,40.78108785810079,-73.91641740720895
+rest_0879,The Spanish House,Spanish,$$$,SoHo,Cozy,Spanish restaurant in SoHo with cozy atmosphere. $$$ price range.,4.2,40.73321910331156,-73.93063819425262
+rest_0880,The American Spot,American,$$$$,Queens,Upscale,American restaurant in Queens with upscale atmosphere. $$$$ price range.,4.5,40.71515950748001,-73.9124116916483
+rest_0881,Kitchen Lebanese House,Lebanese,$,Brooklyn,Romantic,Lebanese restaurant in Brooklyn with romantic atmosphere. $ price range.,5.0,40.7539094552736,-73.971752757363
+rest_0882,Lucky Kitchen,Chinese,$$,Park Slope,Trendy,Chinese restaurant in Park Slope with trendy atmosphere. $$ price range.,3.6,40.71278668012224,-73.92344532494842
+rest_0883,Bistro Spanish Spot,Spanish,$$,Downtown,Cozy,Spanish restaurant in Downtown with cozy atmosphere. $$ price range.,3.9,40.70000116347554,-73.95834341715177
+rest_0884,The American Spot,American,$$,Park Slope,Trendy,American restaurant in Park Slope with trendy atmosphere. $$ price range.,3.5,40.79730781629723,-73.97738746687503
+rest_0885,Cafe Spanish Corner,Spanish,$,Park Slope,Trendy,Spanish restaurant in Park Slope with trendy atmosphere. $ price range.,4.0,40.730419871963626,-73.9696057487745
+rest_0886,The Vietnamese Place,Vietnamese,$$$$,SoHo,Family-friendly,Vietnamese restaurant in SoHo with family-friendly atmosphere. $$$$ price range.,4.5,40.77418963269587,-73.91515746209095
+rest_0887,Cafe Turkish Place,Turkish,$$,Williamsburg,Romantic,Turkish restaurant in Williamsburg with romantic atmosphere. $$ price range.,3.1,40.74226291970136,-73.96970690943596
+rest_0888,Cafe American Corner,American,$$$,Astoria,Outdoor seating,American restaurant in Astoria with outdoor seating atmosphere. $$$ price range.,5.0,40.78167794665056,-73.98183860322435
+rest_0889,Cafe Indian Place,Indian,$$,Brooklyn,Trendy,Indian restaurant in Brooklyn with trendy atmosphere. $$ price range.,3.2,40.737094100815774,-73.90980598032509
+rest_0890,The Indian Corner,Indian,$$,Bronx,Fine Dining,Indian restaurant in Bronx with fine dining atmosphere. $$ price range.,3.5,40.75906378339946,-73.93389857457527
+rest_0891,Bistro Vietnamese Place,Vietnamese,$$,Tribeca,Casual,Vietnamese restaurant in Tribeca with casual atmosphere. $$ price range.,5.1,40.707845581631716,-73.94555030408962
+rest_0892,Cafe German Corner,German,$$$,Astoria,Trendy,German restaurant in Astoria with trendy atmosphere. $$$ price range.,3.3,40.77806317174255,-73.94162272194859
+rest_0893,Bistro Mexican Corner,Mexican,$$,Brooklyn,Casual,Mexican restaurant in Brooklyn with casual atmosphere. $$ price range.,4.4,40.79522217856976,-73.99575777017931
+rest_0894,Bistro Korean House,Korean,$$,SoHo,Casual,Korean restaurant in SoHo with casual atmosphere. $$ price range.,4.5,40.729655991220596,-73.92855758359288
+rest_0895,Kitchen Lebanese Spot,Lebanese,$$,Park Slope,Bar atmosphere,Lebanese restaurant in Park Slope with bar atmosphere atmosphere. $$ price range.,2.8,40.775900528252194,-73.98974840359335
+rest_0896,Cafe French Corner,French,$$$$,Astoria,Fast-casual,French restaurant in Astoria with fast-casual atmosphere. $$$$ price range.,5.6,40.73692807702155,-73.90670751374304
+rest_0897,The Thai Spot,Thai,$$,Downtown,Upscale,Thai restaurant in Downtown with upscale atmosphere. $$ price range.,6.5,40.78275063198732,-73.93027906180905
+rest_0898,Cafe German House,German,$$,Tribeca,Romantic,German restaurant in Tribeca with romantic atmosphere. $$ price range.,3.7,40.79209945210965,-73.93054045727467
+rest_0899,Bistro French Place,French,$$$$,Chelsea,Fast-casual,French restaurant in Chelsea with fast-casual atmosphere. $$$$ price range.,5.4,40.77289810616558,-73.91383090962127
+rest_0900,Kitchen Korean Spot,Korean,$$$$,Williamsburg,Casual,Korean restaurant in Williamsburg with casual atmosphere. $$$$ price range.,4.7,40.71952406029565,-73.96546580477552
+rest_0901,Kitchen Spanish Place,Spanish,$,Park Slope,Fine Dining,Spanish restaurant in Park Slope with fine dining atmosphere. $ price range.,3.5,40.73356104542699,-73.90214745316109
+rest_0902,Imperial Garden,Chinese,$$,Park Slope,Outdoor seating,Chinese restaurant in Park Slope with outdoor seating atmosphere. $$ price range.,4.4,40.772705676161536,-73.94379272055974
+rest_0903,Cafe Ethiopian Spot,Ethiopian,$$$$,Park Slope,Casual,Ethiopian restaurant in Park Slope with casual atmosphere. $$$$ price range.,4.6,40.79470906671085,-73.95037412471177
+rest_0904,Kitchen Brazilian Corner,Brazilian,$$$$,Manhattan,Trendy,Brazilian restaurant in Manhattan with trendy atmosphere. $$$$ price range.,3.1,40.778620565226106,-73.92655560679245
+rest_0905,Cafe German Place,German,$$$,Chelsea,Casual,German restaurant in Chelsea with casual atmosphere. $$$ price range.,3.7,40.738435503852415,-73.99748065860408
+rest_0906,The Brazilian Corner,Brazilian,$,Tribeca,Outdoor seating,Brazilian restaurant in Tribeca with outdoor seating atmosphere. $ price range.,2.8,40.770487101004335,-73.91828718579845
+rest_0907,Bistro Ethiopian Place,Ethiopian,$$,Williamsburg,Upscale,Ethiopian restaurant in Williamsburg with upscale atmosphere. $$ price range.,3.7,40.754643031607785,-73.9032964724744
+rest_0908,Mario Bistro,Italian,$$,Astoria,Bar atmosphere,Italian restaurant in Astoria with bar atmosphere atmosphere. $$ price range.,4.0,40.77184539473225,-73.91373595288509
+rest_0909,Sakura Sushi,Japanese,$$$,Bronx,Family-friendly,Japanese restaurant in Bronx with family-friendly atmosphere. $$$ price range.,3.5,40.71792556119078,-73.91999965182363
+rest_0910,The Mexican Place,Mexican,$$$$,SoHo,Cozy,Mexican restaurant in SoHo with cozy atmosphere. $$$$ price range.,2.3,40.71317150285791,-73.91347042410911
+rest_0911,Kitchen Turkish House,Turkish,$$,Williamsburg,Outdoor seating,Turkish restaurant in Williamsburg with outdoor seating atmosphere. $$ price range.,4.9,40.715727320817976,-73.96902121407909
+rest_0912,Cafe French Corner,French,$$$,Chelsea,Family-friendly,French restaurant in Chelsea with family-friendly atmosphere. $$$ price range.,4.6,40.767270299420886,-73.92033186028087
+rest_0913,Bistro French Place,French,$,Williamsburg,Trendy,French restaurant in Williamsburg with trendy atmosphere. $ price range.,3.7,40.72504678987925,-73.9375125900393
+rest_0914,Cafe American House,American,$$,Midtown,Family-friendly,American restaurant in Midtown with family-friendly atmosphere. $$ price range.,5.0,40.790608706048125,-73.99878432285226
+rest_0915,Kitchen Mediterranean House,Mediterranean,$,Astoria,Fast-casual,Mediterranean restaurant in Astoria with fast-casual atmosphere. $ price range.,4.2,40.76740199190588,-73.99481642008803
+rest_0916,Kitchen Lebanese Place,Lebanese,$$,Queens,Bar atmosphere,Lebanese restaurant in Queens with bar atmosphere atmosphere. $$ price range.,2.6,40.730677659952214,-73.96470414965476
+rest_0917,The German Corner,German,$$$$,Midtown,Bar atmosphere,German restaurant in Midtown with bar atmosphere atmosphere. $$$$ price range.,4.3,40.76212924490496,-73.96659500343313
+rest_0918,Cafe Ethiopian House,Ethiopian,$$$,Chelsea,Outdoor seating,Ethiopian restaurant in Chelsea with outdoor seating atmosphere. $$$ price range.,3.5,40.706835320031,-73.92162401575159
+rest_0919,The French Corner,French,$$,Downtown,Cozy,French restaurant in Downtown with cozy atmosphere. $$ price range.,5.2,40.72857583245927,-73.95672331204008
+rest_0920,Golden Garden,Chinese,$$$,Bronx,Fine Dining,Chinese restaurant in Bronx with fine dining atmosphere. $$$ price range.,3.1,40.70565856561468,-73.96260789529872
+rest_0921,Cafe German Place,German,$$,Brooklyn,Trendy,German restaurant in Brooklyn with trendy atmosphere. $$ price range.,5.0,40.79444485826943,-73.93582656027014
+rest_0922,Bistro Greek Spot,Greek,$,Midtown,Trendy,Greek restaurant in Midtown with trendy atmosphere. $ price range.,4.9,40.71989921389594,-73.95816661358977
+rest_0923,The Spanish Spot,Spanish,$,Williamsburg,Outdoor seating,Spanish restaurant in Williamsburg with outdoor seating atmosphere. $ price range.,5.2,40.77509397983633,-73.98986271024468
+rest_0924,Bistro Lebanese Place,Lebanese,$$,Midtown,Trendy,Lebanese restaurant in Midtown with trendy atmosphere. $$ price range.,3.2,40.74320189275945,-73.90196312590578
+rest_0925,The Turkish House,Turkish,$$,Tribeca,Romantic,Turkish restaurant in Tribeca with romantic atmosphere. $$ price range.,3.2,40.706750254668385,-73.94812990056194
+rest_0926,Bistro Turkish Place,Turkish,$,Astoria,Bar atmosphere,Turkish restaurant in Astoria with bar atmosphere atmosphere. $ price range.,3.8,40.77378849848346,-73.92954455719726
+rest_0927,Bistro Vietnamese Corner,Vietnamese,$$$,Park Slope,Bar atmosphere,Vietnamese restaurant in Park Slope with bar atmosphere atmosphere. $$$ price range.,3.3,40.742272863689394,-73.96534758320473
+rest_0928,Cafe Lebanese Spot,Lebanese,$$$$,Astoria,Family-friendly,Lebanese restaurant in Astoria with family-friendly atmosphere. $$$$ price range.,2.8,40.72053329387068,-73.95169603024411
+rest_0929,Kitchen Thai House,Thai,$,Midtown,Casual,Thai restaurant in Midtown with casual atmosphere. $ price range.,3.5,40.726853375606765,-73.97125383351027
+rest_0930,Bistro Thai Spot,Thai,$$$$,Williamsburg,Casual,Thai restaurant in Williamsburg with casual atmosphere. $$$$ price range.,4.2,40.760363720055935,-73.9923020532935
+rest_0931,Bistro Ethiopian Spot,Ethiopian,$$,Downtown,Romantic,Ethiopian restaurant in Downtown with romantic atmosphere. $$ price range.,4.1,40.70755836138541,-73.90485767791544
+rest_0932,Zen Sushi,Japanese,$$$,Manhattan,Outdoor seating,Japanese restaurant in Manhattan with outdoor seating atmosphere. $$$ price range.,3.6,40.759904458715035,-73.93763512217097
+rest_0933,The Mexican Corner,Mexican,$$$,Bronx,Upscale,Mexican restaurant in Bronx with upscale atmosphere. $$$ price range.,3.8,40.764850482011866,-73.97325979721425
+rest_0934,Kitchen Thai House,Thai,$$$,Bronx,Fast-casual,Thai restaurant in Bronx with fast-casual atmosphere. $$$ price range.,4.6,40.77066298698787,-73.93899925829206
+rest_0935,Bistro Indian Place,Indian,$$$$,Brooklyn,Fast-casual,Indian restaurant in Brooklyn with fast-casual atmosphere. $$$$ price range.,3.1,40.73129073942137,-73.97289037462359
+rest_0936,Bistro German House,German,$,Park Slope,Trendy,German restaurant in Park Slope with trendy atmosphere. $ price range.,4.8,40.79467337289234,-73.98940941955962
+rest_0937,Cafe Thai Spot,Thai,$$$,Bronx,Fine Dining,Thai restaurant in Bronx with fine dining atmosphere. $$$ price range.,4.2,40.71548286125977,-73.90552637412169
+rest_0938,Mario Bistro,Italian,$$$,Williamsburg,Outdoor seating,Italian restaurant in Williamsburg with outdoor seating atmosphere. $$$ price range.,4.4,40.720263263413536,-73.94124141288906
+rest_0939,The French Spot,French,$,Manhattan,Cozy,French restaurant in Manhattan with cozy atmosphere. $ price range.,4.3,40.770113959441744,-73.93198881145531
+rest_0940,Bistro German Place,German,$,Astoria,Romantic,German restaurant in Astoria with romantic atmosphere. $ price range.,3.8,40.758292605680424,-73.97468984608204
+rest_0941,Cafe American House,American,$$,Park Slope,Trendy,American restaurant in Park Slope with trendy atmosphere. $$ price range.,4.0,40.74502542461429,-73.90424189849162
+rest_0942,Kitchen Greek House,Greek,$,Queens,Fine Dining,Greek restaurant in Queens with fine dining atmosphere. $ price range.,4.9,40.71885406057493,-73.9327539501975
+rest_0943,Kitchen Lebanese Spot,Lebanese,$$,Queens,Cozy,Lebanese restaurant in Queens with cozy atmosphere. $$ price range.,3.7,40.79770069544389,-73.9898106899127
+rest_0944,Cafe Vietnamese Corner,Vietnamese,$$,Midtown,Outdoor seating,Vietnamese restaurant in Midtown with outdoor seating atmosphere. $$ price range.,4.0,40.70926254830514,-73.92516156503238
+rest_0945,Golden Garden,Chinese,$$$$,Williamsburg,Outdoor seating,Chinese restaurant in Williamsburg with outdoor seating atmosphere. $$$$ price range.,3.9,40.79145486638485,-73.95659790272913
+rest_0946,The American Spot,American,$,SoHo,Bar atmosphere,American restaurant in SoHo with bar atmosphere atmosphere. $ price range.,3.7,40.772344781785,-73.99909458384197
+rest_0947,Bistro Brazilian House,Brazilian,$,Midtown,Outdoor seating,Brazilian restaurant in Midtown with outdoor seating atmosphere. $ price range.,2.7,40.75894539894847,-73.93867083151126
+rest_0948,Cafe American Spot,American,$$,Bronx,Romantic,American restaurant in Bronx with romantic atmosphere. $$ price range.,3.0,40.77140527233781,-73.99086085136682
+rest_0949,Bistro Mediterranean Corner,Mediterranean,$$$,Astoria,Fine Dining,Mediterranean restaurant in Astoria with fine dining atmosphere. $$$ price range.,4.6,40.719927033646684,-73.91225299533455
+rest_0950,The French Corner,French,$$$,Midtown,Casual,French restaurant in Midtown with casual atmosphere. $$$ price range.,3.4,40.7270806328037,-73.975244022972
+rest_0951,Bistro Ethiopian Corner,Ethiopian,$$$,Park Slope,Cozy,Ethiopian restaurant in Park Slope with cozy atmosphere. $$$ price range.,3.4,40.70625262957429,-73.95410594834033
+rest_0952,Bistro American Spot,American,$$,Brooklyn,Fine Dining,American restaurant in Brooklyn with fine dining atmosphere. $$ price range.,4.5,40.76728716685981,-73.99188508214638
+rest_0953,The Ethiopian Place,Ethiopian,$$$$,Downtown,Family-friendly,Ethiopian restaurant in Downtown with family-friendly atmosphere. $$$$ price range.,5.2,40.795149071017676,-73.9161508166157
+rest_0954,Golden Kitchen,Chinese,$,Williamsburg,Casual,Chinese restaurant in Williamsburg with casual atmosphere. $ price range.,4.4,40.793271050813274,-73.94557460338864
+rest_0955,Kitchen Spanish Spot,Spanish,$$,Tribeca,Bar atmosphere,Spanish restaurant in Tribeca with bar atmosphere atmosphere. $$ price range.,4.4,40.72002820178676,-73.93832163921475
+rest_0956,The American Place,American,$$$,Queens,Outdoor seating,American restaurant in Queens with outdoor seating atmosphere. $$$ price range.,4.7,40.75214490241669,-73.99315412806665
+rest_0957,The Indian Place,Indian,$,Tribeca,Fast-casual,Indian restaurant in Tribeca with fast-casual atmosphere. $ price range.,4.7,40.737111293843014,-73.90792333915367
+rest_0958,Cafe American Corner,American,$$$$,Astoria,Romantic,American restaurant in Astoria with romantic atmosphere. $$$$ price range.,4.9,40.72688535143822,-73.96315510800835
+rest_0959,Bistro Mediterranean Spot,Mediterranean,$$$,Williamsburg,Family-friendly,Mediterranean restaurant in Williamsburg with family-friendly atmosphere. $$$ price range.,5.9,40.78953460891532,-73.93335369524732
+rest_0960,Kitchen Brazilian House,Brazilian,$$$$,Downtown,Fine Dining,Brazilian restaurant in Downtown with fine dining atmosphere. $$$$ price range.,3.8,40.76302472194561,-73.97516163912569
+rest_0961,Bistro Greek Spot,Greek,$$$$,Astoria,Family-friendly,Greek restaurant in Astoria with family-friendly atmosphere. $$$$ price range.,5.2,40.77054608302835,-73.95723986662966
+rest_0962,Bistro Indian House,Indian,$,Williamsburg,Fine Dining,Indian restaurant in Williamsburg with fine dining atmosphere. $ price range.,5.6,40.79362806214689,-73.99359936533914
+rest_0963,Kitchen American Corner,American,$$$$,Williamsburg,Bar atmosphere,American restaurant in Williamsburg with bar atmosphere atmosphere. $$$$ price range.,3.4,40.7824743237347,-73.97076168895879
+rest_0964,The Korean Spot,Korean,$$,Astoria,Upscale,Korean restaurant in Astoria with upscale atmosphere. $$ price range.,3.7,40.73010460778343,-73.94973687573699
+rest_0965,Bistro Thai Corner,Thai,$$$$,Williamsburg,Bar atmosphere,Thai restaurant in Williamsburg with bar atmosphere atmosphere. $$$$ price range.,4.0,40.705617607734744,-73.95089042706168
+rest_0966,Kitchen French House,French,$,Tribeca,Bar atmosphere,French restaurant in Tribeca with bar atmosphere atmosphere. $ price range.,3.6,40.76551737145243,-73.97397634020147
+rest_0967,Kitchen Brazilian Corner,Brazilian,$$$,Park Slope,Fine Dining,Brazilian restaurant in Park Slope with fine dining atmosphere. $$$ price range.,5.2,40.71594922625414,-73.98395373857288
+rest_0968,The American Place,American,$$$$,Midtown,Bar atmosphere,American restaurant in Midtown with bar atmosphere atmosphere. $$$$ price range.,4.6,40.78141256855911,-73.93148656901255
+rest_0969,The Vietnamese Corner,Vietnamese,$$$$,SoHo,Casual,Vietnamese restaurant in SoHo with casual atmosphere. $$$$ price range.,4.3,40.711043186341115,-73.97108125537041
+rest_0970,Kitchen Indian Spot,Indian,$,Brooklyn,Family-friendly,Indian restaurant in Brooklyn with family-friendly atmosphere. $ price range.,3.1,40.75150056597097,-73.94644461851203
+rest_0971,Bistro Spanish Spot,Spanish,$$$$,Queens,Romantic,Spanish restaurant in Queens with romantic atmosphere. $$$$ price range.,3.3,40.73568859751711,-73.96462108412636
+rest_0972,The American House,American,$$$$,Tribeca,Cozy,American restaurant in Tribeca with cozy atmosphere. $$$$ price range.,4.4,40.73077958316807,-73.90862115561268
+rest_0973,The Turkish Spot,Turkish,$$$$,Brooklyn,Trendy,Turkish restaurant in Brooklyn with trendy atmosphere. $$$$ price range.,4.4,40.795281501700245,-73.967325745797
+rest_0974,Bistro Ethiopian House,Ethiopian,$,Downtown,Outdoor seating,Ethiopian restaurant in Downtown with outdoor seating atmosphere. $ price range.,4.1,40.79411208125337,-73.91236805668578
+rest_0975,Kitchen American Spot,American,$,Queens,Upscale,American restaurant in Queens with upscale atmosphere. $ price range.,2.2,40.71025679625836,-73.96072692567286
+rest_0976,Cafe Spanish Corner,Spanish,$$$$,Williamsburg,Upscale,Spanish restaurant in Williamsburg with upscale atmosphere. $$$$ price range.,4.1,40.719386306793695,-73.91411832288318
+rest_0977,Kitchen Lebanese Spot,Lebanese,$$,Queens,Outdoor seating,Lebanese restaurant in Queens with outdoor seating atmosphere. $$ price range.,6.4,40.767694078299684,-73.91620916251482
+rest_0978,Cafe German House,German,$$,Manhattan,Family-friendly,German restaurant in Manhattan with family-friendly atmosphere. $$ price range.,4.3,40.743921060124975,-73.93894532449846
+rest_0979,Bamboo Ramen,Japanese,$,Brooklyn,Fast-casual,Japanese restaurant in Brooklyn with fast-casual atmosphere. $ price range.,4.5,40.716036540611974,-73.93263545825252
+rest_0980,Bamboo House,Japanese,$$,SoHo,Upscale,Japanese restaurant in SoHo with upscale atmosphere. $$ price range.,4.4,40.722959816075395,-73.98824486998498
+rest_0981,Kitchen French Place,French,$$$$,Park Slope,Upscale,French restaurant in Park Slope with upscale atmosphere. $$$$ price range.,3.3,40.7165284490143,-73.99980078647809
+rest_0982,The Greek Place,Greek,$$,Brooklyn,Upscale,Greek restaurant in Brooklyn with upscale atmosphere. $$ price range.,4.8,40.75149333499132,-73.98386371989446
+rest_0983,Bistro Korean House,Korean,$$$,Williamsburg,Outdoor seating,Korean restaurant in Williamsburg with outdoor seating atmosphere. $$$ price range.,4.7,40.70835543375107,-73.99808710335627
+rest_0984,Golden Kitchen,Chinese,$$$$,Tribeca,Cozy,Chinese restaurant in Tribeca with cozy atmosphere. $$$$ price range.,3.4,40.71053454844814,-73.97776386952519
+rest_0985,Zen House,Japanese,$$,Tribeca,Outdoor seating,Japanese restaurant in Tribeca with outdoor seating atmosphere. $$ price range.,3.0,40.751922457078024,-73.93922473169044
+rest_0986,The Turkish Corner,Turkish,$,Park Slope,Bar atmosphere,Turkish restaurant in Park Slope with bar atmosphere atmosphere. $ price range.,2.9,40.72195539232298,-73.90401371972867
+rest_0987,Bistro Lebanese House,Lebanese,$,SoHo,Outdoor seating,Lebanese restaurant in SoHo with outdoor seating atmosphere. $ price range.,3.5,40.76163004859257,-73.9443121556828
+rest_0988,Kitchen Vietnamese Spot,Vietnamese,$,Astoria,Fast-casual,Vietnamese restaurant in Astoria with fast-casual atmosphere. $ price range.,2.7,40.75409050038381,-73.9303570192964
+rest_0989,Cafe German House,German,$$$,Manhattan,Trendy,German restaurant in Manhattan with trendy atmosphere. $$$ price range.,2.5,40.77021460961818,-73.98283060922945
+rest_0990,Cafe American House,American,$$$,Downtown,Fast-casual,American restaurant in Downtown with fast-casual atmosphere. $$$ price range.,1.9,40.78705269662694,-73.93685810787817
+rest_0991,The American Corner,American,$,Manhattan,Fast-casual,American restaurant in Manhattan with fast-casual atmosphere. $ price range.,4.0,40.7532504066416,-73.98846053578211
+rest_0992,Cafe Turkish Spot,Turkish,$,Manhattan,Trendy,Turkish restaurant in Manhattan with trendy atmosphere. $ price range.,3.3,40.733720657556574,-73.98571580351857
+rest_0993,Cafe Mediterranean Corner,Mediterranean,$$$,Downtown,Fine Dining,Mediterranean restaurant in Downtown with fine dining atmosphere. $$$ price range.,4.2,40.76920736470244,-73.97937478861638
+rest_0994,Cafe Brazilian Place,Brazilian,$$$,Brooklyn,Trendy,Brazilian restaurant in Brooklyn with trendy atmosphere. $$$ price range.,4.7,40.720431638339896,-73.94921949360412
+rest_0995,Cafe French Corner,French,$,Bronx,Fine Dining,French restaurant in Bronx with fine dining atmosphere. $ price range.,3.8,40.741927166116604,-73.99818759589543
+rest_0996,Kitchen Lebanese Corner,Lebanese,$$$$,Williamsburg,Romantic,Lebanese restaurant in Williamsburg with romantic atmosphere. $$$$ price range.,6.1,40.76284264566146,-73.93113683706922
+rest_0997,The Thai House,Thai,$$$,Downtown,Trendy,Thai restaurant in Downtown with trendy atmosphere. $$$ price range.,3.1,40.72532723835227,-73.99900212233416
+rest_0998,Bistro French Place,French,$$$$,Williamsburg,Fast-casual,French restaurant in Williamsburg with fast-casual atmosphere. $$$$ price range.,4.2,40.783611770320725,-73.91786116370993
+rest_0999,Kitchen Ethiopian Spot,Ethiopian,$$,Williamsburg,Upscale,Ethiopian restaurant in Williamsburg with upscale atmosphere. $$ price range.,5.4,40.784332616778784,-73.95149053400205

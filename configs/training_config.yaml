@@ -1,0 +1,25 @@
+# Configuration file for training restaurant recommendation models
+
+# Random seed for reproducibility
+random_state: 42
+
+# Data configuration
+test_size: 0.2
+
+# Model configurations
+mf_components: 50
+als_factors: 50
+als_iterations: 15
+
+# Hybrid model weights
+hybrid_content_weight: 0.3
+hybrid_collaborative_weight: 0.7
+
+# Evaluation configuration
+evaluation:
+  k_values: [5, 10, 20]
+  plot_results: true
+  
+# Model saving configuration
+save_models: true
+save_encoders: true
